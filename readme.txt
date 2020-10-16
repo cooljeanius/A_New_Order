@@ -10,9 +10,9 @@ Known problems:
   completely and then start it again. If this won't help, contact me.
   Clearing wesnoth cache also helps.
 
-What this file contains: the credits and acknowledgments; how you can thank us;
-the ideas for new campaigns. Probably the only campaign with such a huge readme
-file :)
+What this file (readme.txt) contains: the credits and acknowledgments; how you
+can thank us; the ideas for new campaigns. Probably the only Wesnoth campaign
+with such a huge readme file :)
 
 Wesnoth demands that all content should be released under GPL license. GPL has
 specific conditions on "source"; however, it is not clear what is a "source"
