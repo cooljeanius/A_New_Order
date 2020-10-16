@@ -22,7 +22,7 @@ PORTRAITS
 * Generic Akladian unit with spears (Pikeneer, Warrior, Clansman, LightInfantry)
 * Generic leading units (Chieftain+leader - this is very low priority)
 * Another version of Karen picture (low priority, and it would be more expansive)
-* Khalifate (Boris) (low priority)
+* Dunefolk (Boris) (low priority)
 
 STORY IMAGES
 ------------
@@ -42,7 +42,7 @@ STORY IMAGES
 * Mother of Gawen and Akladians intriguing behind her back (for prologue)
 * Lorin next to poisoned Gawen (for prologue)
 * Lorin vs Karen finally getting along
-* images for the epilogue (Ruvios burial, Lorin riding to the khalifate
+* images for the epilogue (Ruvios burial, Lorin riding to the Dunefolk
   sietches with her son)
-* Lorin riding into a Khalifate sietch
+* Lorin riding into a Dunefolk sietch
 * furious Bor Cryne wishing for finding Gawen's body

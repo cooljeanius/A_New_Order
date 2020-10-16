@@ -252,7 +252,7 @@ were created by AxalaraFlame.
 Many of the Akladian faction sprites were corrected by Shadow/Wayfarer.
 Aragwaiths are units created and maintained by Shadow/Wayfarer.
 
-Khalifate were created by ?? 
+Dunefolk were created by ?? 
 
 Many thanks to ott for hinting how to fix campaign to be post 0.9.3 compatible.
 
