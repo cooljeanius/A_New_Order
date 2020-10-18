@@ -292,6 +292,9 @@ Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
 Kudos to testers: Turuk, t3st3r, and others.
 
 Currently, this fork of ANO is maintained by egallager (a.k.a. cooljeanius).
+Note that some of egallager's edits to this fork took place in a separate repo:
+his general wesnoth_mods repo, the link for which is here:
+https://github.com/cooljeanius/wesnoth_mods/tree/master/campaigns/A_New_Order
 Mainline ANO is maintained by the original author, that is me: A.D. "szopen"
 Danilecki. Beginning with Wesnoth 1.9 (ANO v. 1.2.x), ANO was maintained by
 Spencer Cooley 'TheSigil'. Before, ANO was maintained by Oto 'tapik' Buchta
