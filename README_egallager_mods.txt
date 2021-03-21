@@ -14,10 +14,33 @@ as there's a lot of other cleanups to be done, too:
 
 Anyways, here are my per-scenario notes:
 
-01 Breaking the Circle: (TODO: describe 2nd playthru edits)
-02 Fighting for Passage: (TODO: describe 2nd playthru edits)
+01 Breaking the Circle: gold/income tweaks, replace commenting-out of code with
+  ifdef-ing out of code (and removal), simplification of conditionals, add
+  "assassin" micro AI to the assassin.
+02 Fighting for Passage: tweaks to gold and turns, vary turns on which enemy 
+  leader is passive by difficulty, tweak AI parameters, and simplify conditionals.
+  I also did some funky stuff with the income levels, so that Gawen gets more gold
+  when he's not standing on a keep, and Raul's income increases with the logarithm
+  of the turn number. I also added the AI Controller to let the player try to
+  control their allied AI, so that it wouldn't steal kills (and thus EXP) as much.
+  This meant I had to give the allied AI a leader, too, for the AI controller to
+  work, but I managed to keep that from affecting the balance too much by making
+  that leader ignore keeps, so that I don't have to worry about recruiting or
+  anything. I only went with this fallback option of adding the AI controller
+  because I didn't know how to write a custom AI to prevent killstealing as
+  CelticMinstrel had originally suggested. Anyways, I also added the "assassin"
+  micro AI here, too, as I did in the first scenario, but I did not test that here,
+  as I had already killed the assassin in the first scenario. One more thing I did
+  was to vary Reme's tip about Shieldguards and Protectors by the time of day.
+  Also, with all the additional gold Gawen gets now due to my weird income
+  formulae, I also added an event to give Raul guards when he's attacked, so he
+  doesn't die as quickly (the number of guards here may need some further
+  tweaking). Finally, one thing I tried that doesn't work yet is to add a loyalty
+  check for the dialogue that plays when a clansman dies, in an attempt to make
+  the dialogue different for loyal clansmen. Unfortunately the "die" event might
+  be too late to make that sort of check, though...
 03 Coronation: Story only, no major changes.
-04 Battle of Barnon: (TODO: describe 2nd playthru edits)
+04 Battle of Barnon: Lots of changes here... (TODO: describe 2nd playthru edits)
 05 The Swamp Things: ADVICES.txt says it's not supposed to be hard, and that
   it's "easily winnable with proper tactics (and enough high-level loyal
   akladians)". Well guess what, I didn't have enough high-level loyal
@@ -34,6 +57,11 @@ Anyways, here are my per-scenario notes:
   actual changes to this scenario, it was a mixture of gold/turns tweaks, plus
   using the LIMIT_CONTEMPORANEOUS_RECRUITS macro, plus reducing AI aggression
   (along with other AI tweaks).
+05 Unexpected Guests: When I finally did a playthru where I chose this branching
+  path, I had much more gold left over from the Battle of Barnon, so I didn't have
+  to change this one as much. I did take some advice from Konrad2 on the forums,
+  though, and I added fog to make the "sighted" event work.
+06 Separation: just copyediting
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
   difficulty, other misc. changes
 14d Avenging Ruen: I forget
