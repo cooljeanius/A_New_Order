@@ -11,6 +11,7 @@ as there's a lot of other cleanups to be done, too:
  - general copyediting of text (it's mostly pretty well-written for a work
    authored by a non-native English speaker, but there's a lot of text, and
    typos slip thru...)
+ - ensuring all calls to {MESSAGE} use the CAPTION_TEXT parameter when relevant
 
 Anyways, here are my per-scenario notes:
 
@@ -40,7 +41,18 @@ Anyways, here are my per-scenario notes:
   the dialogue different for loyal clansmen. Unfortunately the "die" event might
   be too late to make that sort of check, though...
 03 Coronation: Story only, no major changes.
-04 Battle of Barnon: Lots of changes here... (TODO: describe 2nd playthru edits)
+04 Battle of Barnon: Lots of changes here... I varied some starting village radii
+  by difficulty, but not the ones for which it would be spoilers to do so, though.
+  Also, I simplified some ifdefs by using the {ON_DIFFICULTY} macro instead,
+  switched some commented-out code to be ifdef-ed out instead, edited the dialogue,
+  clarified some text about how the gold bonus/carryover works, switched the
+  ifdef-ed out events that punished the player for approaching Bor Cryne and
+  Uri van Roe to punish the player for directly attacking them instead, and only
+  after they have been warned about approaching them, gave the player some extra
+  castle and keep tiles on EASY, refunded the player the cost of evacuated loyal
+  units, made Lorin's gold bonus a bit bigger, updated Hoyre's AI, added an event
+  similar to S02's where the enemy's incomes get increased each turn, had Hoyre
+  leave behind some warriors upon fleeing, and... yeah, I think that's about it.
 05 The Swamp Things: ADVICES.txt says it's not supposed to be hard, and that
   it's "easily winnable with proper tactics (and enough high-level loyal
   akladians)". Well guess what, I didn't have enough high-level loyal
@@ -62,6 +74,12 @@ Anyways, here are my per-scenario notes:
   to change this one as much. I did take some advice from Konrad2 on the forums,
   though, and I added fog to make the "sighted" event work.
 06 Separation: just copyediting
+07 Ally From the Past: simplified conditionals, gold tweaks, copyediting.
+08 Outlaw Base: Gold tweaks, copyediting, switch commenting-out of code to
+  ifdef-ing it out instead.
+09 Hired Swords: Gold/income tweaks, copyediting, add a few additional lines of
+  dialogue to clear up inconsistencies left over from the Khalifate-to-Dunefolk
+  renaming.
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
   difficulty, other misc. changes
 14d Avenging Ruen: I forget
