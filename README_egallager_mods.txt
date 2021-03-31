@@ -5,9 +5,9 @@ necessarily hold true in general. I might have to take a second pass at this,
 as there's a lot of other cleanups to be done, too:
 
  - switching commenting-out of code to ifdef-ing out of code, or just removing
-   it
+   it (mostly done?)
  - "Khalifate" to "Dunefolk" renaming (done!)
- - varying more quantities by difficulty
+ - varying more quantities by difficulty (mostly done?)
  - general copyediting of text (it's mostly pretty well-written for a work
    authored by a non-native English speaker, but there's a lot of text, and
    typos slip thru...)
