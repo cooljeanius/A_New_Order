@@ -25,15 +25,16 @@ are incompatible with Wesnoth licensing scheme read the LICENSE.important.txt.
 ONCE AGAIN, _DO_ READ IT BEFORE WRITING US OR COMPLAINING. 
 
 The ART_authors.txt lists all the authors of the images and the music I could
-remember. You can sent me more names if you know them.
+remember. You can send me more names if you know them.
 
 This campaign contains mature themes. Do not allow your children play it.
 I have children and they do not play this campaign. Neither should yours.
-If you are child under 13, please do not play it. 
+If you are a child under 13, please do not play it. 
 
 Do not read the rest if you have not finished the campaign. It contains the 
-spoilers. If you spot here (or when playing a game) a spelling mistake or
-if you want to correct English, please report it at the forum.
+spoilers. If you spot a spelling mistake here (or when playing a game), or
+if you want to correct the English, please report it at the forum, or open
+a pull request on GitHub.
 
 HOW TO THANK US
 ---------------
@@ -45,19 +46,19 @@ opinion too. Remember, I and others actually *paid* our own money so you could
 enjoy this campaign for free.
 
 If you want to do something more, you can consider:
-* donate the WTactics, we took some GPL images from there.
-* donate the Wesnoth, this is a great game.
-* buy tracks from Mattias Westlund, we shamelessly used many of his tracks
+* donate to WTactics; we took some GPL images from there.
+* donate to Wesnoth; this is a great game.
+* buy tracks from Mattias Westlund; we shamelessly used many of his tracks
 * buy tracks from Christian Hellerberg
 * Well, Erik Rijshouwer does not sell his music as far as I know, but you can
-  sent him email saying how much you loved his pieces :) Of course, if you want
+  send him email saying how much you loved his pieces :) Of course, if you want
   to donate him a new porsche, do not hesitate, he will be happy I think. Same
   goes for Nick Humphrey. 
-* If you have artistic skills, consider making us an story image, portrait,
-  sprites, or sprite animations. We really need this!
-* If you are musician, consider composing a track for us. 
+* If you have artistic skills, consider making us a story image, portrait,
+  sprites, or sprite animations. We really need these!
+* If you are a musician, consider composing a track for us. 
 * If you want ANO to have better images, consider buying an image and sending
-  it to  us. We paid about 20-40USD per image, but be prepared that many
+  it to us. We paid about 20-40USD per image, but be prepared that many
   artists charge three times more. It takes time to find artists willing to do
   a quality portrait with an affordable price.
 * Correct typos, beta-test this, and make us famous by praising us. But I said
@@ -78,9 +79,9 @@ If you want to do something more, you can consider:
   my bank also charges for transferring to my account in moneybookers); 
   http://www.howtopayonline.org/moneybookers.html. Paypal charges percentage of
   the amount, I *think* it is about 5%. My account is "szopen@europe.com" -- if
-  you made a transfer, you may also consider to
-  sent a suggestion which portrait should be done next. TODO: Sigil's credit
-  card or account here as alternative payment form for a donation?
+  you made a transfer, you may also consider to send a suggestion for which
+  portrait should be done next. TODO: Sigil's credit card or account here as
+  an alternative payment form for a donation?
 
 Note that none of this is mandatory and you should under no circumstances feel
 obliged to do any of this. Saying you like it is enough to make us happy :) :)
@@ -103,20 +104,20 @@ Once Typhoon wanted to make a sequel for "A New Order". He has never finished
 this and his sequel is _not_ official.
 
 If you want to use ANO as base for your story, I suggest:
-* How Akladians conquered Wesnoth? How a band of barbarians could conquer
+* How did the Akladians conquer Wesnoth? How could a band of barbarians conquer
   a vast kingdom? This is great occassion to show how kings will hire Akladians
   to kill other kings, how they cut their own throats, not notifying that
   Akladians are something more than just barbarians you can hire to plunder
   your neighbours' countryside.
-* Ruvio's story screams to be written. How he became a famous rebel leader, who
-  is widely known amongst Wesnothian folk, but virtually unknown amongst
+* Ruvio's story screams to be written. How did he become a famous rebel leader,
+  who is widely known amongst Wesnothian folk, but virtually unknown amongst
   Akladians?
 * For a sequel, I have an outline of what should happen later. But I have no
   time to script it. If you want to write a campaign, contact me, we can
   discuss it. Yes, it should feature Gawen's son. It should also have his
   half-brothers. It should have Bor Cryne's son. But it will not be about how
-  Gawen son reclaims his throne. Just as in ANO there are some things hidden,
-  which had long bothered me and which probably nobody noticed; I have a list
+  Gawen's son reclaims his throne. Just as in ANO there are some things hidden,
+  which have long bothered me and which probably nobody noticed; I have a list
   of things which bother me now, and I would want to write them in a campaign.
   The campaign should also feature a prominent female Akladian. And a love
   story, too, of course :D, since both boys and girls love love stories.
@@ -152,8 +153,8 @@ Anyway, here you have some ideas which never went into the story, and various
 other remarks.  Some of those are results of discussion with Sigil. You may
 find them useful when creating a sequel or whatever.
 
-* Bor Cryne and Lorin supposed to be engaged as children, before Lorin's family
-  went to the Oracle and then got a better deal.
+* Bor Cryne and Lorin were supposed to be engaged as children, before Lorin's
+  family went to the Oracle and then got a better deal.
 * Bor Cryne has only one child. His other children died. He has no wife; she
   died giving him the last son and he never married again (unusual for
   Akladians).
@@ -171,7 +172,7 @@ find them useful when creating a sequel or whatever.
 * In Akladian culture, woman should know how to fight and they often do fight,
   when required. Lorin is not despised because she is a fighter. She is
   despised because she tries to carry her own politics, instead of silently
-  follow her family. In addition, she is blonde: this is extremely rare
+  following her family. In addition, she is blonde: this is extremely rare
   amongst Akladians, which means her clan is viewed with suspicion by other
   clans.
 * Akladians believe in one God, but they do not "worship" their God. They are
@@ -192,7 +193,7 @@ find them useful when creating a sequel or whatever.
   still OK thing or a honourable man to do. To escape from a battle -- no no
   no. To break a word given to an underling is OK. To break a word given to
   another "worthy" Akladian -- no no no. Basically they divide everything into
-  "worthy people" and the cattle. However, at the time of ANO they live
+  "worthy people" and the cattle. However, at the time of ANO they have lived
   amongst Wesnothian long enough to get influenced by other ideas of honour.
   But they are emphatically _not_ nice people. You wouldn't want them as your
   neigbours. 
@@ -213,7 +214,7 @@ find them useful when creating a sequel or whatever.
   live amongst the Wesnothians, it changes, but they still think about
   themselves as warriors (similar to how the English may think themselves to be
   cool, reserved people, despite the fact that most of them probably aren't.
-  Or how Poles think that archetypical Pole is romantic blue-eyed blonde
+  Or how Poles think that archetypical Pole is a romantic blue-eyed blonde
   knight :-D ).
 * Akladians initially had nomadic way of life. They had no settlements lasting 
   more than one season. While at time of ANO they have their villages and
@@ -237,17 +238,17 @@ find them useful when creating a sequel or whatever.
   several quirks like that in the story; whenever they contradict what I
   intended to do, or what I wrote here, the campaign version wins.
 
-Do you know what were the Lorin's questions to the Oracle? If so, you know
+Do you know what Lorin's questions to the Oracle were? If so, you know
 more than me, because I only remember the first and the last question, 
 and I am not sure about the second one.
 
 Do you know who betrayed Freetown's location? If so, you know more than me.
-I don't know. I never planned to know, in fact. Early on I had version of
+I don't know. I never planned to know, in fact. Early on I had a version of
 storyline in which the player had a chance to discover it, but I decided this
 version was bad and I abandoned it. If you want to be a maintainer, or if you
 want to create a sequel, then never, ever give a player chance to discover for
 sure who did that. You are allowed to give your own ideas, but make it clear
-this is someone's opinion, or one of possibilities.
+this is someone's opinion, or one of many possibilities.
 
 However, to make one thing clear: in scenario 19, when Lorin leaves Gawen, she
 does not go to the Akladians, or to Freetown.  Guess where she went to and
@@ -262,7 +263,8 @@ New sprites of Akladians were created by SleepWalker. New stats of Akladians
 were created by AxalaraFlame.
 
 Many of the Akladian faction sprites were corrected by Shadow/Wayfarer.
-Aragwaiths are units created and maintained by Shadow/Wayfarer.
+Aragwaiths were units created and maintained by Shadow/Wayfarer, but they have
+been removed.
 
 Dunefolk were created by ?? 
 
@@ -271,7 +273,8 @@ Many thanks to ott for hinting how to fix campaign to be post-0.9.3 compatible.
 Kudos to alxrem, ave, teldar, capitol, tomsik, scott, ott, tet, tapik, derek,
 malin keshar and especially unsung for spelling corrections and bug reporting.
 
-Outlaw is unit pack created and maintained by Shadow and Scott.
+Outlaws were originally a unit pack created and maintained by Shadow and Scott
+(they are mainline now, though).
 
 Many thanks for torangan for patience in explaining translation issues.
 
