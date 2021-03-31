@@ -81,17 +81,56 @@ Anyways, here are my per-scenario notes:
   dialogue to clear up inconsistencies left over from the Khalifate-to-Dunefolk
   renaming.
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
-  difficulty, other misc. changes
-14d Avenging Ruen: I forget
-17 Sneaking out of Raedwood: I forget
+  difficulty, other misc. changes (e.g. copyediting)
+11 Council in Freetown: copyediting, and added message captions
+12 Leaving Raedwood: turns/gold/income tweaks
+13 Scouting: copyediting
+14a Scouting Near Barnon: copyediting, turns/gold/income tweaks, simplify ifdefs,
+  message captions, allow undoing if choosing not to withdraw at the signpost, vary
+  loot amounts by difficulty
+14b Bontom: copyediting, message captions, turns/gold/income tweaks, simplify
+  ifdefs, vary price for paying for Reme by difficulty, allow undo at signpost, 
+  correct wording of quote from book, vary loot amounts by difficulty, adjust
+  bandit recruit lists and AI, use LIMIT_CONTEMPORANEOUS_RECRUITS, vary starting
+  villages radii by difficulty
+14c She-Wolf of Haeltin: copyediting
+14d Avenging Ruen: I forget my first pass... second pass included turns tweaks,
+  message captions, and allowing undoing at the signpost
+14e Saorduc Swamps: vary lizard gold amounts by difficulty, turns/gold/incomes
+  tweaks, vary starting villages radii by difficulty, saurian AI tweaks, modify
+  the terrain a bit on EASY (extra villages and road), copyediting, add an event
+  on EASY that causes the saurians to get nerfed by the cold, allow undoing at
+  the signpost
+15 Back in Freetown: copyediting, message captions
+15a The Preparations: message captions
+15b Repelling the Orcs: gold/income tweaks, one additional message caption
+16 Choosing the Best: copyediting, add additional note to warn about unrecalled
+  troops
+17 Sneaking out of Raedwood: I forget my first pass... second pass included
+  copyediting, message captions, varying AI params by difficulty, turns/gold
+  tweaks, and more. I also made the side that hates forests avoid them entirely
+  on EASY, simplified some ifdefs, used LIMIT_CONTEMPORANEOUS_RECRUITS, varied
+  some loot amounts by difficulty, and, um... yeah, I think that's it.
+18 Start of the Quest: copyediting, vary Hans's experience by difficulty, clarify
+  about how only one route to Okladia can be picked, and the difference between
+  them (hills vs. forest)
 19a The Woods of Okladia: I think this was around where enemy sides started
   to get Wondermen, and since they are extremely deadly, I had to put a limit
   on them, and let the enemy Akladians recruit Holymen as an alternate healer
   instead. (I also did likewise in later scenarios)
+19b Entering Okladia: Tried to do the same changes as in 19a here as well
 19c The Oracle: I varied all the starting units' hitpoints and experience with
-  difficulty.
+  difficulty on my first pass. On my second pass I did copyediting, added message
+  captions, and tweaked the turns.
+20 Okladia: copyediting, vary gold amounts with difficulty 
 21a Abducted Bride: I gave the player consolation units for any missing recalls
-  they might have, and also added some extra villages.
+  they might have, and also added some extra villages. On a second pass I
+  added message captions, and... that was pretty much it the second time.
+21b Haunted Place: gold/income tweaks, AI tweaks, tried (and failed) to get the
+  AI to recruit more than just Revenants, simplification of ifdefs, message
+  captions, allow undoing at the signpost, vary loot amount by difficulty
+21c Ruins of the Past: minor copyediting
+21d Ruins of Weldyn: minor copyediting
 22 Leaving Okladia: Lots of tweaks; hard to summarize
 23 Trapped: Made it easier to hire the Dunefolk and made it more rewarding to
   do so.
