@@ -131,11 +131,21 @@ Anyways, here are my per-scenario notes:
   captions, allow undoing at the signpost, vary loot amount by difficulty
 21c Ruins of the Past: minor copyediting
 21d Ruins of Weldyn: minor copyediting
-22 Leaving Okladia: Lots of tweaks; hard to summarize
-23 Trapped: Made it easier to hire the Dunefolk and made it more rewarding to
-  do so.
+22 Leaving Okladia: First pass: lots of tweaks; hard to summarize. Second pass:
+  copyediting, message captions, minor gold tweak, update commentary
+23 Trapped: First pass: made it easier to hire the Dunefolk, and made it more
+  rewarding to do so. Second pass: copyediting, message captions, simplify ifdefs,
+  fix indentation, and... yeah I think that's it.
+24 Fall of Freetown: copyediting, message captions
 25 The Awakening: Gave the AI some other goals besides just targeting Gawen,
-  to prevent Huon from getting to their leaders before you do.
+  to prevent Huon from getting to their leaders before you do. That was on my
+  first pass, at least. On my second pass, I did copyediting, message captions,
+  gave gold for capturing villages to go along with the peasants, tweaked the AI
+  even further and added the AI controller, fixed up some unit creation
+  coordinates, gave Huon an extra village, gave Huon extra gold when he loses
+  units, prevented Huon from moving outside his keep, and gave Huon some extra
+  gold and peasants when attacked.
+26 Return of the King: copyediting, message captions
 27 Orannon: Prevent Mal-Raylal from reviving on EASY; lots of other changes,
   too.
 
