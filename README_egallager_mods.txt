@@ -12,6 +12,8 @@ as there's a lot of other cleanups to be done, too:
    authored by a non-native English speaker, but there's a lot of text, and
    typos slip thru...)
  - ensuring all calls to {MESSAGE} use the CAPTION_TEXT parameter when relevant
+   (done from about halfway thru until the end; need to go back to fix up the
+   beginning though)
 
 Anyways, here are my per-scenario notes:
 
@@ -146,8 +148,12 @@ Anyways, here are my per-scenario notes:
   units, prevented Huon from moving outside his keep, and gave Huon some extra
   gold and peasants when attacked.
 26 Return of the King: copyediting, message captions
-27 Orannon: Prevent Mal-Raylal from reviving on EASY; lots of other changes,
-  too.
+27 Orannon: First pass: prevent Mal-Raylal from reviving on EASY; lots of other
+  changes, too. Second pass: message captions, tweak recruitment patterns, give
+  Huon gold when he's attacked, allow units to destroy bridges, give player more
+  favorable terrain.
+28 Lorin: copyediting, message captions
+29 Epilogue: minor copyediting
 
 Also, I forget which scenario this was, but there was a point in the campaign
 where you were reduced to only being able to recruit peasants, and I got tired
