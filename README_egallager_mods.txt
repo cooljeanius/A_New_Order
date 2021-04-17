@@ -19,7 +19,7 @@ Anyways, here are my per-scenario notes:
 
 01 Breaking the Circle: gold/income tweaks, replace commenting-out of code with
   ifdef-ing out of code (and removal), simplification of conditionals, add
-  "assassin" micro AI to the assassin.
+  "assassin" micro AI to the assassin, add message captions.
 02 Fighting for Passage: tweaks to gold and turns, vary turns on which enemy 
   leader is passive by difficulty, tweak AI parameters, and simplify conditionals.
   I also did some funky stuff with the income levels, so that Gawen gets more gold
