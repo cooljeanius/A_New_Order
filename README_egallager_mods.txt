@@ -76,7 +76,8 @@ Anyways, here are my per-scenario notes:
   to change this one as much. I did take some advice from Konrad2 on the forums,
   though, and I added fog to make the "sighted" event work.
 06 Separation: just copyediting
-07 Ally From the Past: simplified conditionals, gold tweaks, copyediting.
+07 Ally From the Past: simplified conditionals, gold tweaks, copyediting, message
+  captions
 08 Outlaw Base: Gold tweaks, copyediting, switch commenting-out of code to
   ifdef-ing it out instead.
 09 Hired Swords: Gold/income tweaks, copyediting, add a few additional lines of
