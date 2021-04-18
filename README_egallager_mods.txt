@@ -79,10 +79,10 @@ Anyways, here are my per-scenario notes:
 07 Ally From the Past: simplified conditionals, gold tweaks, copyediting, message
   captions
 08 Outlaw Base: Gold tweaks, copyediting, switch commenting-out of code to
-  ifdef-ing it out instead.
+  ifdef-ing it out instead, add message captions
 09 Hired Swords: Gold/income tweaks, copyediting, add a few additional lines of
   dialogue to clear up inconsistencies left over from the Khalifate-to-Dunefolk
-  renaming.
+  renaming, add message captions
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
   difficulty, other misc. changes (e.g. copyediting)
 11 Council in Freetown: copyediting, and added message captions
