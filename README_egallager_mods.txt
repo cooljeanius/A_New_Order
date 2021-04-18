@@ -84,7 +84,7 @@ Anyways, here are my per-scenario notes:
   dialogue to clear up inconsistencies left over from the Khalifate-to-Dunefolk
   renaming, add message captions
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
-  difficulty, other misc. changes (e.g. copyediting)
+  difficulty, other misc. changes (e.g. copyediting and message captions)
 11 Council in Freetown: copyediting, and added message captions
 12 Leaving Raedwood: turns/gold/income tweaks
 13 Scouting: copyediting
