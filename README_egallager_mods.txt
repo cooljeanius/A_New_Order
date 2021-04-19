@@ -5,15 +5,15 @@ necessarily hold true in general. I might have to take a second pass at this,
 as there's a lot of other cleanups to be done, too:
 
  - switching commenting-out of code to ifdef-ing out of code, or just removing
-   it (mostly done?)
+   it (done!)
  - "Khalifate" to "Dunefolk" renaming (done!)
- - varying more quantities by difficulty (mostly done?)
+ - varying more quantities by difficulty (done!)
  - general copyediting of text (it's mostly pretty well-written for a work
    authored by a non-native English speaker, but there's a lot of text, and
    typos slip thru...)
  - ensuring all calls to {MESSAGE} use the CAPTION_TEXT parameter when relevant
-   (done from about halfway thru until the end; need to go back to fix up the
-   beginning though)
+   (done with all the easy-to-fix ones; some of the harder-to-fix ones still
+   remain, though)
 
 Anyways, here are my per-scenario notes:
 
