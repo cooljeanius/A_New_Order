@@ -87,7 +87,7 @@ Anyways, here are my per-scenario notes:
   difficulty, other misc. changes (e.g. copyediting and message captions)
 11 Council in Freetown: copyediting, and added message captions
 12 Leaving Raedwood: turns/gold/income tweaks
-13 Scouting: copyediting
+13 Scouting: copyediting, message captions
 14a Scouting Near Barnon: copyediting, turns/gold/income tweaks, simplify ifdefs,
   message captions, allow undoing if choosing not to withdraw at the signpost, vary
   loot amounts by difficulty
@@ -103,7 +103,7 @@ Anyways, here are my per-scenario notes:
   tweaks, vary starting villages radii by difficulty, saurian AI tweaks, modify
   the terrain a bit on EASY (extra villages and road), copyediting, add an event
   on EASY that causes the saurians to get nerfed by the cold, allow undoing at
-  the signpost
+  the signpost, add message captions
 15 Back in Freetown: copyediting, message captions
 15a The Preparations: message captions
 15b Repelling the Orcs: gold/income tweaks, one additional message caption
@@ -124,16 +124,22 @@ Anyways, here are my per-scenario notes:
 19b Entering Okladia: Tried to do the same changes as in 19a here as well
 19c The Oracle: I varied all the starting units' hitpoints and experience with
   difficulty on my first pass. On my second pass I did copyediting, added message
-  captions, and tweaked the turns.
-20 Okladia: copyediting, vary gold amounts with difficulty 
+  captions, and tweaked the turns. On a third pass I allowed the Oracle's forces
+  to recruit City Militia (since I was kind of disappointed they weren't used
+  more throughout the campaign), and adjusted recruitment patterns to ensure all
+  available recruits could be recruited. 
+20 Okladia: copyediting, vary gold amounts with difficulty, give Deorien extra
+  traits on EASY
 21a Abducted Bride: I gave the player consolation units for any missing recalls
   they might have, and also added some extra villages. On a second pass I
   added message captions, and... that was pretty much it the second time.
-21b Haunted Place: gold/income tweaks, AI tweaks, tried (and failed) to get the
-  AI to recruit more than just Revenants, simplification of ifdefs, message
-  captions, allow undoing at the signpost, vary loot amount by difficulty
-21c Ruins of the Past: minor copyediting
-21d Ruins of Weldyn: minor copyediting
+  On a third pass, since I had Elorain this time, I tried making her faster, so
+  as to reach the peasant girl more quickly.
+21b Haunted Place: gold/income tweaks, AI tweaks, adjusted the recruitment pattern
+  to get the AI to recruit more than just Revenants, simplification of ifdefs,
+  message captions, allow undoing at the signpost, vary loot amount by difficulty
+21c Ruins of the Past: minor copyediting, give Maurice & Alarice traits on EASY
+21d Ruins of Weldyn: minor copyediting, give Maurice & Alarice traits on EASY
 22 Leaving Okladia: First pass: lots of tweaks; hard to summarize. Second pass:
   copyediting, message captions, minor gold tweak, update commentary
 23 Trapped: First pass: made it easier to hire the Dunefolk, and made it more
@@ -156,12 +162,12 @@ Anyways, here are my per-scenario notes:
 28 Lorin: copyediting, message captions
 29 Epilogue: minor copyediting
 
-Also, I forget which scenario this was, but there was a point in the campaign
-where you were reduced to only being able to recruit peasants, and I got tired
-of that and added back the ability to recruit fencers earlier than was
-intended, so now I'll probably want to edit a message in S24 (Fall of Freetown)
-to reflect that (I didn't do that my first time thru though, because it's a
-story-only scenario)
+Also, I forget which scenario this was (S19c: The Oracle, perhaps?), but there
+was a point in the campaign where you were reduced to only being able to recruit
+peasants, and I got tired of that and added back the ability to recruit fencers
+earlier than was intended, so now I'll probably want to edit a message in
+S24 (Fall of Freetown) to reflect that (I didn't do that my first time thru
+though, because it's a story-only scenario)
 
 Note that some of my edits to this fork took place in a separate repo before I
 decided to make it a separate add-on. These edits were in my general
