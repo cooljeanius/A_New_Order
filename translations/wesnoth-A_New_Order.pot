@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-04-21 04:35 UTC\n"
+"POT-Creation-Date: 2021-04-21 04:59 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9719,72 +9719,73 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1133
-msgid "Do not worry, I will be soon back, with reinforcements!"
+msgid "Do not worry, I will soon be back, with reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1137
+#. I'm guessing Bor Cryne is wondering if Hoyre's mother was actually Wesnothian?
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1138
 msgid "This Hoyre... Sometimes I wonder whether his mother... It seems, Uri, that we will have to finish this on our own."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1177
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1178
 msgid "yet he is still alive"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1180
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1181
 msgid "pikeneer"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1183
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1184
 msgid "protector"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1186
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1187
 msgid "clansman"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1189
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1190
 msgid "shieldguard"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1192
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1193
 msgid "homeguard"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1195
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1196
 msgid "raider"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1198
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1199
 msgid "light infantryman"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1201
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1228
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1202
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1229
 msgid "warrior"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1204
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1205
 msgid "fastfoot"
 msgstr ""
 
@@ -9792,9 +9793,9 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1207
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1210
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1213
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1208
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1211
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1214
 msgid "underling"
 msgstr ""
 
@@ -9802,31 +9803,31 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1216
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1220
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1224
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1217
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1221
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1225
 msgid "witch, his stepmother"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1217
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1221
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1225
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1218
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1222
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1226
 msgid "yet she is still alive"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1235
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1236
 msgid "This underling has incredible luck!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1236
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1237
 msgid "What do you mean, Bor?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1237
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1238
 msgid "I don't know how to explain this. But... For example, I was so sure our warriors will kill that $tmp, $tmpg|!"
 msgstr ""
 
@@ -15620,7 +15621,7 @@ msgstr ""
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
 #: A_New_Order/about.cfg:229
-msgid "Father or Luke Skywalker"
+msgid "Father of Luke Skywalker"
 msgstr ""
 
 #. [about]
