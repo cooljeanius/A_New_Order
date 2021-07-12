@@ -29,7 +29,7 @@ PORTRAITS
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * older-looking mage for the medic who heals Gawen (low priority)
 * portraits for some of the less-important units with descriptive names, e.g.
-  "John the Baldhead" and "Fat Bart" (low priority)
+  "John the Baldhead", "Fat Bart", and "Robert the Hefty" (low priority)
 
 STORY IMAGES
 ------------
