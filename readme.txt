@@ -34,7 +34,10 @@ If you are a child under 13, please do not play it.
 Do not read the rest if you have not finished the campaign. It contains the 
 spoilers. If you spot a spelling mistake here (or when playing a game), or
 if you want to correct the English, please report it at the forum, or open
-a pull request on GitHub.
+a pull request on GitHub. For reference, the link to the forum thread is here:
+https://forums.wesnoth.org/viewtopic.php?f=8&t=6486
+...and the link to Yumi's official GitHub repo for this campaign is here:
+https://github.com/nemaara/A_New_Order
 
 HOW TO THANK US
 ---------------
