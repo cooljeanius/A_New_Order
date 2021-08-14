@@ -1,10 +1,5 @@
 Note: this file is outdated; see the bugtracker on GitHub instead 
 
-in scenario 3 Coronation, a log message was asking for a missing
-terrain/desert_crater.png file, but actually adding such a file... well, it looks
-weird, and I don't know where it's being requested from, as grepping this repo
-for the filename only matches this file...
-
 in scenario 4 Battle_of_Barnon, you can send Lorin and Reme west, and all the rest
 to the east, but still they are happily reunited in the next scenario.
 (at least there's code preventing Reme and Lorin from being separated like that)
