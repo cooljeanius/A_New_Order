@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-06-02 02:19 UTC\n"
+"POT-Creation-Date: 2022-06-02 02:51 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -607,12 +607,14 @@ msgid "race^Akladians"
 msgstr ""
 
 #. [race]: id=akladian
+#. Most of the new additions to this male_names list are just taken from names that were hardcoded elsewhere in the campaign:
 #: A_New_Order/units/_main.cfg:17
-msgid "Reuke,Aorenor,Reme,Terao,Aoeree,Reeoe,Larao,Borien,Rouenoe,Eoleree,Leenore,Oreoke,Lauroe,Rumethe,Theorien,Rukeen,Aeorei,Raori,Neiae,Ien,Ian,Iain,Ioeneree,Karnee,Kromoe,Kreneo,Savireo,Raulien,Urenaye,Yeorgh,Yeorimo,Quenerien,Thurimarien,Mariaele,Orieo,Boraeo,Uriliaen,Eoremar,Rioulien,Naiyen,Barukee,Rauoli,Graeme,Graukin,Ruke,Urke,Erke,Reeanoo,Mareele,Eolan,Eolorien,Iree,Stromeoeo,Reonee,Raoke,Oyre,Auree,Aueree,Oeme,Moro,Moreo,Nome,Oeame,Roule,Moerro,Urheare,Mirro,Umeari,Rioto,Lioato,Moerre,Reuluigi,Raole,Quivre,Kariv,Rouke,Raban,Marlin,Burke,Barien,Eesterregge,Barbarbar,Burien,Telen,Dulen,Beren,Buren,Boren,Rebarnon,Wutan,Askarial,Bark,Rurk,Rauke,Dauri,Conan,Larkin,Aire,Raven,Rumpel,Cimper,Camper,Gauri,Attila,Alaric,Odoacer,Theodoric,Gaeseric,Geiseric,Genseeriec,Euriac,Odaovacer,Totila,Huneric,Hilderic,Beowuelfe,Atreides,Enkidu,Tamerlan,Timuree,Turanee,Kimeree,Skythike,Touman,Arglebargle,Aeioeeu,Aieoiu,Genghis,Kublai,Eeoeeu"
+msgid "Reuke,Aorenor,Reme,Terao,Aoeree,Reeoe,Larao,Borien,Rouenoe,Eoleree,Leenore,Oreoke,Lauroe,Rumethe,Theorien,Rukeen,Aeorei,Raori,Neiae,Ien,Ian,Iain,Ioeneree,Karnee,Kromoe,Kreneo,Savireo,Raulien,Urenaye,Yeorgh,Yeorimo,Quenerien,Thurimarien,Mariaele,Orieo,Boraeo,Uriliaen,Eoremar,Rioulien,Naiyen,Barukee,Rauoli,Graeme,Graukin,Ruke,Urke,Erke,Reeanoo,Mareele,Eolan,Eolorien,Iree,Stromeoeo,Reonee,Raoke,Oyre,Auree,Aueree,Oeme,Moro,Moreo,Nome,Oeame,Roule,Moerro,Urheare,Mirro,Umeari,Rioto,Lioato,Moerre,Reuluigi,Raole,Quivre,Kariv,Rouke,Raban,Marlin,Burke,Barien,Eesterregge,Barbarbar,Burien,Telen,Dulen,Beren,Buren,Boren,Rebarnon,Wutan,Askarial,Bark,Rurk,Rauke,Dauri,Conan,Larkin,Aire,Raven,Rumpel,Cimper,Camper,Gauri,Attila,Alaric,Odoacer,Theodoric,Gaeseric,Geiseric,Genseeriec,Euriac,Odaovacer,Totila,Huneric,Hilderic,Beowuelfe,Atreides,Enkidu,Tamerlan,Timuree,Turanee,Kimeree,Skythike,Touman,Arglebargle,Aeioeeu,Aieoiu,Genghis,Kublai,Eeoeeu,Barburien,Trevoree,Burbarurkian"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:18
+#. I don't think this female_names list actually gets used anywhere; feel free to skip:
+#: A_New_Order/units/_main.cfg:19
 msgid "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena,Nemaara,Xena,Ayla"
 msgstr ""
 
@@ -1417,9 +1419,9 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:219
 #: A_New_Order/macros/ano-20macros.cfg:239
 #: A_New_Order/macros/ano-20macros.cfg:256
-#: A_New_Order/scenarios/25_The_Awakening.cfg:937
-#: A_New_Order/scenarios/25_The_Awakening.cfg:953
-#: A_New_Order/scenarios/25_The_Awakening.cfg:969
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1038
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1054
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1070
 #: A_New_Order/scenarios/23_Trapped.cfg:604
 #: A_New_Order/scenarios/23_Trapped.cfg:620
 #: A_New_Order/scenarios/23_Trapped.cfg:636
@@ -1435,9 +1437,9 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:224
 #: A_New_Order/macros/ano-20macros.cfg:244
 #: A_New_Order/macros/ano-20macros.cfg:261
-#: A_New_Order/scenarios/25_The_Awakening.cfg:942
-#: A_New_Order/scenarios/25_The_Awakening.cfg:958
-#: A_New_Order/scenarios/25_The_Awakening.cfg:974
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1043
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1059
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1075
 #: A_New_Order/scenarios/23_Trapped.cfg:610
 #: A_New_Order/scenarios/23_Trapped.cfg:626
 #: A_New_Order/scenarios/23_Trapped.cfg:642
@@ -1757,8 +1759,8 @@ msgstr ""
 #: A_New_Order/scenarios/20_Okladia.cfg:309
 #: A_New_Order/scenarios/20_Okladia.cfg:359
 #: A_New_Order/scenarios/20_Okladia.cfg:407
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1009
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1037
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1110
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1138
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:49
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:568
@@ -3708,7 +3710,7 @@ msgstr ""
 
 #. [event]
 #. similar to the usual "time over" message:
-#: A_New_Order/scenarios/25_The_Awakening.cfg:690
+#: A_New_Order/scenarios/25_The_Awakening.cfg:791
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:945
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:534
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:852
@@ -3722,7 +3724,7 @@ msgstr ""
 
 #. [unit]: type=Lord Bor Cryne, id=Bor Cryne
 #. [side]: id=Bor Cryne, type=Lord Bor Cryne
-#: A_New_Order/scenarios/25_The_Awakening.cfg:709
+#: A_New_Order/scenarios/25_The_Awakening.cfg:810
 #: A_New_Order/scenarios/03_Coronation.cfg:129
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:245
 #: A_New_Order/scenarios/27_Orannon.cfg:123
@@ -3730,288 +3732,288 @@ msgid "Bor Cryne"
 msgstr ""
 
 #. [unit]: type=Akladian Sturmknight, id=Bors Brien
-#: A_New_Order/scenarios/25_The_Awakening.cfg:724
+#: A_New_Order/scenarios/25_The_Awakening.cfg:825
 msgid "Bors Brien"
 msgstr ""
 
 #. [unit]: type=Akladian Darknite, id=Bors Dark
-#: A_New_Order/scenarios/25_The_Awakening.cfg:738
+#: A_New_Order/scenarios/25_The_Awakening.cfg:839
 msgid "Bors Dark"
 msgstr ""
 
 #. [unit]: type=Akladian Wonderman, id=Bors Wonder
-#: A_New_Order/scenarios/25_The_Awakening.cfg:746
+#: A_New_Order/scenarios/25_The_Awakening.cfg:847
 msgid "Bors Wonder"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:751
+#: A_New_Order/scenarios/25_The_Awakening.cfg:852
 msgid "Curses! We are too late."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:752
+#: A_New_Order/scenarios/25_The_Awakening.cfg:853
 msgid "Should we attack, my lord?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:753
+#: A_New_Order/scenarios/25_The_Awakening.cfg:854
 msgid "No. As usual, Hoyre screwed up everything he possibly could. We will withdraw to the north, and wait until Grekulak arrives to help us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:756
+#: A_New_Order/scenarios/25_The_Awakening.cfg:857
 msgid "My king, I've heard that some of people of Wesnoth have started to take revenge on their own. A few Akladian villages were massacred south of Freetown. What will you do?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:757
+#: A_New_Order/scenarios/25_The_Awakening.cfg:858
 msgid "And what do you think he could do? People want revenge, so..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:758
+#: A_New_Order/scenarios/25_The_Awakening.cfg:859
 msgid "Revenge on whom? On innocent woman and children?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:759
+#: A_New_Order/scenarios/25_The_Awakening.cfg:860
 msgid "Innocent? No Akladian is innocent! Even if they didn't participate in the massacres, maybe their husbands or uncles did, and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:760
+#: A_New_Order/scenarios/25_The_Awakening.cfg:861
 msgid "How many Wesnothians have been brought back from the dead by the killing of Akladian children, Huon? I lost whole family in Freetown. But I don't want to avenge them by killing families of innocent people. It will not bring them back."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:761
+#: A_New_Order/scenarios/25_The_Awakening.cfg:862
 msgid "You have to react, my king. If you won't stop this, Akladians with turn away from you and there will be another round of civil war."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:762
+#: A_New_Order/scenarios/25_The_Awakening.cfg:863
 msgid "Punish them? Why? They acted out of despair and anger, they lost their whole families at the hands of Akladians, how can you punish them? If you do, a lot of the Wesnothians will turn away from you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:763
+#: A_New_Order/scenarios/25_The_Awakening.cfg:864
 msgid "I now declare amnesty for everyone. But from this moment forward, anyone who wants to spill innocent blood will be hunted by me and my people. People who have already committed crimes should go make a pilgrimage to the Oracle to ask for forgiveness."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:764
+#: A_New_Order/scenarios/25_The_Awakening.cfg:865
 msgid "THIS is supposed to be a punishment? Akladians won't like it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:765
+#: A_New_Order/scenarios/25_The_Awakening.cfg:866
 msgid "I am the messiah. Any Akladians who would contest my words are tools of evil and will never be admitted to the land of their ancestors."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:766
+#: A_New_Order/scenarios/25_The_Awakening.cfg:867
 msgid "Messiah? You do not actually believe that!?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:767
+#: A_New_Order/scenarios/25_The_Awakening.cfg:868
 msgid "Huon, the proper way to address your king is 'your majesty' - or at the least 'my king'. Deorien was right all the time, now I see it clearly. Akladians might rebel against their king and they might definitely rebel against a king of mixed blood. But they cannot rebel against the hand of God on earth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:768
+#: A_New_Order/scenarios/25_The_Awakening.cfg:869
 msgid "The way to Vattin is free of enemies. Let's go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:779
+#: A_New_Order/scenarios/25_The_Awakening.cfg:880
 msgid "Vojta"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:789
+#: A_New_Order/scenarios/25_The_Awakening.cfg:890
 msgid "Kuba"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:799
+#: A_New_Order/scenarios/25_The_Awakening.cfg:900
 msgid "Matej"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:810
+#: A_New_Order/scenarios/25_The_Awakening.cfg:911
 msgid "Rumpel"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:819
+#: A_New_Order/scenarios/25_The_Awakening.cfg:920
 msgid "Cimper"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:828
+#: A_New_Order/scenarios/25_The_Awakening.cfg:929
 msgid "Camper"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:838
+#: A_New_Order/scenarios/25_The_Awakening.cfg:939
 #: A_New_Order/scenarios/27_Orannon.cfg:1565
 msgid "My king, we could really use some help here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:844
+#: A_New_Order/scenarios/25_The_Awakening.cfg:945
 #: A_New_Order/scenarios/27_Orannon.cfg:1571
 msgid "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:858
+#: A_New_Order/scenarios/25_The_Awakening.cfg:959
 msgid "The barbarians attack me! I need help NOW!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:919
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1020
 msgid "Aaah!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:920
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1021
 msgid "What? Mother, are you hurt?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:921
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1022
 msgid "No... I'm ok... I'm ok... It was nothing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:922
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1023
 msgid "But what that? Are you wounded?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:923
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1024
 msgid "No, Gawen, I've told you I'm OK!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:924
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1025
 msgid "The witch most likely accidentally drank a poison she was preparing for someone else."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:925
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1026
 msgid "No, my lord. I think I know what's happening with your step-mother, but if she does not want to tell you, neither will I. But be prepared... she may not be able to fight in some of the battles which await us in future."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:926
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1027
 msgid "Underling, be silent. You know nothing. You all know nothing. I will fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:984
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1085
 msgid "No! I haven't avenged my family!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:992
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1093
 msgid "Stop! Don't kill me! I will give you a lot of gold if you will spare me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:993
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1094
 msgid "Were you at Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:994
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1095
 msgid "NO! That was Bor Cryne! Don't kill me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:995
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1096
 msgid "I am an empty shell."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1001
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1102
 msgid "Before you will pass, I want to ask you one very simple question. Were you with the Akladian army which burned Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1002
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1103
 msgid "No! No! That was Bor Cryne, I swear! I wasn't there!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1005
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1034
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1106
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1135
 msgid "Well.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1006
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1035
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1107
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1136
 msgid "Where is Bor Cryne?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1007
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1036
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1108
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1137
 msgid "Who gave you the location of Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1008
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1109
 msgid "Do you know who poisoned my mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1012
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1113
 msgid "Whenever he is, he should be here instead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1014
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1042
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1115
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1143
 msgid "I don't know! I wasn't at Freetown, really!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1016
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1117
 msgid "I don't know! But Uri van Roe or Bor Cryne may know something about that..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1029
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1130
 msgid "Don't kill me, Lorin! I knew you when you were a little child, I even played games with you when you were small..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1030
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1131
 msgid "You should've killed me then, when you still had the chance."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1040
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1141
 msgid "Whenever he is, he should be here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1056
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1157
 msgid "You truly are worthy to be our king! The Oracle was right! I never should have listened to Hoyre...."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1075
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1176
 msgid "How could this be possible?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1084
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1185
 msgid "I should've stayed in hills in the north..."
 msgstr ""
 
