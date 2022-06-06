@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-06-06 06:16 UTC\n"
+"POT-Creation-Date: 2022-06-06 21:33 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10368,7 +10368,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1519
-msgid "How did you manage to kill Hoyre? This shouldn't happen... Hoyre was supposed to run away when approached. Mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did you manage to kill Hoyre? This shouldn't happen... Hoyre was supposed to run away when approached. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
@@ -10385,13 +10385,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1540
-msgid "How did you manage to kill Bor Cryne? This shouldn't happen... it means the level is too easy. Stop what you are doing and mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did you manage to kill Bor Cryne? This shouldn't happen... it means the level is too easy. Stop what you are doing and contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. This ought to be impossible, but just in case:
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1569
-msgid "How did Hoyre manage to kill Bor Cryne? This shouldn't happen... it means something went wrong. Mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did Hoyre manage to kill Bor Cryne? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
@@ -10401,7 +10401,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1593
-msgid "How did Bor Cryne manage to die? This shouldn't happen... it means something went wrong. Mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did Bor Cryne manage to die? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
@@ -10418,13 +10418,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1613
-msgid "How did you manage to kill Uri van Roe? This shouldn't happen... it means the level is too easy. Stop what you are doing and mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did you manage to kill Uri van Roe? This shouldn't happen... it means the level is too easy. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. This ought to be impossible, but just in case:
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1642
-msgid "How did Hoyre manage to kill Uri van Roe? This shouldn't happen... it means something went wrong. Mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did Hoyre manage to kill Uri van Roe? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
@@ -10434,7 +10434,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1666
-msgid "How did Uri van Roe manage to die? This shouldn't happen... it means something went wrong. Mail adanilecki @ cs put poznan pl with your savegame and replay for review!"
+msgid "How did Uri van Roe manage to die? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
