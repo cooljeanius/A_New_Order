@@ -1,11 +1,14 @@
-This is my personal list of what I'd love to have. If you 
+This is my (szopen's) personal list of what I'd love to have. If you 
 are an artist and want to contribute, please look at this list and think whether
 you could do these portraits. You can also hire someone to do them, or 
-sent me 20-40 euros and I will pay my artist to do them. In general,
+send me 20-40 euros and I will pay my artist to do them. In general,
 I pay between 13 to 20 euros per portrait (though "broken Ruvio" and "another
 Karen" probably would need twice as much, as they would have to be ordered
 from Santiago Iborra), and between 20 to 40 euros per story image (assuming
-euro ~~ 4PLN, since I pay in PLN). Paypal charges about 5%.
+euro ~~ 4PLN, since I pay in PLN). Paypal charges about 5%. Note that since this
+is an old campaign, some of these euro/PLN amounts may need to be adjusted for
+inflation. In times when this campaign has an American maintainer (e.g. egallager),
+payments may need to be in USD instead.
 
 They are sorted in order of importance.  In addition, you may consider making
 animations for sprites, or correct existing sprites.
