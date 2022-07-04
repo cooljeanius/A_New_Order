@@ -14,14 +14,17 @@ this campaign was first written:
 * €13 in 2005 = €17.10 in 2022 (~$17.84 USD)
 * €20 in 2005 = €26.31 in 2022 (~$27.44 USD)
 * €40 in 2005 = €52.61 in 2022 (~$54.88 USD)
+(Note that I have been informed that these prices are rather low, so negotiation
+is welcome)
 
 The wishlist items are sorted in order of importance.  In addition, you may
 consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic "good" Akladian high level unit (e.g. Protector, Darknite, maybe 
-  also Fastfoot)
+* Generic "good" Akladian high level unit, specifically the Darknite (Protector
+  and Fastfoot were listed here previously, too, but they already have portraits,
+  just ones starting with "profile_" instead of "akladian_")
 * "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
   if we can find the funds, which seems unlikely...)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
