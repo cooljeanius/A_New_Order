@@ -28,13 +28,15 @@ PORTRAITS
 * "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
   if we can find the funds, which seems unlikely...)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
-* Generic Akladian unit with spears (Pikeneer, Warrior, Clansman, LightInfantry)
+* Generic Akladian unit with spears (Warrior and LightInfantry still remain)
+  (Clansman already exists as akladian_generic.png and Pikeneer already exists as
+  profile_pikinier.png)
+* A winter version of Yahyazad's portrait
+* Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated)
-* A winter version of Yahyazad's portrait
-* Another Reme portrait (for the "m"-suffixed message macro for him)
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
