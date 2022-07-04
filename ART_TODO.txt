@@ -8,10 +8,15 @@ from Santiago Iborra), and between 20 to 40 euros per story image (assuming
 euro ~~ 4PLN, since I pay in PLN). Paypal charges about 5%. Note that since this
 is an old campaign, some of these euro/PLN amounts may need to be adjusted for
 inflation. In times when this campaign has an American maintainer (e.g. egallager),
-payments may need to be in USD instead.
+payments may need to be in USD instead. The inflation calculator I found gives the
+following amounts for 2022, assuming that the original amounts were from 2005, when
+this campaign was first written:
+* €13 in 2005 = €17.10 in 2022 (~$17.84 USD)
+* €20 in 2005 = €26.31 in 2022 (~$27.44 USD)
+* €40 in 2005 = €52.61 in 2022 (~$54.88 USD)
 
-They are sorted in order of importance.  In addition, you may consider making
-animations for sprites, or correct existing sprites.
+The wishlist items are sorted in order of importance.  In addition, you may
+consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
