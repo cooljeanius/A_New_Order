@@ -22,21 +22,23 @@ consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic "good" Akladian high level unit, specifically the Darknite (Protector
-  and Fastfoot were listed here previously, too, but they already have portraits,
-  just ones starting with "profile_" instead of "akladian_")
+* Generic "good" Akladian high level unit, specifically the Darknite (being
+  commissioned to chloe thomas, @chloe191thomas)
 * "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
   if we can find the funds, which seems unlikely...)
+  (being commissioned to Olivia Lucy, @olivia_lucy46)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
-* A winter version of Yahyazad's portrait
+* A winter version of Yahyazad's portrait (Hailey Gill @haileygill1999 might be
+  able to take this one)
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
-  the two would have to be updated)
+  the two would have to be updated) (Hailey Gill @haileygill1999 might be able to
+  take this one)
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
@@ -49,7 +51,8 @@ PORTRAITS
 * unique portrait for Maurice (a Red Mage), to replace the generic White Mage
   portrait that doesn't even match his unit type
 * A shadowy version of Grekulak's portrait, to foreshadow his appearance, without
-  spoiling him before he's revealed (e.g. in Deorien's story)
+  spoiling him before he's revealed (e.g. in Deorien's story) (it might actually
+  be possible to just do this with IPFs; I'll have to check...)
 
 STORY IMAGES
 ------------
