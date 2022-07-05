@@ -35,6 +35,7 @@ PORTRAITS
   able to take this one)
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
+* Generic Wiseman-line units (Wiseman, Holyman, Wonderman)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated) (Hailey Gill @haileygill1999 might be able to
