@@ -17,8 +17,15 @@ this campaign was first written:
 (Note that I have been informed that these prices are rather low, so negotiation
 is welcome)
 
-The wishlist items are sorted in order of importance.  In addition, you may
-consider making animations for sprites, or correct existing sprites.
+If you are an artist who is new to Wesnoth, here are some links to resources that
+you may find helpful:
+* "Create art" central navigation page: https://wiki.wesnoth.org/Create_Art
+* "How to Shade": https://wiki.wesnoth.org/How_to_Shade
+* "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
+* "Armor Tutorial": https://wiki.wesnoth.org/Armour_Tutorial
+
+The following wishlist items are sorted in order of importance.  In addition, you
+may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
