@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-06-06 21:33 UTC\n"
+"POT-Creation-Date: 2022-07-29 19:10 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,7 +60,7 @@ msgid "Oracle"
 msgstr ""
 
 #. [unit_type]: id=Oracle, race=human
-#: A_New_Order/units/others/Oracle.cfg:20
+#: A_New_Order/units/others/Oracle.cfg:21
 msgid "No description. It will never appear anywhere, since the unit is fake."
 msgstr ""
 
@@ -700,7 +700,7 @@ msgstr ""
 #. [event]
 #. [then]
 #: A_New_Order/macros/elvish_macros.cfg:115
-#: A_New_Order/macros/conversations.cfg:46
+#: A_New_Order/macros/conversations.cfg:45
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:665
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:659
 msgid "What?"
@@ -858,130 +858,129 @@ msgid "Scenario notes:"
 msgstr ""
 
 #. [part]
-#. Konrad2 suggested replacing "was ended" with "was over" but I think "had ended" works better:
-#: A_New_Order/macros/conversations.cfg:5
-msgid "When the battle had ended, many bodies were found on fields near Barnon; but Gawen's body was not among them. Furious, Bor Cryne ordered a search of the whole battlefield, but the efforts of his men proved fruitless."
+#: A_New_Order/macros/conversations.cfg:4
+msgid "When the battle had ended, many bodies were found on fields near Barnon, but Gawen's body was not among them. Furious, Bor Cryne ordered a search of the whole battlefield, but the efforts of his men proved fruitless."
 msgstr ""
 
 #. [part]
-#: A_New_Order/macros/conversations.cfg:9
+#: A_New_Order/macros/conversations.cfg:8
 msgid "The mood of the small, tired band led by Lady Lorin and Reme Carrenemoe was gloomy. Though they had managed to escape the slaughter, there was no joy and no hope on the faces of the soldiers."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:16
+#: A_New_Order/macros/conversations.cfg:15
 msgid "I can't believe this happened... He's dead..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:17
+#: A_New_Order/macros/conversations.cfg:16
 msgid "Is he? I've heard they couldn't find the body."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:18
+#: A_New_Order/macros/conversations.cfg:17
 msgid "And we have abandoned him! You too, honorable and brave Reme, you left him there to die!"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:19
+#: A_New_Order/macros/conversations.cfg:18
 msgid "Silence, woman. I rue the hour I listened to his orders. If I had only known that he would be so... so stupid..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:20
+#: A_New_Order/macros/conversations.cfg:19
 msgid "I... I'm sorry Reme. I just... What we are going to do now?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:21
+#: A_New_Order/macros/conversations.cfg:20
 msgid "We? There is no we, Lady Lorin. I have orders to bring you to a safe place, and I will do so. After that we will part ways. I will allow you to choose five of my best warriors and that's it."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:22
+#: A_New_Order/macros/conversations.cfg:21
 msgid "But... But..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:23
+#: A_New_Order/macros/conversations.cfg:22
 msgid "There is no but. Now, be silent. I don't like this place."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:27
+#: A_New_Order/macros/conversations.cfg:26
 msgid "Father! You're trying to move me away from the battle, aren't you?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:28
+#: A_New_Order/macros/conversations.cfg:27
 msgid "Don't be silly, girl. I am not in command here."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:29
+#: A_New_Order/macros/conversations.cfg:28
 msgid "She's a girl that loves action, isn't she."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:30
+#: A_New_Order/macros/conversations.cfg:29
 msgid "Don't know what you had on your mind, but please don't call her that again."
 msgstr ""
 
 #. [part]
-#: A_New_Order/macros/conversations.cfg:34
+#: A_New_Order/macros/conversations.cfg:33
 msgid "When Gawen's soldiers entered Okladia, they immediately noticed a difference. No ash in the air from the burning villages, no unburied bodies of peasants in the fields, no crows waiting patiently until they could resume their meal."
 msgstr ""
 
 #. [part]
-#: A_New_Order/macros/conversations.cfg:38
+#: A_New_Order/macros/conversations.cfg:37
 msgid "Okladia was one of four kingdoms founded by Gawen's grandfather's sons after his death. Okladia was ruled by Buffin Hagarthen, an old, suspicious, and very conservative king. He had been easily able to crush a recent Wesnothian rebellion in his country - for the fourth time in his reign - and had the reputation of being a very careful and skillful ruler."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:43
+#: A_New_Order/macros/conversations.cfg:42
 msgid "It's strange, but I have a premonition of success, the likes of which I have had never before. Our soldiers are really the best of their kind; the true elite. It's been more than a month since we left Raedwood, and we have already routed forces larger than ours."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:45
+#: A_New_Order/macros/conversations.cfg:44
 msgid "A month? Are you sure it's been more than a month?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:48
+#: A_New_Order/macros/conversations.cfg:47
 msgid "Yes... Yes it is... more than a month... oh Gawen, I... I've done something really terrible... I... I... I don't know how to tell you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/conversations.cfg:49
+#: A_New_Order/macros/conversations.cfg:48
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:251
 msgid "What?!?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:51
+#: A_New_Order/macros/conversations.cfg:50
 msgid "No, nothing. It doesn't matter. I... I'm sorry, but I can't... I will join you later."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:61
+#: A_New_Order/macros/conversations.cfg:60
 msgid "Gawen, I've never seen your step-mother like this before. I think she is sick. Very sick. I saw her vomiting yesterday."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:63
+#: A_New_Order/macros/conversations.cfg:62
 msgid "But... What happened? Why? Is she..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:64
+#: A_New_Order/macros/conversations.cfg:63
 msgid "Poisoned? It's not impossible. We have Akladians in our army, don't we?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:66
+#: A_New_Order/macros/conversations.cfg:65
 msgid "My lord, I do not wish to disturb you, but our scouts have reported about the enemy forces."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:68
+#: A_New_Order/macros/conversations.cfg:67
 msgid "Hmm... It seems we will have to fight this army to continue our journey. It should be easy."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:71
-#: A_New_Order/macros/conversations.cfg:73
+#: A_New_Order/macros/conversations.cfg:70
+#: A_New_Order/macros/conversations.cfg:72
 msgid "My lord, our scouts also told us that we are being followed by a very large army of Akladians. Someone has noticed us. Maybe our successes have been too much. We have to win quickly, or we will be crushed by another foe."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:75
+#: A_New_Order/macros/conversations.cfg:74
 msgid "It will be have to be a quick and decisive victory, then."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:79
+#: A_New_Order/macros/conversations.cfg:78
 msgid "Now that we have quit Raedwood forest, we should find Deorien. We know he is somewhere in Okladia, another kingdom that was founded by Akladians, and is ruled by your cousins from the Hagarthen line. But where Deorien is exactly... well, we have no idea."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:80
+#: A_New_Order/macros/conversations.cfg:79
 msgid "That's why I suggest we visit the Oracle, who, being a mage herself, may know where Deorien is."
 msgstr ""
 
@@ -1179,66 +1178,66 @@ msgstr ""
 msgid "You fool! He is mixling, he can't be our king!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:183
+#: A_New_Order/macros/ano-01_06macros.cfg:189
 msgid "No! That's impossible! You will pay for that, treacherous dogs! Your sons at Vattin are as good as dead!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:184
+#: A_New_Order/macros/ano-01_06macros.cfg:190
 msgid "You really thought I would send my son to Vattin? You are so easy to fool! That boy at Vattin is not of my blood. Now, prepare to go straight to hell."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:185
+#: A_New_Order/macros/ano-01_06macros.cfg:191
 msgid "This isn't a total surprise to me. My king, we have to escape."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:186
+#: A_New_Order/macros/ano-01_06macros.cfg:192
 msgid "How?"
 msgstr ""
 
 #. this was previously part of Reme's previous string, but I split it off to make the player pay more attention:
-#: A_New_Order/macros/ano-01_06macros.cfg:188
+#: A_New_Order/macros/ano-01_06macros.cfg:194
 msgid "We have two ways to out of this trap: there is one way to the west..."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:202
+#: A_New_Order/macros/ano-01_06macros.cfg:208
 msgid "...and another way to the east."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:216
+#: A_New_Order/macros/ano-01_06macros.cfg:222
 msgid "Which one is better?"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:217
+#: A_New_Order/macros/ano-01_06macros.cfg:223
 msgid "There is no difference, really. We can use either to reach Vattin. The eastern one leads amidst swamps and forests, while the western one leads through the hills and grasslands. God, I swear to sacrifice a horse if you will help us survive this. A whole, beautiful horse. And I will add a golden saddle!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:218
+#: A_New_Order/macros/ano-01_06macros.cfg:224
 msgid "Reme, take my step-mother and protect her. I will stay here to guard your rear during withdrawal."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:219
+#: A_New_Order/macros/ano-01_06macros.cfg:225
 msgid "No! That's suicide! I won't let you!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:220
+#: A_New_Order/macros/ano-01_06macros.cfg:226
 msgid "Reme, take her and go. That is an order. And this is not suicide; I will follow you as soon as possible."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:221
+#: A_New_Order/macros/ano-01_06macros.cfg:227
 msgid "I can't. I won't. I won't leave you, my lord."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:222
+#: A_New_Order/macros/ano-01_06macros.cfg:228
 msgid "That's an order! Reme, if I run from a fight, who will respect me? I am not suicidal, believe me. And you must live; I order you to escort Lady Lorin safely out of this mess. And make sure to bring some loyal guards with you, too!"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/macros/ano-01_06macros.cfg:228
+#: A_New_Order/macros/ano-01_06macros.cfg:234
 msgid "Any unit which reaches either signpost will be evacuated and join Lorin and Reme's party. Gawen will be refunded the cost of evacuated loyal units. Units not recalled will be lost. Units that do not escape will also be lost. Gawen must not escape, or he would be considered an unworthy coward by his soldiers. Lorin will get a bonus for each turn Gawen resists beyond the required limit."
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:234
+#: A_New_Order/macros/ano-01_06macros.cfg:240
 #: A_New_Order/macros/ano-14macros.cfg:18
 #: A_New_Order/scenarios/25_The_Awakening.cfg:671
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:587
@@ -1263,7 +1262,7 @@ msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:238
+#: A_New_Order/macros/ano-01_06macros.cfg:244
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:251
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:489
@@ -1274,47 +1273,47 @@ msgid "Death of Reme Carrenemoe"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:242
+#: A_New_Order/macros/ano-01_06macros.cfg:248
 msgid "Cowardly escape of Gawen Hagarthen"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:356
+#: A_New_Order/macros/ano-01_06macros.cfg:362
 msgid "I can't just run away. I don't want to. I would prefer to die here, fighting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:377
+#: A_New_Order/macros/ano-01_06macros.cfg:383
 msgid "Reme, you have to take care of Lorin! She went the other way"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:380
+#: A_New_Order/macros/ano-01_06macros.cfg:386
 msgid "Take care, Reme Carrenemoe."
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:381
+#: A_New_Order/macros/ano-01_06macros.cfg:387
 msgid "Respect, my king. Follow us as soon as possible!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:382
+#: A_New_Order/macros/ano-01_06macros.cfg:388
 msgid "Yes... of course. I'm afraid that means... never."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:415
+#: A_New_Order/macros/ano-01_06macros.cfg:421
 msgid "Mother, you have to go the other way. Reme is waiting for you there!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:418
+#: A_New_Order/macros/ano-01_06macros.cfg:424
 msgid "No! I won't leave you! I don't want to! Let's die together!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:419
+#: A_New_Order/macros/ano-01_06macros.cfg:425
 msgid "Take her to safety, men!"
 msgstr ""
 
@@ -3715,8 +3714,8 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:534
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:852
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:925
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:217
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:207
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:313
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:303
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1760
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:556
 msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
@@ -8859,8 +8858,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:872
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:225
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:215
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:321
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:311
 msgid "We've won! What should we do now?"
 msgstr ""
 
@@ -9357,8 +9356,8 @@ msgid "We'd better get hurrying, Gawen! If we don't make it to the signpost in t
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:226
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:216
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:322
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:312
 msgid "We've got to hurry before the enemy reinforcements arrive here. Let's go."
 msgstr ""
 
