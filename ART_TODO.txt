@@ -29,7 +29,9 @@ may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic "good" Akladian high level unit, specifically the Darknite
+* Generic Wiseman-line units (Wiseman, Holyman, Wonderman)
+* Generic "good" Akladian high level unit, specifically the Darknite (one that
+  matches its sprite better)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
@@ -37,7 +39,6 @@ PORTRAITS
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
-* Generic Wiseman-line units (Wiseman, Holyman, Wonderman)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated)
