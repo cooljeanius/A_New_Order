@@ -23,13 +23,14 @@ you may find helpful for matching Wesnoth style:
 * "How to Shade": https://wiki.wesnoth.org/How_to_Shade
 * "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
 * "Armor Tutorial": https://wiki.wesnoth.org/Armour_Tutorial
+* "Technical requirements for portraits": https://forums.wesnoth.org/viewtopic.php?t=24555
 
 The following wishlist items are sorted in order of importance.  In addition, you
 may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic Wiseman-line units (Wiseman, Holyman, Wonderman)
+* Higher-level Wiseman-line units (Holyman, Wonderman)
 * Generic "good" Akladian high level unit, specifically the Darknite (one that
   matches its sprite better)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
