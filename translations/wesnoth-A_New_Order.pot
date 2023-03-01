@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-01 00:24 UTC\n"
+"POT-Creation-Date: 2023-03-01 02:25 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -797,33 +797,61 @@ msgstr ""
 
 #. [event]
 #. Kyobaine advances to Elvish Druid
-#: A_New_Order/macros/elvish_macros.cfg:156
+#: A_New_Order/macros/elvish_macros.cfg:158
 msgid "How on earth I am supposed to walk in these clothes during winter? It's frigging cold!"
+msgstr ""
+
+#. [then]
+#. Gawen speaking to Kyobaine:
+#: A_New_Order/macros/elvish_macros.cfg:166
+msgid "But you're wearing snowshoes though."
+msgstr ""
+
+#. [then]
+#. Kyobaine speaking to Gawen:
+#: A_New_Order/macros/elvish_macros.cfg:168
+msgid "Do you seriously think that helps with the fact that it's my <b><i>BARE FEET</i></b> I have strapped into them? The holes in their webbing are enormous! The snow gets right through!"
 msgstr ""
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:172
+#: A_New_Order/macros/elvish_macros.cfg:186
 msgid "Oooh, no. I refuse to fight in these conditions, as long as I'm clad as such."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:173
+#: A_New_Order/macros/elvish_macros.cfg:187
 msgid "What do you mean? Your clothes are just fine."
 msgstr ""
 
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:175
-msgid "<i>For the spring</i>. The least you can do is to give me proper shoes. You expect me to walk in this snow <i>barefoot</i>??"
+#. [then]
+#. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
+#: A_New_Order/macros/elvish_macros.cfg:195
+msgid "Except for the snowshoes, these are clothes <i>for the spring</i>. The least you can do is to give me a proper cloak. You expect me to fight when I'm shivering and have goosebumps??"
 msgstr ""
 
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:176
+#. [then]
+#. [else]
+#: A_New_Order/macros/elvish_macros.cfg:196
+#: A_New_Order/macros/elvish_macros.cfg:203
 msgid "That's ridiculous."
 msgstr ""
 
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:177
+#. [then]
+#. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
+#: A_New_Order/macros/elvish_macros.cfg:198
+msgid "I couldn't agree more. Call me when you have a new cloak."
+msgstr ""
+
+#. [else]
+#. the old version of Kyobaine's request to Gawen:
+#: A_New_Order/macros/elvish_macros.cfg:202
+msgid "<i>For the spring</i>. The least you can do is to give me proper shoes. You expect me to walk in this snow <i>barefoot</i>??"
+msgstr ""
+
+#. [else]
+#. the old version of Kyobaine's request to Gawen:
+#: A_New_Order/macros/elvish_macros.cfg:205
 msgid "I couldn't agree more. Call me when you have new shoes."
 msgstr ""
 
@@ -831,7 +859,7 @@ msgstr ""
 #. [scenario]: id=25_The_Awakening
 #. [scenario]: id=22_Leaving_Okladia
 #. [scenario]: id=14e_Saorduc_Swamps
-#: A_New_Order/macros/elvish_macros.cfg:179
+#: A_New_Order/macros/elvish_macros.cfg:209
 #: A_New_Order/macros/ano-20macros.cfg:331
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:198
@@ -847,59 +875,59 @@ msgid "Well..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:180
+#: A_New_Order/macros/elvish_macros.cfg:210
 msgid "All right, how about I give you 25 gold pieces instead of 20?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:181
+#: A_New_Order/macros/elvish_macros.cfg:211
 msgid "All right, we will wait for the spring."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:183
+#: A_New_Order/macros/elvish_macros.cfg:213
 msgid "You think you can bribe me, an elvish druid, with gold? Oh well. This will allow me to buy better winter clothes."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:209
+#: A_New_Order/macros/elvish_macros.cfg:239
 msgid "Uh... she <i>is</i> coming back, isn't she?"
 msgstr ""
 
 #. [event]
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:216
+#: A_New_Order/macros/elvish_macros.cfg:246
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:295
 msgid "...yes?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:217
+#: A_New_Order/macros/elvish_macros.cfg:247
 msgid "...!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:218
+#: A_New_Order/macros/elvish_macros.cfg:248
 msgid "...why do you look so surprised? I <i>did</i> say I was going to buy better winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:219
+#: A_New_Order/macros/elvish_macros.cfg:249
 msgid "...yes, well, indeed! Carry on, then!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:220
+#: A_New_Order/macros/elvish_macros.cfg:250
 msgid "Humans... their reactions can be so strange sometimes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:226
+#: A_New_Order/macros/elvish_macros.cfg:256
 msgid "Hey, give back my gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:230
+#: A_New_Order/macros/elvish_macros.cfg:260
 msgid "Stingy bastard."
 msgstr ""
 
@@ -13612,113 +13640,113 @@ msgid "Karen said she could smell the freedom in the air here. Gawen smelled not
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:202
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:208
 msgid "Welcome back to Freetown, Ruvio. You are just in time for our meeting."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:203
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:209
 msgid "We also welcome your daughter. Karen, I would order you to leave this meeting and go to your mother..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:204
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:210
 msgid "...but you know that you would only waste your breath."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:205
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:211
 msgid "We've heard that you have battled and defeated both Akladians and Outlaws. Accept our congratulations, Ruvio. But who is this young man, your companion?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:206
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:212
 msgid "I participated in the battles you have mentioned, but someone else should be credited for the victory. We were commanded by this young man."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:207
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:213
 msgid "And his name is...?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:208
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:214
 msgid "Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:209
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:215
 msgid "(<i>grumbling</i>) I hate you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:210
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:216
 msgid "But now, he must leave. We have very important and secret things to talk upon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:211
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:217
 msgid "He has my full trust. He stays."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:212
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:218
 msgid "So be it. Let's greet our honorable guest, Mithrandil of the northern Elves. He has made a long journey here and he bears important news."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:213
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:219
 msgid "My respect and best wishes for everyone in this free city. I hope you will forgive me for dispensing with the formalities of a long traditional speech. The news I bring here is simple, and terrifying. The Orcish army has marched unnoticed and unopposed into the very heart of Wesnoth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:214
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:220
 msgid "No! That impossible! How that could possibly happened? They would have had to cross through the free realms of the north, and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:215
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:221
 msgid "Mithrandil speaks the truth, Huon. You have not seen the reports I've gotten."
 msgstr ""
 
 #. [event]
 #. presumably the "queen whose name I will not utter" is Asheviere:
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:217
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:223
 msgid "They indeed crossed the free realms of the north. The relations among humans are none of my business. Also, I will pretend that I have not noticed that you have called me a liar. The Orcish army has appeared in Wesnoth, bringing back dark memories of the queen whose name I will not utter."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:218
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:224
 msgid "According to what we have gathered, their presence is due to internal strife amongst the Akladians. If Akladians are slaughtering each other, even if with Orcish help, why should free people be disturbed by that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:219
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:225
 msgid "We elves believe that this is more than just an Orcish invasion and quarrels between Akladians. Something greater, something evil, is hiding behind this. What it is, we do not know. I came here to warn you, to help you, and ask for your help. We need you to find out the real reason the Orcish army is here. We also need to discover who is hiding behind the invasion. We have our suspicions, but we want to be sure."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:220
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:226
 msgid "We respect the wisdom of the Elves, and we will fulfill your request. We will send two armies to catch Orcish leaders and investigate them. One will be led by Ruvio, second by Huon. Agreed?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:221
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:227
 msgid "I must insist on one slight change, Gwidle. My army will be led by this young man ... Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:222
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:228
 msgid "I will join Huon with part of my escort, I will gave the rest of them to Ruv... er... to Gah - uhm - haldreeck. My finest archer, my best captain, two fighters and another archer. In addition, would you prefer to get a Scout or Shaman?"
 msgstr ""
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:226
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:232
 msgid "I think that..."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:228
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:234
 msgid "A Shaman would be great."
 msgstr ""
 
@@ -13726,167 +13754,167 @@ msgstr ""
 #. [unit]: type=Elvish Scout, id=Kyobaine
 #. [unit]: type=Elvish Fighter, id=Kyobaine
 #. [unit]: type=Elvish Archer, id=Kyobaine
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:233
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:248
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:268
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:284
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:254
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:274
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:290
 msgid "Kyobaine"
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:243
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:249
 msgid "A Scout could be useful."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:263
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:269
 msgid "No, I think I would want more fighters."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:279
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:285
 msgid "Actually I would like to have one more archer."
 msgstr ""
 
 #. [unit]: type=Elvish Ranger, id=Elorain
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:308
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:314
 msgid "Elorain"
 msgstr ""
 
 #. [unit]: type=Elvish Captain, id=Milildur
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:336
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:342
 msgid "Milildur"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:359
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:365
 msgid "It will be an honor to fight for you, Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:360
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:366
 msgid "Your enemies are mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:361
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:367
 msgid "The honor is mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:362
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:368
 msgid "Karen, you will stay here, with mother and sisters. It's too dangerous for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:363
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:369
 msgid "Of courrrrse I will."
 msgstr ""
 
 #. [unit]: type=Elvish Archer, id=Arweena
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:368
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
 msgid "Arweena"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Giombor
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:377
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:383
 msgid "Giombor"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Urandil
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:386
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:392
 msgid "Urandil"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:407
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:417
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:413
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
 msgid "Another one bites the dust."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:408
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:414
 msgid "My arrows never miss!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:409
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:415
 msgid "My lord, I bet you are impressed!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:410
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:416
 msgid "Akladians, orcs, lizards, and all others - when facing mighty Elorain, their fate is always the same!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:411
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:417
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:412
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:418
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
 msgid "Straight into your heart!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:413
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:419
 msgid "Eat this!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:414
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:420
 msgid "I always shoot to kill. No need to remind me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:415
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
 msgid "I stopped counting killed enemies when I turned 50."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:416
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
 msgid "Sword or Bow, who is better than me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:418
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
 msgid "For honour, in the name of Eloh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:419
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
 msgid "Strength and honour!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:420
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
 msgid "First kill this day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
 msgid "Death is my companion, she walks wherever I may roam."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
 msgid "Killing without hate, dying without fear!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
 msgid "This is the fate which will come to all our enemies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
 msgid "My sword and my honour, two unbreakable things!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
 msgid "Death to our enemies!"
 msgstr ""
 
@@ -14962,60 +14990,60 @@ msgstr ""
 
 #. [event]
 #. be terser for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:922
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:928
 msgid "He dies an honorable death. You will have to get used to losing units."
 msgstr ""
 
 #. [event]
 #. all other difficulties; have this be more advice-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:925
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:931
 msgid "He dies an honorable death. You cannot let the fear of losing units paralyse you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:943
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:940
 msgid "But he was loyal to our cause though!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:944
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:941
 msgid "Well, I suppose you do have a point there. Feel free to be more careful with our most loyal supporters."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:965
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:966
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during the day, and at night they should be used carefully."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:973
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:974
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during full daylight. Although there may still be some daylight left, night is coming, and when it arrives, they should be used carefully."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:977
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:978
 msgid "Yes! Attack!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty, so don't have Reme say as much:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:992
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:993
 msgid "Ah, he is using Sturmknights. I expect we may have to fight many more of those in the future..."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so make it more hint-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:995
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:996
 msgid "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight at night as they are accustomed to darkness. Counter them by assailing them with Shieldguards during the day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1004
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1005
 msgid "The traitorous ones attack me! Rise up, clansmen of Gaeltin, and drive them back!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1026
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1027
 msgid "See how a true Akladian Lord fights!"
 msgstr ""
 
