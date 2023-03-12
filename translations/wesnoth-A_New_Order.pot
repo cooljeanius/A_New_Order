@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-12 01:41 UTC\n"
+"POT-Creation-Date: 2023-03-12 20:47 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1277,216 +1277,223 @@ msgid "No! I have still so much to do!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:14
+#. the Assassin is addressing a unit that is blocking him from reaching Gawen:
+#: A_New_Order/macros/ano-01_06macros.cfg:15
 msgid "Get out of my way... I am not here because of you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:28
+#. the Assassin is speaking to a unit he has just killed; "the prince" = Gawen:
+#: A_New_Order/macros/ano-01_06macros.cfg:30
 msgid "You aren't the prince, are you? Then it is not you I seek."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:38
+#. the Assassin attacking Gawen (and most likely killing him, due to Gawen being poisoned in the first scenario):
+#: A_New_Order/macros/ano-01_06macros.cfg:41
 msgid "Finally! Now, accept the inevitable. I'm a professional, this won't hurt a bit!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:50
+#. Lorin is speaking to a unit (other than herself) that is attacking the Assassin:
+#: A_New_Order/macros/ano-01_06macros.cfg:54
 msgid "Leave the final blow for me! I want to interrogate him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:61
+#. Gawen is asking the Assassin why he is attacking him:
+#: A_New_Order/macros/ano-01_06macros.cfg:66
 msgid "Why? Who sent you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:62
+#. "Two hundred gold pieces" = payment Assassin has received for the task of killing Gawen:
+#: A_New_Order/macros/ano-01_06macros.cfg:68
 msgid "Why? Two hundred gold pieces, that's why."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:78
+#. the "underling" in question here is the Assassin (male):
+#: A_New_Order/macros/ano-01_06macros.cfg:85
 msgid "Die, underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:79
+#: A_New_Order/macros/ano-01_06macros.cfg:86
 msgid "Stop, don't kill him! We have to interrogate him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:88
+#: A_New_Order/macros/ano-01_06macros.cfg:95
 msgid "Only one thing stays my hand from killing you now. Who sent you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:89
+#: A_New_Order/macros/ano-01_06macros.cfg:96
 msgid "The fates."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:90
+#: A_New_Order/macros/ano-01_06macros.cfg:97
 msgid "Don't test my patience. Speak, or I will kill you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:91
+#: A_New_Order/macros/ano-01_06macros.cfg:98
 msgid "Do whatever you want to."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:92
+#: A_New_Order/macros/ano-01_06macros.cfg:99
 msgid "Then die, since you want to."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:93
+#: A_New_Order/macros/ano-01_06macros.cfg:100
 msgid "You are way too soft, Reme. Why didn't you give him to me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:102
+#: A_New_Order/macros/ano-01_06macros.cfg:109
 msgid "Who sent you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:103
+#: A_New_Order/macros/ano-01_06macros.cfg:110
 msgid "Our rules are to never betray the trust of those who hired us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:104
+#: A_New_Order/macros/ano-01_06macros.cfg:111
 msgid "Don't test my patience, underling! Speak, or you will be sorry you are still alive!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:105
+#: A_New_Order/macros/ano-01_06macros.cfg:112
 msgid "Who sent me? Fate! And there will be others after me. (<i>scream of pain</i>) Aaaargh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:106
+#: A_New_Order/macros/ano-01_06macros.cfg:113
 msgid "Speak!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:107
+#: A_New_Order/macros/ano-01_06macros.cfg:114
 msgid "My lady, please, stop, that's just..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:108
+#: A_New_Order/macros/ano-01_06macros.cfg:115
 msgid "I can't tell you! (Aaargh) I don't know his name! I was given this task by our elders... of the Outlaw Place. All I know is one of the Akladian lords paid us in gold! The price for the Hagarthens was three hundred gold pieces for the father and two hundred for the son! Aiieeee!!!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:109
+#: A_New_Order/macros/ano-01_06macros.cfg:116
 msgid "No price for me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-01_06macros.cfg:110
+#: A_New_Order/macros/ano-01_06macros.cfg:117
 msgid "I think he would kill you gratis. He won't say anything more, my lady."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:130
+#: A_New_Order/macros/ano-01_06macros.cfg:137
 msgid "Traitors! How can you be so dishonorable as to fight against your own rightful king!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:138
+#: A_New_Order/macros/ano-01_06macros.cfg:145
 msgid "Our king is dead! We are not traitors!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:140
+#: A_New_Order/macros/ano-01_06macros.cfg:147
 msgid "But here is king's son, his rightful heir. Are you going to fight him?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:141
+#: A_New_Order/macros/ano-01_06macros.cfg:148
 msgid "The king's son is dead! We heard about it!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:142
+#: A_New_Order/macros/ano-01_06macros.cfg:149
 msgid "Do I look dead to you?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:143
+#: A_New_Order/macros/ano-01_06macros.cfg:150
 msgid "We were deceived! My king, please forgive me!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:144
+#: A_New_Order/macros/ano-01_06macros.cfg:151
 msgid "You fool! He is mixling, he can't be our king!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:203
+#: A_New_Order/macros/ano-01_06macros.cfg:210
 msgid "No! That's impossible! You will pay for that, treacherous dogs! Your sons at Vattin are as good as dead!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:204
+#: A_New_Order/macros/ano-01_06macros.cfg:211
 msgid "You really thought I would send my son to Vattin? You are so easy to fool! That boy at Vattin is not of my blood. Now, prepare to go straight to hell."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:205
+#: A_New_Order/macros/ano-01_06macros.cfg:212
 msgid "This isn't a total surprise to me. My king, we have to escape."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:206
+#: A_New_Order/macros/ano-01_06macros.cfg:213
 msgid "How?"
 msgstr ""
 
 #. this was previously part of Reme's previous string, but I split it off to make the player pay more attention:
-#: A_New_Order/macros/ano-01_06macros.cfg:208
+#: A_New_Order/macros/ano-01_06macros.cfg:215
 msgid "We have two ways to out of this trap: there is one way to the west..."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:222
+#: A_New_Order/macros/ano-01_06macros.cfg:229
 msgid "...and another way to the east."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:236
+#: A_New_Order/macros/ano-01_06macros.cfg:243
 msgid "Which one is better?"
 msgstr ""
 
 #. the "silver saddle" here was golden previously, but I didn't want players getting confused with gold as in the currency, and plus "silver" gets us an alliteration:
-#: A_New_Order/macros/ano-01_06macros.cfg:238
+#: A_New_Order/macros/ano-01_06macros.cfg:245
 msgid "There is no difference, really. We can use either to reach Vattin. The eastern one leads amidst swamps and forests, while the western one leads through the hills and grasslands. God, I swear to sacrifice a horse if you will help us survive this. A whole, beautiful horse. And I will add a silver saddle!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:239
+#: A_New_Order/macros/ano-01_06macros.cfg:246
 msgid "Reme, take my step-mother and protect her. I will stay here to guard your rear during withdrawal."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:240
+#: A_New_Order/macros/ano-01_06macros.cfg:247
 msgid "No! That's suicide! I won't let you!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:241
+#: A_New_Order/macros/ano-01_06macros.cfg:248
 msgid "Reme, take her and go. That is an order. And this is not suicide; I will follow you as soon as possible."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:242
+#: A_New_Order/macros/ano-01_06macros.cfg:249
 msgid "I can't. I won't. I won't leave you, my lord."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:243
+#: A_New_Order/macros/ano-01_06macros.cfg:250
 msgid "That's an order! Reme, if I run from a fight, who will respect me? I am not suicidal, believe me. And you must live; I order you to escort Lady Lorin safely out of this mess. And make sure to bring some loyal guards with you, too!"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/macros/ano-01_06macros.cfg:249
+#: A_New_Order/macros/ano-01_06macros.cfg:256
 msgid "Any unit which reaches either signpost will be evacuated and join Lorin and Reme's party. Gawen will be refunded the cost of evacuated loyal units. Units not recalled will be lost. Units that do not escape will also be lost. Gawen must not escape, or he would be considered an unworthy coward by his soldiers. Lorin will get a bonus applied to her own pool of gold for each turn Gawen resists beyond the required limit. Note that Lorin's gold is separate from Gawen's, so she will not be able to access any gold that he has left over after this scenario. Thus, it is better if Gawen spends all gold available to him now."
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:255
+#: A_New_Order/macros/ano-01_06macros.cfg:262
 #: A_New_Order/macros/ano-14macros.cfg:18
 #: A_New_Order/scenarios/25_The_Awakening.cfg:675
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:588
@@ -1511,7 +1518,7 @@ msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:259
+#: A_New_Order/macros/ano-01_06macros.cfg:266
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:251
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503
@@ -1522,47 +1529,47 @@ msgid "Death of Reme Carrenemoe"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:263
+#: A_New_Order/macros/ano-01_06macros.cfg:270
 msgid "Cowardly escape of Gawen Hagarthen"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:377
+#: A_New_Order/macros/ano-01_06macros.cfg:384
 msgid "I can't just run away. I don't want to. I would prefer to die here, fighting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:398
+#: A_New_Order/macros/ano-01_06macros.cfg:405
 msgid "Reme, you have to take care of Lorin! She went the other way"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:401
+#: A_New_Order/macros/ano-01_06macros.cfg:408
 msgid "Take care, Reme Carrenemoe."
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:402
+#: A_New_Order/macros/ano-01_06macros.cfg:409
 msgid "Respect, my king. Follow us as soon as possible!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:403
+#: A_New_Order/macros/ano-01_06macros.cfg:410
 msgid "Yes... of course. I'm afraid that means... never."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:436
+#: A_New_Order/macros/ano-01_06macros.cfg:443
 msgid "Mother, you have to go the other way. Reme is waiting for you there!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:439
+#: A_New_Order/macros/ano-01_06macros.cfg:446
 msgid "No! I won't leave you! I don't want to! Let's die together!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:440
+#: A_New_Order/macros/ano-01_06macros.cfg:447
 msgid "Take her to safety, men!"
 msgstr ""
 
@@ -17325,24 +17332,29 @@ msgid "Father of Luke Skywalker"
 msgstr ""
 
 #. [about]
-#. Żwirek i Muchomorek are from a Czech movie for children. You are free to replace them with characters from a favourite foreign movie for children in your country:
+#. Żwirek i Muchomorek are fictional characters from a Czech movie for children. You are free to replace them with characters from a favourite foreign movie for children in your country:
 #: A_New_Order/about.cfg:261
 msgid "Żwirek i Muchomorek"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:263
+#. this is based on the fact that in the Polish version of Shrek, there is a scene in which Lord Farquad learns that Żwirek flirts with Muchomorek.
+#. If you are changing the name of the characters for your localization, remember to change the name of the country that they're from here, too.
+#: A_New_Order/about.cfg:265
 msgid "Famous Czech gay actors"
 msgstr ""
 
 #. [about]
-#. Polish president (from 2010 to 2015), he can't spell. Famous for dozens of idiotic sentences and sayings. You are free to replace him with some politician from your country:
-#: A_New_Order/about.cfg:268
+#. Polish president (from 2010 to 2015), he can't spell. Famous for dozens of idiotic sentences and sayings. You are free to replace him with some politician from your country.
+#. A good way to test to see if a particular politician would fit here would be to google their name along with the word "gaffe" and see if people have made articles out of lists of said gaffes.
+#. Please only make fun of politicians for their gaffes here, and not their actual policies, as the Wesnoth add-on server has a policy against overly political or ideological content.
+#: A_New_Order/about.cfg:272
 msgid "Bronisław Komorowski"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:270
+#. if your language's politician holds some other office, remember to replace the "president" part with the relevant title:
+#: A_New_Order/about.cfg:275
 msgid "The living proof that you may not know how to spell and still be president"
 msgstr ""
 
