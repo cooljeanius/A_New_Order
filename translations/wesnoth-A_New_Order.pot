@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-12 20:47 UTC\n"
+"POT-Creation-Date: 2023-03-13 01:21 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -750,7 +750,7 @@ msgstr ""
 #. [event]
 #. [then]
 #: A_New_Order/macros/elvish_macros.cfg:133
-#: A_New_Order/macros/elvish_macros.cfg:241
+#: A_New_Order/macros/elvish_macros.cfg:247
 #: A_New_Order/macros/conversations.cfg:45
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:668
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:688
@@ -886,92 +886,122 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:221
-msgid "Are you sure you wouldn't prefer it if I went and bought you better winter clothes instead? That way you could stay by a campfire while you wait."
+msgid "Maybe I should act gentlemanly here?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:222
-msgid "To be honest, I don't really trust you after you called me out here like this. Someone with judgment like that can hardly be expected to correctly purchase the clothes I require."
+msgid "(Offer to get the clothes for her - longer conversation)"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:223
-msgid "What, do you require them in a particular size or something? What are your measurements?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:224
-msgid "My... measurements? What do you mean by that? Do you mean you humans measure yourselves before deciding what clothing to purchase?"
+msgid "(Let her get the clothes herself - end event more quickly)"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:225
-msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
+msgid "Are you sure you wouldn't prefer it if I went and bought you better winter clothes instead? That way you could stay by a campfire while you wait."
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:226
-msgid "Why, we simply wander the woods hugging trees until -"
+msgid "To be honest, I don't really trust you after you called me out here like this. Someone with judgment like that can hardly be expected to correctly purchase the clothes I require."
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:227
-msgid "Wait, hold up, you literally HUG TREES?!"
+msgid "What, do you require them in a particular size or something? What are your measurements?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:228
-msgid "Why yes, of course, haven't you ever tried it?"
+msgid "My... measurements? What do you mean by that? Do you mean you humans measure yourselves before deciding what clothing to purchase?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:229
-msgid "Ha, that's hilarious! (*<i>catches breath from laughing</i>*) But, to answer your question, no, I haven't. Akladians raise their children to fear trees, and the only interaction we are allowed to have with them is chopping them down."
+msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:230
-msgid "How horrible! You really must try hugging one some day, for your own well-being. But, to return to the previous topic, the way we ensure our clothes fit is to wander the woods hugging trees until one lets the vines growing around it return our embrace in a way that feels just right, and then the vines will form new clothes for us based on this experience."
+msgid "Why, we simply wander the woods hugging trees until -"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:231
-msgid "OK, well, it's winter, so I don't think any of the trees around here have vines that would really feel up to that... Could you please try the human measurement system instead just this one time?"
+msgid "Wait, hold up, you literally HUG TREES?!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:232
-msgid "All right, what measurements do you require? The length of my ears?"
+msgid "Why yes, of course, haven't you ever tried it?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:233
-msgid "No, it's, ah, er... (*<i>blushes</i>*) ...you know what, maybe it would be better to have one of your fellow females explain this to you... look, there are Lorin and Karen over there; let's go ask one of them."
+msgid "Ha, that's hilarious! (*<i>catches breath from laughing</i>*) But, to answer your question, no, I haven't. Akladians raise their children to fear trees, and the only interaction we are allowed to have with them is chopping them down."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:234
+msgid "How horrible! You really must try hugging one some day, for your own well-being. But, to return to the previous topic, the way we ensure our clothes fit is to wander the woods hugging trees until one lets the vines growing around it return our embrace in a way that feels just right, and then the vines will form new clothes for us based on this experience."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:235
+msgid "OK, well, it's winter, so I don't think any of the trees around here have vines that would really feel up to that... Could you please try the human measurement system instead just this one time?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:236
-msgid "Hi, mother, I was just wondering if you could help explain human measurements to Kyobaine here?"
+msgid "All right, what measurements do you require? The length of my ears?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:237
-msgid "Measurements? You mean like how far I can drive my knife into someone's back?"
+msgid "No, it's, ah, er... (*<i>blushes</i>*) ...you know what, maybe it would be better to have one of your fellow females explain this to you... look, there are Lorin and Karen over there; let's go ask one of them."
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:238
-msgid "No, of course not! I meant for clothing."
+msgid "Let's ask..."
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:239
+msgid "Lorin (quicker)."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:240
+msgid "Karen (chattier)."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:242
+msgid "Hi, mother, I was just wondering if you could help explain human measurements to Kyobaine here?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:243
+msgid "Measurements? You mean like how far I can drive my knife into someone's back?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:244
+msgid "No, of course not! I meant for clothing."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:245
 msgid "Oh right, THOSE kinds of measurements. I don't remember them myself. I usually let an underling servant take them, and then kill him after he has returned with the clothes, so that he can't go leaking my secrets to anyone else."
 msgstr ""
 
 #. [event]
 #. [scenario]: id=14b_Bontom
-#: A_New_Order/macros/elvish_macros.cfg:240
+#: A_New_Order/macros/elvish_macros.cfg:246
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:314
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:356
 #: A_New_Order/scenarios/14b_Bontom.cfg:72
@@ -980,80 +1010,240 @@ msgid "..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:242
+#: A_New_Order/macros/elvish_macros.cfg:248
 msgid "You know what, forget I asked. Kyobaine, maybe you should just go get your own clothes after all."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:243
+#: A_New_Order/macros/elvish_macros.cfg:249
 msgid "Well that was a waste of time. All that talk just to get back to what my original plan was in the first place..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:245
+#: A_New_Order/macros/elvish_macros.cfg:252
 msgid "Hey Karen, I was just wondering if you could help explain human measurements to Kyobaine here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:246
+#: A_New_Order/macros/elvish_macros.cfg:253
 msgid "Oooh, clothes shopping, are we? Got a big date coming up, eh, Kyobaine?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:248
+#: A_New_Order/macros/elvish_macros.cfg:255
 msgid "What? No! I'm just cold and need a cloak. Actually, for that matter, aren't YOU cold, too? You're almost as exposed to the elements as I am!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:249
+#: A_New_Order/macros/elvish_macros.cfg:256
 msgid "What? No, I'm not! I've already got my own cloak on! I'm just leaving it behind my back without the hood up because, because, uh... (*<i>looks nervously at Gawen</i>*) ...you know what, never mind! Gawen, could you please leave us alone for a moment so we can have some privacy?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:250
+#: A_New_Order/macros/elvish_macros.cfg:257
 msgid "Sure. (*<i>leaves</i>*)"
 msgstr ""
 
 #. [event]
+#: A_New_Order/macros/elvish_macros.cfg:258
+msgid "...ok, now that he's gone... yes, you are correct, I am in fact dressing so that my tits stick out for Gawen to notice. Go ahead, call me a slut or whatever, but it's not like you're any less of one, walking around here without even a bra on under your skimpy robes!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:259
+msgid "A... bra? What's that?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:260
+msgid "Uh, you know, short for “brassiere”? You know, to hold your breasts up? Do you elves not have them or something?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:261
+msgid "Why would we need to hold our breasts up with clothing? They stay up on their own naturally. What, do you human women start to sag without these “bra” items?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:262
+msgid "I mean... yeah? Just look at Lorin, for instance."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:263
+msgid "Hey! I heard that! I am <i>not</i> sagging! And who are you to be going and advising people about the wearing of bras, anyways, when you're barely out of a training one yourself?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:264
+msgid "Oh hello Lorin, who told you that you could listen in?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:265
+msgid "Look, you two, all I wanted was to learn about the sizing of human clothing so that Gawen could buy me something for the winter. If you two are going to fight, however, I don't need to stick around for that."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:266
+msgid "Wait, Kyobaine, I was still going to do that! Lorin <i>was <b>just leaving, after all</b>...</i>"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:267
+msgid "Hmph. (*<i>struts off</i>*)"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:268
+msgid "OK, so, now that she's gone... what type of clothes did you need, anyways?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:269
+msgid "I was thinking of just getting a nice robe to throw over my shoulders."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:270
+msgid "Oh, that's all? You don't even need sizes for those, they're mostly one-size-fits-all. Size info would really only be necessary if you were going to replace your entire robe."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:271
+msgid "Well, I may do that, too."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:272
+msgid "Oh, you are? Well I guess maybe we will need your measurements after all, then... here, let's step inside to take them."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:273
+msgid "All right. (*<i>they step inside</i>*)"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:274
+msgid "Okay, so, if you're going to be getting new robes, you'll probably also want to try one of those bras I was telling you about, too. They're really not as uncomfortable as other human women might tell you, at least, not if you get a good fit. Well... all right, they might be a little uncomfortable, but at least not as much as those corsets that the ladies of high society wear."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:275
+msgid "You're not exactly being very convincing here."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:276
+msgid "It'll make it easier to find your robe size, too! Anyways, Wesnothian humans specify our bra sizes in two parts: the band, and the cup."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:277
+msgid "The... cup? Do you humans drink out of these articles of clothing? Generally we elves nurse our babies directly from the breast, instead of giving them cups..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:278
+msgid "No, silly! Of course we nurse our babies directly from the breast, too! The term “cup” is just an expression."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:279
+msgid "Finally, a cultural practice we share in common!"
+msgstr ""
+
+#. [event]
 #: A_New_Order/macros/elvish_macros.cfg:280
+msgid "Anyways, back to measurements: Wesnothian women use letters of the alphabet to specify cup size; I currently wear a size “D”. Shall we find out your size now?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:281
+msgid "Fine, since you seem so insistent about getting me to wear a bra, I guess I'll give it a try..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:282
+msgid "Okay then! (*<i>grabs Kyobaine's boobs</i>*)"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:283
+msgid "Aieee! Your hands are so cold!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:284
+msgid "Hm, about 1 handful apiece... I'd say you're about a “C” cup?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:285
+msgid "Fine, fine, just please remove your frozen hands from me!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:286
+msgid "All right..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:287
+msgid "If taking the rest of these measurements will also involve you putting your hands on me, might you at least go and warm up your hands by the fire first?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:288
+msgid "No, we can do the rest of the measurements with this measuring tape! I mean, unless... you'd <i>like</i> for me to use my hands instead?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:292
+msgid "I think I saw a tailor just back that way that you could buy something from."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:321
 msgid "Uh... she <i>is</i> coming back, isn't she?"
 msgstr ""
 
 #. [event]
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:287
+#: A_New_Order/macros/elvish_macros.cfg:328
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 msgid "...yes?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:288
+#: A_New_Order/macros/elvish_macros.cfg:329
 msgid "...!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:289
+#: A_New_Order/macros/elvish_macros.cfg:330
 msgid "...why do you look so surprised? I <i>did</i> say I was going to buy better winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
 
 #. [event]
 #. Gawen is tongue-tied by Kyobaine's reappearance:
-#: A_New_Order/macros/elvish_macros.cfg:291
+#: A_New_Order/macros/elvish_macros.cfg:332
 msgid "...yes, well, indeed! Carry on, then!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:292
+#: A_New_Order/macros/elvish_macros.cfg:333
 msgid "Humans... their reactions can be so strange sometimes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:298
+#: A_New_Order/macros/elvish_macros.cfg:339
 msgid "Hey, give back my gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:302
+#: A_New_Order/macros/elvish_macros.cfg:343
 msgid "Stingy bastard."
 msgstr ""
 
