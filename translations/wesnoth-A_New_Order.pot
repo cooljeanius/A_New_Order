@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-15 02:19 UTC\n"
+"POT-Creation-Date: 2023-03-15 02:41 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1111,205 +1111,64 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:276
-msgid "Well, I may do that, too."
+msgid "Oh. So, what was this fuss all about again?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:277
-msgid "Oh, you are? Well I guess maybe we will need your measurements after all, then... here, let's step inside to take them."
+msgid "I dunno. Maybe Gawen was just trying to flirt with you or something?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:278
-msgid "All right. (*<i>they step inside</i>*)"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:279
-msgid "Okay, so, if you're going to be getting new robes, you'll probably also want to try one of those bras I was telling you about, too. They're really not as uncomfortable as other human women might tell you, at least, not if you get a good fit. Well... all right, they might be a <i>little</i> uncomfortable, but at least not as much as those corsets that the ladies of high society wear."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:280
-msgid "You're not exactly being very convincing here."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:281
-msgid "It'll make it easier to find your robe size, too! Anyways, Wesnothian humans specify our bra sizes in two parts: the band, and the cup."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:282
-msgid "The... cup? Do you humans drink out of these articles of clothing? Generally we elves nurse our babies directly from the breast, instead of giving them cups..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:283
-msgid "No, silly! Of course we nurse our babies directly from the breast, too! The term “cup” is just an expression."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:284
-msgid "Finally, a cultural practice we share in common!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:285
-msgid "Anyways, back to measurements: Wesnothian women use letters of the alphabet to specify cup size; I currently wear a size “D”. Shall we find out your size now?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:286
-msgid "Fine, since you seem so insistent about getting me to wear a bra, I guess I'll give it a try..."
+msgid "Gawen? Ew. Well, I guess I had best just go buy something myself, then."
 msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:287
-msgid "Okay then! (*<i>grabs Kyobaine's boobs</i>*)"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:288
-msgid "Aieee! Your hands are so cold!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:289
-msgid "Hm, about 1 handful apiece... I'd say you're about a “C” cup?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:290
-msgid "Fine, fine, just please remove your frozen hands from me!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:291
-msgid "All right..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:292
-msgid "If taking the rest of these measurements will also involve you putting your hands on me, might you at least go and warm up your hands by the fire first?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:293
-msgid "No, we can do the rest of the measurements with this measuring tape! I mean, unless... you'd <i>like</i> for me to use my hands instead?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:294
-msgid "Well... how many of these measurement things do we still need to take?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:295
-msgid "Four: bust, waist, hips, and inseam."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:296
-msgid "All right, bust, waist, and hips I can understand, but... inseam? Where would your hands be going for that one?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:297
-msgid "They go right... here."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:298
-#: A_New_Order/macros/elvish_macros.cfg:353
-msgid "...!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:299
-msgid "Do you like the way that feels?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:300
-msgid "I... I... eheheh..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:301
-msgid "Here, how about you put your hand in the same place on me..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:302
-msgid "O...kay then... here I go..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:303
-msgid "You ever kiss a human girl before, Kyobaine?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:304
-msgid "Well, I can't say I like humans much, but, at least you female ones aren't as hairy as your male ones are..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:305
-msgid "That's right, we're not. We actually feel more like... this."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:306
-msgid "Mmmm..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:307
-msgid "Luckily for Karen and Kyobaine, there was a large bed in the lodging they had stepped into."
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/elvish_macros.cfg:317
 msgid "I think I saw a tailor just back that way that you could buy something from."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:345
+#: A_New_Order/macros/elvish_macros.cfg:315
 msgid "Uh... she <i>is</i> coming back, isn't she?"
 msgstr ""
 
 #. [event]
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:352
+#: A_New_Order/macros/elvish_macros.cfg:322
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 msgid "...yes?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:354
+#: A_New_Order/macros/elvish_macros.cfg:323
+msgid "...!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:324
 msgid "...why do you look so surprised? I <i>did</i> say I was going to buy better winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
 
 #. [event]
 #. Gawen is tongue-tied by Kyobaine's reappearance:
-#: A_New_Order/macros/elvish_macros.cfg:356
+#: A_New_Order/macros/elvish_macros.cfg:326
 msgid "...yes, well, indeed! Carry on, then!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:357
+#: A_New_Order/macros/elvish_macros.cfg:327
 msgid "Humans... their reactions can be so strange sometimes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:363
+#: A_New_Order/macros/elvish_macros.cfg:333
 msgid "Hey, give back my gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:367
+#: A_New_Order/macros/elvish_macros.cfg:337
 msgid "Stingy bastard."
 msgstr ""
 
