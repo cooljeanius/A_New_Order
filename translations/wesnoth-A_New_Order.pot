@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-14 22:44 UTC\n"
+"POT-Creation-Date: 2023-03-15 02:19 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1221,7 +1221,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:298
-#: A_New_Order/macros/elvish_macros.cfg:351
+#: A_New_Order/macros/elvish_macros.cfg:353
 msgid "...!"
 msgstr ""
 
@@ -1257,49 +1257,59 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:305
-msgid "That's right, we're not."
+msgid "That's right, we're not. We actually feel more like... this."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:315
+#: A_New_Order/macros/elvish_macros.cfg:306
+msgid "Mmmm..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:307
+msgid "Luckily for Karen and Kyobaine, there was a large bed in the lodging they had stepped into."
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/elvish_macros.cfg:317
 msgid "I think I saw a tailor just back that way that you could buy something from."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:343
+#: A_New_Order/macros/elvish_macros.cfg:345
 msgid "Uh... she <i>is</i> coming back, isn't she?"
 msgstr ""
 
 #. [event]
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:350
+#: A_New_Order/macros/elvish_macros.cfg:352
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 msgid "...yes?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:352
+#: A_New_Order/macros/elvish_macros.cfg:354
 msgid "...why do you look so surprised? I <i>did</i> say I was going to buy better winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
 
 #. [event]
 #. Gawen is tongue-tied by Kyobaine's reappearance:
-#: A_New_Order/macros/elvish_macros.cfg:354
+#: A_New_Order/macros/elvish_macros.cfg:356
 msgid "...yes, well, indeed! Carry on, then!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:355
+#: A_New_Order/macros/elvish_macros.cfg:357
 msgid "Humans... their reactions can be so strange sometimes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:361
+#: A_New_Order/macros/elvish_macros.cfg:363
 msgid "Hey, give back my gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:365
+#: A_New_Order/macros/elvish_macros.cfg:367
 msgid "Stingy bastard."
 msgstr ""
 
