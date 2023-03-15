@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-15 02:41 UTC\n"
+"POT-Creation-Date: 2023-03-15 05:16 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgstr ""
 #. [unit_type]: id=Oracle, race=human
 #. [unit]: type=Oracle, id=Oracle
 #: A_New_Order/units/others/Oracle.cfg:6
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1794
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1830
 msgid "Oracle"
 msgstr ""
 
@@ -1111,7 +1111,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:276
-msgid "Oh. So, what was this fuss all about again?"
+msgid "Oh. So, what was this fuss about sizes all about again?"
 msgstr ""
 
 #. [event]
@@ -1620,7 +1620,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:477
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:185
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:210
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1536
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1572
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:499
 #: A_New_Order/scenarios/27_Orannon.cfg:741
 #: A_New_Order/scenarios/27_Orannon.cfg:1141
@@ -2829,7 +2829,7 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:180
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:181
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:206
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1532
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1568
 #: A_New_Order/scenarios/27_Orannon.cfg:749
 #: A_New_Order/scenarios/27_Orannon.cfg:1149
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:224
@@ -2852,7 +2852,7 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:176
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:177
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:202
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1528
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1564
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:495
 #: A_New_Order/scenarios/27_Orannon.cfg:737
 #: A_New_Order/scenarios/27_Orannon.cfg:1137
@@ -4142,7 +4142,7 @@ msgstr ""
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:92
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:173
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:198
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1520
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1556
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:491
 #: A_New_Order/scenarios/27_Orannon.cfg:733
 #: A_New_Order/scenarios/27_Orannon.cfg:1133
@@ -4179,7 +4179,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:926
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:304
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1775
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1811
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:584
 msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
@@ -8314,7 +8314,7 @@ msgstr ""
 #: A_New_Order/scenarios/23_Trapped.cfg:879
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:175
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:166
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1548
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1584
 msgid "There are no interrogations in this scenario."
 msgstr ""
 
@@ -10354,6 +10354,36 @@ msgstr ""
 msgid "Matthias Ramon"
 msgstr ""
 
+#. [object]: id=M_R_healing_skill
+#. [object]: id=healing_skill
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:86
+#: A_New_Order/scenarios/14b_Bontom.cfg:21
+#: A_New_Order/scenarios/14b_Bontom.cfg:992
+msgid "Healing skill"
+msgstr ""
+
+#. [object]: id=M_R_healing_skill
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:88
+msgid "This unit has learned an odd style of healing skill: it can cure poison and heal a few HP of wounded friendly units."
+msgstr ""
+
+#. [heals]: id=M_R_basic_healing
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:95
+msgid "oracular healing"
+msgstr ""
+
+#. [heals]: id=M_R_basic_healing
+#. String splicing here; amount of healing varies with difficulty and will be interpolated.
+#. Spliced string will read something like "heals +5, cures poison"
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:98
+msgid "heals +"
+msgstr ""
+
+#. [heals]: id=M_R_basic_healing
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:98
+msgid ", cures poison"
+msgstr ""
+
 #. [unit]: type=Pikeman, id=Oracle's Guard 1
 #. [unit]: type=Pikeman, id=Oracle's Guard 2
 #. [unit]: type=Swordsman, id=Oracle's Guard 3
@@ -10386,43 +10416,43 @@ msgstr ""
 #. [unit]: type=Peasant, id=Oracle's Guard 31
 #. [unit]: type=Peasant, id=Oracle's Guard 32
 #. [unit]: type=Peasant, id=Oracle's Guard 33
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:140
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:152
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:165
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:179
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:190
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:176
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:188
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:201
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:213
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:215
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:226
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:239
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:252
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:265
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:278
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:291
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:304
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:316
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:329
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:342
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:355
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:366
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:379
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:390
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:403
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:416
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:429
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:442
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:455
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:469
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:487
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:501
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:514
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:526
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:538
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:237
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:249
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:262
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:275
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:288
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:301
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:314
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:327
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:340
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:352
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:365
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:378
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:391
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:402
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:415
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:426
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:439
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:452
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:465
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:478
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:491
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:505
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:523
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:537
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:550
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:562
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:574
 msgid "Oracle's Guard"
 msgstr ""
 
 #. [side]: id=Baruk Urk, type=Orcish Warlord
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:556
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:592
 msgid "Baruk Urk"
 msgstr ""
 
@@ -10436,21 +10466,21 @@ msgstr ""
 #. [unit]: type=Orcish Grunt, id=Orc 8
 #. [unit]: type=Orcish Grunt, id=Orc 9
 #. [unit]: type=Orcish Grunt, id=Orc 10
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:653
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:666
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:677
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:688
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:699
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:712
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:725
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:738
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:751
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:764
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:689
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:702
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:713
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:724
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:735
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:748
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:761
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:774
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:787
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:800
 msgid "Orc"
 msgstr ""
 
 #. [side]: id=Fat Bart, type=Fugitive
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:782
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:818
 msgid "Fat Bart"
 msgstr ""
 
@@ -10464,43 +10494,43 @@ msgstr ""
 #. [unit]: type=Fugitive, id=Outlaw 8
 #. [unit]: type=Fugitive, id=Outlaw 9
 #. [unit]: type=Trapper, id=Outlaw 10
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:883
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:896
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:909
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:922
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:933
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:944
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:955
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:968
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:981
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:994
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:919
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:932
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:945
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:958
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:969
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:980
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:991
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1004
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1017
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1030
 msgid "Outlaw"
 msgstr ""
 
 #. [side]: id=Burke Barien, type=Akladian Lord
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1012
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1048
 msgid "Burke Barien"
 msgstr ""
 
 #. [unit]: type=Akladian Warrior, id=Barien
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1071
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1107
 msgid "Barien"
 msgstr ""
 
 #. [unit]: type=Akladian Warrior, id=Burien
 #. [unit]: type=Akladian Raider, id=Burien
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1084
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1122
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1120
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1158
 msgid "Burien"
 msgstr ""
 
 #. [unit]: type=Akladian Warrior, id=Telen
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1097
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1133
 msgid "Telen"
 msgstr ""
 
 #. [unit]: type=Akladian Raider, id=Dulen
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1110
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1146
 msgid "Dulen"
 msgstr ""
 
@@ -10510,32 +10540,32 @@ msgstr ""
 #. [unit]: type=Akladian Warrior, id=Beren 4
 #. [unit]: type=Akladian Sturmknight, id=Beren 5
 #. [unit]: type=Akladian Darknite, id=Beren 6
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1135
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1148
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1161
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1174
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1187
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1200
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1171
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1184
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1197
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1210
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1223
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1236
 msgid "Beren"
 msgstr ""
 
 #. [unit]: type=Akladian Darknite, id=Buren 2
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1213
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1249
 msgid "Buren"
 msgstr ""
 
 #. [side]: id=Boren Rebarnon, type=Akladian Lord
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1231
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1267
 msgid "Boren Rebarnon"
 msgstr ""
 
 #. [unit]: type=Akladian Darknite, id=Rebarnon
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1291
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1327
 msgid "Rebarnon"
 msgstr ""
 
 #. [unit]: type=Akladian Raider, id=Wutan
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1304
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1340
 msgid "Wutan"
 msgstr ""
 
@@ -10544,187 +10574,187 @@ msgstr ""
 #. [unit]: type=Akladian Clansman, id=Askarial 3
 #. [unit]: type=Akladian Warrior, id=Askarial 4
 #. [unit]: type=Akladian Warrior, id=Askarial 5
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1317
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1330
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1343
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1356
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1369
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1353
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1366
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1379
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1392
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1405
 msgid "Askarial"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1505
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1541
 msgid "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne wants to have her untouched."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1506
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
 msgid "Bor Cryne may desire whatever he wants. But the holy Oracle will be a 'guest' of the noble lord Uri van Roe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1507
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
 msgid "You two can settle that later. Everything else inside the city will belong to us!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1508
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1509
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
 msgid "Wait, I think someone is trying to help the besieged."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1510
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
 msgid "The Oracle was right, as always! Relief is coming! Fight harder, men, we must hold out long enough for relief to arrive!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1524
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1560
 msgid "Any enemy unit reaches the keep of the Oracle."
 msgstr ""
 
 #. [objectives]
 #. EASY difficulty, so be more explicit about how things work:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1578
 msgid "The scenario will continue even if Matthias Ramon dies. It is the keep upon which he stands that requires greater protection."
 msgstr ""
 
 #. [objectives]
 #. NORMAL, HARD, or NIGHTMARE difficulty, so this should just be a description of mechanics instead of having any sort of hint-like qualities:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1581
 msgid "The scenario will continue even if Matthias Ramon dies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1565
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1601
 msgid "Yikes, this Oracle is better defended than we expected! Let's get some gold together for some more reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1577
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1613
 msgid "I am under attack! To me, men! We must protect the Oracle together!"
 msgstr ""
 
 #. [message]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1584
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1620
 msgid "On our way, sir!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1607
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1643
 msgid "The attackers have slain me! Hurry, to my keep, men! You must protect the Oracle for me in my stead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1622
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1658
 msgid "I found her! I found her! The Oracle!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1623
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1659
 msgid "All is lost! They captured the Oracle!"
 msgstr ""
 
 #. [event]
 #. The "o" in "oracle" is intentionally lowercase here so that Ruvio can correct Gawen in the line after this.
 #. (I'm not sure how Ruvio can tell case when they're supposed to be speaking aloud, but let's ignore that for now)
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1787
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1823
 msgid "We've won! At last. Now, where is that famous oracle?"
 msgstr ""
 
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify that
 #. 'The Oracle' is special, like a unique honoriffic (if you language has those) or something:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1790
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1826
 msgid "You pronounce that 'The Oracle'... all she needs is a great big 'The' in front and a capital O. But indeed, where is she?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1808
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1844
 msgid "Here I am. My voice speaks to those willing to listen. I know why you are here. I know who all of you are. Ask your questions and receive the answers, for I can see everything which may be."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1809
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1845
 msgid "Everything, huh? Then how come you were besieged and almost captured? Why didn't you escape or call on someone to help you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1810
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1846
 msgid "The answer to this question is the answer to your doubts. Why haven't I escaped? Why didn't I call someone for help?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1811
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1847
 msgid "Lady, we are searching for the great mage, Deorien. Maybe you know..."
 msgstr ""
 
 #. [event]
 #. Note to translators: This is archaic English, 'thee' and 'thou' are the singular familiar forms of 'you' - 'crieth' and 'recalleth' are old English for 'cries' and 'recalls'... 'e'en' is a poetic way of saying 'even'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1814
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1850
 msgid "Search for Deorien in the ruins of the great city, where e'en the wind crieth when it recalleth the memories of a marvelous past. He shall give unto thee answers, some of which thou mayest find unwelcome."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1816
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1852
 msgid "Ruins of the great city? What kind of answer is this? Which city? Why can't you give me straight answers?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1817
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1853
 msgid "I am an Oracle. Why should I give straight answers? Why do you think my answer is insufficient for you? Why do you think I should tell you more?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1818
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1854
 msgid "Oracle... I..."
 msgstr ""
 
 #. [event]
 #. If you are translating the Oracle's answers, and if you are not sure what Lorin's questions were, contact the campaign creator. The answers might not involve "to be" in some languages.
 #. Note to translators: This sentence incorporates quite a bit of archaic English. 'Yea' is old English for yes and 'thou' is the familiar/intimate form of a singular 'you'... 'ye' in the third answer is the old English familliar, plural form of 'you' - and 'nay' is old English for 'no.'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1822
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
 msgid "I already know your questions, Lorin from Gallorae, the clan which has long had more gold in the hair of their daughters than in their treasuries. The first answer is: yea, thou art. The second is: yea, he shall. The third is: nay, ye never shall."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1824
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1860
 msgid "No! No!  There has to be a better answer!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1825
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1861
 msgid "As the Oracle, I have nothing more to say to thee... As a woman, I can advise this: There is only one man in the world who may change your future. I think you know his name. Go and find him. Beg him for forgiveness if you have to. Stay with him as long as you can."
 msgstr ""
 
 #. [event]
 #. FIXME: this wording could be improved:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1827
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1863
 msgid "Is that all you wanted to tell me? Then know that I've heard, that the She-wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She will not hear the counsel woman whom is merely God's tool."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1828
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1864
 msgid "Let's go, Gawen. We're finished here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1829
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1865
 msgid "I didn't catch the meaning of the discussion between you, and I know it was important. But why?"
 msgstr ""
 
 #. [event]
 #. 'import' is an older English term for 'Importance'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1832
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1868
 msgid "You shall understand the full import of it one day, young king, and I daresay sooner than you think. I wish you luck in your quest. I will give one of my sergeants into your service. He will serve you loyally."
 msgstr ""
 
 #. [unit]: type=Sergeant, id=John Fasthood
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1839
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1875
 msgid "John Fasthood"
 msgstr ""
 
@@ -12665,15 +12695,9 @@ msgid "Wait, young man. You made me laugh, and in my age, and in this time, this
 msgstr ""
 
 #. [object]: id=healing_skill
-#: A_New_Order/scenarios/14b_Bontom.cfg:21
-#: A_New_Order/scenarios/14b_Bontom.cfg:992
-msgid "Healing skill"
-msgstr ""
-
-#. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:23
 #: A_New_Order/scenarios/14b_Bontom.cfg:994
-msgid "This unit have learned basic healing skills: it can cure poison and up to 2 HP of wounded friendly units."
+msgid "This unit has learned basic healing skills: it can cure poison and up to 2 HP of wounded friendly units."
 msgstr ""
 
 #. [heals]: id=basic_healing
