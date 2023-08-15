@@ -44,7 +44,7 @@ PORTRAITS
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
 * Outlaw Raider (might cost more due to some artists charging more for horses)
-  (Brigand went to Mells/ohlyf, so I'll probably assign this one to her as well)
+  (being commissioned to Mells/ohlyf)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority) (being
