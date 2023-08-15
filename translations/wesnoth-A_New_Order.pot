@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-08-15 03:31 UTC\n"
+"POT-Creation-Date: 2023-08-15 04:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,6 +80,8 @@ msgstr ""
 #. [event]
 #. [unit]: id=Karen, type=Ruvios Daughter
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
+#: A_New_Order/macros/messages.cfg:56
+#: A_New_Order/macros/messages.cfg:60
 #: A_New_Order/scenarios/13_Scouting.cfg:715
 #: A_New_Order/scenarios/13_Scouting.cfg:725
 #: A_New_Order/scenarios/13_Scouting.cfg:736
@@ -115,6 +117,9 @@ msgstr ""
 #. [event]
 #. [unit]: id=Ruvio, type=Ruvio
 #: A_New_Order/units/others/Ruvio.cfg:4
+#: A_New_Order/macros/messages.cfg:84
+#: A_New_Order/macros/messages.cfg:88
+#: A_New_Order/macros/messages.cfg:95
 #: A_New_Order/scenarios/20_Okladia.cfg:436
 #: A_New_Order/scenarios/20_Okladia.cfg:445
 #: A_New_Order/scenarios/20_Okladia.cfg:455
@@ -2982,6 +2987,137 @@ msgstr ""
 msgid "+$experience_gained| exp"
 msgstr ""
 
+#. [message]: speaker=Gawen Hagarthen
+#: A_New_Order/macros/messages.cfg:9
+#: A_New_Order/macros/messages.cfg:13
+#: A_New_Order/macros/messages.cfg:17
+#: A_New_Order/macros/messages.cfg:21
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
+msgid "Gawen"
+msgstr ""
+
+#: A_New_Order/macros/messages.cfg:25
+msgid "Graeme"
+msgstr ""
+
+#. [side]: type=Akladian Chieftain, id=Reumario
+#: A_New_Order/macros/messages.cfg:29
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:180
+msgid "Reumario"
+msgstr ""
+
+#: A_New_Order/macros/messages.cfg:36
+msgid "Rauke"
+msgstr ""
+
+#. [unit]: type=Lord Bor Cryne, id=Bor Cryne
+#. [side]: id=Bor Cryne, type=Lord Bor Cryne
+#: A_New_Order/macros/messages.cfg:40
+#: A_New_Order/scenarios/25_The_Awakening.cfg:888
+#: A_New_Order/scenarios/03_Coronation.cfg:130
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:246
+#: A_New_Order/scenarios/27_Orannon.cfg:125
+msgid "Bor Cryne"
+msgstr ""
+
+#. [side]: id=Uri van Roe, type=Akladian Lord
+#: A_New_Order/macros/messages.cfg:44
+#: A_New_Order/scenarios/03_Coronation.cfg:140
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:287
+#: A_New_Order/scenarios/27_Orannon.cfg:208
+msgid "Uri van Roe"
+msgstr ""
+
+#: A_New_Order/macros/messages.cfg:48
+msgid "Quivre"
+msgstr ""
+
+#: A_New_Order/macros/messages.cfg:52
+msgid "Gwidle"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=28_Lorin
+#: A_New_Order/macros/messages.cfg:64
+#: A_New_Order/macros/messages.cfg:68
+#: A_New_Order/macros/messages.cfg:72
+#: A_New_Order/scenarios/20_Okladia.cfg:438
+#: A_New_Order/scenarios/20_Okladia.cfg:447
+#: A_New_Order/scenarios/20_Okladia.cfg:457
+#: A_New_Order/scenarios/20_Okladia.cfg:464
+#: A_New_Order/scenarios/13_Scouting.cfg:717
+#: A_New_Order/scenarios/13_Scouting.cfg:726
+#: A_New_Order/scenarios/28_Lorin.cfg:3
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
+msgid "Lorin"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/messages.cfg:76
+#: A_New_Order/macros/messages.cfg:80
+#: A_New_Order/scenarios/20_Okladia.cfg:437
+#: A_New_Order/scenarios/20_Okladia.cfg:446
+#: A_New_Order/scenarios/13_Scouting.cfg:716
+#: A_New_Order/scenarios/13_Scouting.cfg:737
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:562
+msgid "Reme"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/messages.cfg:99
+#: A_New_Order/macros/messages.cfg:104
+#: A_New_Order/scenarios/13_Scouting.cfg:718
+#: A_New_Order/scenarios/13_Scouting.cfg:727
+msgid "Yahyazad"
+msgstr ""
+
+#. [unit]: id=Deorien, type=Mage of Light
+#. [event]
+#. [side]: id=Deorien, type=Mage of Light
+#: A_New_Order/macros/messages.cfg:108
+#: A_New_Order/scenarios/20_Okladia.cfg:97
+#: A_New_Order/scenarios/20_Okladia.cfg:439
+#: A_New_Order/scenarios/20_Okladia.cfg:456
+#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:70
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:110
+msgid "Deorien"
+msgstr ""
+
+#. [side]: id=Grekulak, type=Ancient Lich
+#: A_New_Order/macros/messages.cfg:112
+#: A_New_Order/scenarios/27_Orannon.cfg:377
+msgid "Grekulak"
+msgstr ""
+
+#. [unit]: type=Elvish Ranger, id=Elorain
+#: A_New_Order/macros/messages.cfg:117
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
+msgid "Elorain"
+msgstr ""
+
+#. [unit]: type=Elvish Captain, id=Milildur
+#: A_New_Order/macros/messages.cfg:120
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
+msgid "Milildur"
+msgstr ""
+
+#. [then]
+#. [else]
+#. [unit]: type=Elvish Shaman, id=Kyobaine
+#. [unit]: type=Elvish Scout, id=Kyobaine
+#. [unit]: type=Elvish Fighter, id=Kyobaine
+#. [unit]: type=Elvish Archer, id=Kyobaine
+#: A_New_Order/macros/messages.cfg:134
+#: A_New_Order/macros/messages.cfg:137
+#: A_New_Order/macros/messages.cfg:147
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
+msgid "Kyobaine"
+msgstr ""
+
 #. [scenario]: id=20_Okladia
 #: A_New_Order/scenarios/20_Okladia.cfg:4
 msgid "Okladia"
@@ -3077,17 +3213,6 @@ msgstr ""
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:99
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:45
 msgid "Gawen Hagarthen"
-msgstr ""
-
-#. [unit]: id=Deorien, type=Mage of Light
-#. [event]
-#. [side]: id=Deorien, type=Mage of Light
-#: A_New_Order/scenarios/20_Okladia.cfg:97
-#: A_New_Order/scenarios/20_Okladia.cfg:439
-#: A_New_Order/scenarios/20_Okladia.cfg:456
-#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:70
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:110
-msgid "Deorien"
 msgstr ""
 
 #. [then]
@@ -3621,29 +3746,6 @@ msgid "I would love to talk to..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:437
-#: A_New_Order/scenarios/20_Okladia.cfg:446
-#: A_New_Order/scenarios/13_Scouting.cfg:716
-#: A_New_Order/scenarios/13_Scouting.cfg:737
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:562
-msgid "Reme"
-msgstr ""
-
-#. [event]
-#. [scenario]: id=28_Lorin
-#: A_New_Order/scenarios/20_Okladia.cfg:438
-#: A_New_Order/scenarios/20_Okladia.cfg:447
-#: A_New_Order/scenarios/20_Okladia.cfg:457
-#: A_New_Order/scenarios/20_Okladia.cfg:464
-#: A_New_Order/scenarios/13_Scouting.cfg:717
-#: A_New_Order/scenarios/13_Scouting.cfg:726
-#: A_New_Order/scenarios/28_Lorin.cfg:3
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
-msgid "Lorin"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:472
 #: A_New_Order/scenarios/13_Scouting.cfg:753
 msgid "Ruvio, please tell me.."
@@ -3914,9 +4016,12 @@ msgstr ""
 #. [side]: id=Huon Ryedric, type=General
 #. [unit]: id=Huon Ryedric, type=Sergeant
 #. [unit]: id=Huon Ryedric, type=General
+#. [event]
+#. Huon pauses before saying "noble lords" because he isn't used to referring to Akladians as such yet, and is repressing his contempt for them:
 #: A_New_Order/scenarios/25_The_Awakening.cfg:349
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:62
 #: A_New_Order/scenarios/28_Lorin.cfg:162
+#: A_New_Order/scenarios/28_Lorin.cfg:228
 #: A_New_Order/scenarios/27_Orannon.cfg:95
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:71
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
@@ -4110,15 +4215,6 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1811
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:583
 msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
-msgstr ""
-
-#. [unit]: type=Lord Bor Cryne, id=Bor Cryne
-#. [side]: id=Bor Cryne, type=Lord Bor Cryne
-#: A_New_Order/scenarios/25_The_Awakening.cfg:888
-#: A_New_Order/scenarios/03_Coronation.cfg:130
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:246
-#: A_New_Order/scenarios/27_Orannon.cfg:125
-msgid "Bor Cryne"
 msgstr ""
 
 #. [unit]: type=Akladian Sturmknight, id=Bors Brien
@@ -4976,12 +5072,6 @@ msgid "Free men from Raedwood forest! You are always welcome here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:718
-#: A_New_Order/scenarios/13_Scouting.cfg:727
-msgid "Yahyazad"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:754
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr ""
@@ -5746,11 +5836,6 @@ msgstr ""
 #. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:288
 msgid "I thought you said that it was drakes that were attacking you?"
-msgstr ""
-
-#. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
-msgid "Gawen"
 msgstr ""
 
 #. [message]: speaker=Quësel
@@ -8628,15 +8713,25 @@ msgid "Graeme O Borraine"
 msgstr ""
 
 #. [side]: id=Luc Hagarthen, type=Akladian Lord
+#. [event]
 #. [unit]: id=Luc Hagarthen, type=Akladian Lord
 #: A_New_Order/scenarios/28_Lorin.cfg:113
+#: A_New_Order/scenarios/28_Lorin.cfg:211
+#: A_New_Order/scenarios/28_Lorin.cfg:215
+#: A_New_Order/scenarios/28_Lorin.cfg:221
+#: A_New_Order/scenarios/28_Lorin.cfg:263
 #: A_New_Order/scenarios/27_Orannon.cfg:819
 msgid "Luc Hagarthen"
 msgstr ""
 
 #. [side]: id=Gauri Hagarthen, type=Akladian Lord
+#. [event]
 #. [unit]: id=Gauri Hagarthen, type=Akladian Lord
 #: A_New_Order/scenarios/28_Lorin.cfg:123
+#: A_New_Order/scenarios/28_Lorin.cfg:220
+#: A_New_Order/scenarios/28_Lorin.cfg:236
+#: A_New_Order/scenarios/28_Lorin.cfg:241
+#: A_New_Order/scenarios/28_Lorin.cfg:265
 #: A_New_Order/scenarios/27_Orannon.cfg:834
 msgid "Gauri Hagarthen"
 msgstr ""
@@ -8738,7 +8833,6 @@ msgid "That's... Ruvio, Huon!"
 msgstr ""
 
 #. [event]
-#. Huon pauses before saying "noble lords" because he isn't used to referring to Akladians as such yet, and is repressing his contempt for them:
 #: A_New_Order/scenarios/28_Lorin.cfg:228
 msgid "My king, we cannot risk another civil war over the fate of one woman. You must listen to those... noble lords. You are king of both Akladians and Wesnothians and you should respect the customs of both nations."
 msgstr ""
@@ -9776,13 +9870,6 @@ msgstr ""
 #: A_New_Order/scenarios/03_Coronation.cfg:105
 #: A_New_Order/scenarios/03_Coronation.cfg:112
 msgid "Royal guard"
-msgstr ""
-
-#. [side]: id=Uri van Roe, type=Akladian Lord
-#: A_New_Order/scenarios/03_Coronation.cfg:140
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:287
-#: A_New_Order/scenarios/27_Orannon.cfg:208
-msgid "Uri van Roe"
 msgstr ""
 
 #. [event]
@@ -11574,11 +11661,6 @@ msgstr ""
 #. [side]: id=Mal-Raylal, type=Necromancer
 #: A_New_Order/scenarios/27_Orannon.cfg:301
 msgid "Mal-Raylal"
-msgstr ""
-
-#. [side]: id=Grekulak, type=Ancient Lich
-#: A_New_Order/scenarios/27_Orannon.cfg:377
-msgid "Grekulak"
 msgstr ""
 
 #. [side]: id=Warh Arug, type=Orcish Sovereign
@@ -14143,17 +14225,6 @@ msgstr ""
 msgid "A Shaman would be great."
 msgstr ""
 
-#. [unit]: type=Elvish Shaman, id=Kyobaine
-#. [unit]: type=Elvish Scout, id=Kyobaine
-#. [unit]: type=Elvish Fighter, id=Kyobaine
-#. [unit]: type=Elvish Archer, id=Kyobaine
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
-msgid "Kyobaine"
-msgstr ""
-
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:250
 msgid "A Scout could be useful."
@@ -14167,16 +14238,6 @@ msgstr ""
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:288
 msgid "Actually I would like to have one more archer."
-msgstr ""
-
-#. [unit]: type=Elvish Ranger, id=Elorain
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
-msgid "Elorain"
-msgstr ""
-
-#. [unit]: type=Elvish Captain, id=Milildur
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
-msgid "Milildur"
 msgstr ""
 
 #. [event]
@@ -16818,11 +16879,6 @@ msgstr ""
 #. [side]: type=Akladian Chieftain, id=Oyre Mathauri
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:160
 msgid "Oyre Mathauri"
-msgstr ""
-
-#. [side]: type=Akladian Chieftain, id=Reumario
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:180
-msgid "Reumario"
 msgstr ""
 
 #. [event]
