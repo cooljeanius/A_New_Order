@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-08-15 05:06 UTC\n"
+"POT-Creation-Date: 2023-08-15 05:18 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -750,6 +750,31 @@ msgstr ""
 #. a more phonetic spelling of "Ahem" (noise made when clearing one's throat):
 #: A_New_Order/macros/elvish_macros.cfg:132
 msgid "Ekhem."
+msgstr ""
+
+#. [event]
+#. [then]
+#. [else]
+#. [unit]: type=Elvish Shaman, id=Kyobaine
+#. [unit]: type=Elvish Scout, id=Kyobaine
+#. [unit]: type=Elvish Fighter, id=Kyobaine
+#. [unit]: type=Elvish Archer, id=Kyobaine
+#: A_New_Order/macros/elvish_macros.cfg:133
+#: A_New_Order/macros/elvish_macros.cfg:138
+#: A_New_Order/macros/elvish_macros.cfg:144
+#: A_New_Order/macros/elvish_macros.cfg:219
+#: A_New_Order/macros/elvish_macros.cfg:296
+#: A_New_Order/macros/elvish_macros.cfg:298
+#: A_New_Order/macros/elvish_macros.cfg:301
+#: A_New_Order/macros/elvish_macros.cfg:311
+#: A_New_Order/macros/messages.cfg:134
+#: A_New_Order/macros/messages.cfg:137
+#: A_New_Order/macros/messages.cfg:147
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
+msgid "Kyobaine"
 msgstr ""
 
 #. [event]
@@ -2336,7 +2361,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:538
 #: A_New_Order/macros/ano-20macros.cfg:549
 #: A_New_Order/macros/ano-20macros.cfg:571
-#: A_New_Order/macros/ano-20macros.cfg:824
+#: A_New_Order/macros/ano-20macros.cfg:827
 #: A_New_Order/scenarios/27_Orannon.cfg:301
 msgid "Mal-Raylal"
 msgstr ""
@@ -2370,7 +2395,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:448
 #: A_New_Order/macros/ano-20macros.cfg:547
 #: A_New_Order/macros/ano-20macros.cfg:569
-#: A_New_Order/macros/ano-20macros.cfg:822
+#: A_New_Order/macros/ano-20macros.cfg:825
 msgid "Curse you, whole Akladian race! Curse you! And I put my curse on you, Gawen Hagarthen!"
 msgstr ""
 
@@ -2384,7 +2409,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:558
 #: A_New_Order/macros/ano-20macros.cfg:560
 #: A_New_Order/macros/ano-20macros.cfg:570
-#: A_New_Order/macros/ano-20macros.cfg:823
+#: A_New_Order/macros/ano-20macros.cfg:826
 #: A_New_Order/scenarios/27_Orannon.cfg:471
 msgid "Warh Arug"
 msgstr ""
@@ -2393,7 +2418,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:449
 #: A_New_Order/macros/ano-20macros.cfg:548
 #: A_New_Order/macros/ano-20macros.cfg:570
-#: A_New_Order/macros/ano-20macros.cfg:823
+#: A_New_Order/macros/ano-20macros.cfg:826
 msgid "Oh no! Our spiritual leader is dead! Run for your life!"
 msgstr ""
 
@@ -2401,7 +2426,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:450
 #: A_New_Order/macros/ano-20macros.cfg:549
 #: A_New_Order/macros/ano-20macros.cfg:571
-#: A_New_Order/macros/ano-20macros.cfg:824
+#: A_New_Order/macros/ano-20macros.cfg:827
 msgid "Master! Master! Without your will, our army will cease to exist! Noooo!"
 msgstr ""
 
@@ -2795,75 +2820,75 @@ msgid "Undead Bor Cryne"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:753
+#: A_New_Order/macros/ano-20macros.cfg:756
 msgid "No! How many times I do have to kill you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:755
+#: A_New_Order/macros/ano-20macros.cfg:758
 msgid "So, I will have the chance to kill you, anyway!"
 msgstr ""
 
 #. [event]
 #. Case where Bor Cryne dies before Grekulak has arrived:
-#: A_New_Order/macros/ano-20macros.cfg:760
+#: A_New_Order/macros/ano-20macros.cfg:763
 msgid "Just you wait... Once Grekulak comes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:775
+#: A_New_Order/macros/ano-20macros.cfg:778
 msgid "Be banished forever, creature of the night!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:787
+#: A_New_Order/macros/ano-20macros.cfg:790
 msgid "Oh I'm so scared! Ha! Ha! Have you come to me because you want to join your family, underling? Come and taste my blade!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:788
+#: A_New_Order/macros/ano-20macros.cfg:791
 msgid "I will wipe that smile from your face - my wife and daughters, I shall avenge you!!"
 msgstr ""
 
 #. [event]
 #. Ruvio is addressing Gawen here, since he had asked Gawen to let him be the one to kill Bor Cryne, but instead someone else did:
-#: A_New_Order/macros/ano-20macros.cfg:802
+#: A_New_Order/macros/ano-20macros.cfg:805
 msgid "Why... Why, my lord? I have only ever asked for but one thing, and yet it was denied me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:852
+#: A_New_Order/macros/ano-20macros.cfg:855
 msgid "Rise up, rise up! Join my army! ...Why do you not rise up!?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:853
+#: A_New_Order/macros/ano-20macros.cfg:856
 msgid "You overestimate your strength, Grekulak. White mages and Mages of Light will protect fallen units from being resurrected by you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:856
+#: A_New_Order/macros/ano-20macros.cfg:859
 msgid "How can this be? He is raising our dead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:857
+#: A_New_Order/macros/ano-20macros.cfg:860
 msgid "My lord, Grekulak's power is not as strong as he would have you - or himself - believe. He cannot raise people who die in the vicinity of white magi or magi of light."
 msgstr ""
 
 #. [event]
 #. ought to be unreachable, but just in case:
-#: A_New_Order/macros/ano-20macros.cfg:862
+#: A_New_Order/macros/ano-20macros.cfg:865
 msgid "How can this be? The undead were supposed to arrive with Grekulak, yet here they are separate from him! Something truly strange must have happened... Be on your guards!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:888
+#: A_New_Order/macros/ano-20macros.cfg:891
 msgid "OOPS. If one of the undead sides is killing you before Grekulak has come, then that is a bug; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:897
+#: A_New_Order/macros/ano-20macros.cfg:900
 msgid "I think it's time to make use of all our reserves!"
 msgstr ""
 
@@ -3185,22 +3210,6 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:120
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
-msgstr ""
-
-#. [then]
-#. [else]
-#. [unit]: type=Elvish Shaman, id=Kyobaine
-#. [unit]: type=Elvish Scout, id=Kyobaine
-#. [unit]: type=Elvish Fighter, id=Kyobaine
-#. [unit]: type=Elvish Archer, id=Kyobaine
-#: A_New_Order/macros/messages.cfg:134
-#: A_New_Order/macros/messages.cfg:137
-#: A_New_Order/macros/messages.cfg:147
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
-msgid "Kyobaine"
 msgstr ""
 
 #. [scenario]: id=20_Okladia
