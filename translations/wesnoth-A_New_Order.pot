@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-08-15 04:00 UTC\n"
+"POT-Creation-Date: 2023-08-15 05:06 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1205,8 +1205,41 @@ msgstr ""
 msgid "Okladia was one of four kingdoms founded by Gawen's grandfather's sons after his death. Okladia was ruled by Buffin Hagarthen, an old, suspicious, and very conservative king. He had been easily able to crush a recent Wesnothian rebellion in his country - for the fourth time in his reign - and had the reputation of being a very careful and skillful ruler."
 msgstr ""
 
+#. [message]: speaker=Gawen Hagarthen
+#: A_New_Order/macros/conversations.cfg:41
+#: A_New_Order/macros/conversations.cfg:45
+#: A_New_Order/macros/conversations.cfg:48
+#: A_New_Order/macros/conversations.cfg:76
+#: A_New_Order/macros/messages.cfg:9
+#: A_New_Order/macros/messages.cfg:13
+#: A_New_Order/macros/messages.cfg:17
+#: A_New_Order/macros/messages.cfg:21
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
+msgid "Gawen"
+msgstr ""
+
 #: A_New_Order/macros/conversations.cfg:42
 msgid "It's strange, but I have a premonition of success, the likes of which I have had never before. Our soldiers are really the best of their kind; the true elite. It's been more than a month since we left Raedwood, and we have already routed forces larger than ours."
+msgstr ""
+
+#. [event]
+#. [scenario]: id=28_Lorin
+#: A_New_Order/macros/conversations.cfg:43
+#: A_New_Order/macros/conversations.cfg:46
+#: A_New_Order/macros/conversations.cfg:49
+#: A_New_Order/macros/messages.cfg:64
+#: A_New_Order/macros/messages.cfg:68
+#: A_New_Order/macros/messages.cfg:72
+#: A_New_Order/scenarios/20_Okladia.cfg:438
+#: A_New_Order/scenarios/20_Okladia.cfg:447
+#: A_New_Order/scenarios/20_Okladia.cfg:457
+#: A_New_Order/scenarios/20_Okladia.cfg:464
+#: A_New_Order/scenarios/13_Scouting.cfg:717
+#: A_New_Order/scenarios/13_Scouting.cfg:726
+#: A_New_Order/scenarios/28_Lorin.cfg:3
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
+msgid "Lorin"
 msgstr ""
 
 #: A_New_Order/macros/conversations.cfg:44
@@ -1735,13 +1768,42 @@ msgid "Hello world!"
 msgstr ""
 
 #. [event]
+#. [unit]: id=Alarice, type=White Mage
+#: A_New_Order/macros/ano-20macros.cfg:20
+#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:139
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:181
+msgid "Alarice"
+msgstr ""
+
+#. [event]
 #: A_New_Order/macros/ano-20macros.cfg:20
 msgid "That's impossible! I still have so much to learn!"
 msgstr ""
 
 #. [event]
+#. [unit]: id=Maurice, type=Red Mage
+#: A_New_Order/macros/ano-20macros.cfg:29
+#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:123
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:164
+msgid "Maurice"
+msgstr ""
+
+#. [event]
 #: A_New_Order/macros/ano-20macros.cfg:29
 msgid "Noooo!"
+msgstr ""
+
+#. [event]
+#. [unit]: id=Deorien, type=Mage of Light
+#. [side]: id=Deorien, type=Mage of Light
+#: A_New_Order/macros/ano-20macros.cfg:37
+#: A_New_Order/macros/messages.cfg:108
+#: A_New_Order/scenarios/20_Okladia.cfg:97
+#: A_New_Order/scenarios/20_Okladia.cfg:439
+#: A_New_Order/scenarios/20_Okladia.cfg:456
+#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:70
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:110
+msgid "Deorien"
 msgstr ""
 
 #. [event]
@@ -1997,6 +2059,18 @@ msgid "Think about it, Uri. Indeed, you must have abandoned his paths. But I and
 msgstr ""
 
 #. [event]
+#. [side]: id=Borlug, type=Orcish Sovereign
+#: A_New_Order/macros/ano-20macros.cfg:319
+#: A_New_Order/macros/ano-20macros.cfg:328
+#: A_New_Order/macros/ano-20macros.cfg:330
+#: A_New_Order/macros/ano-20macros.cfg:339
+#: A_New_Order/macros/ano-20macros.cfg:492
+#: A_New_Order/macros/ano-20macros.cfg:494
+#: A_New_Order/scenarios/27_Orannon.cfg:174
+msgid "Borlug"
+msgstr ""
+
+#. [event]
 #: A_New_Order/macros/ano-20macros.cfg:319
 msgid "Human... killed me... Human..."
 msgstr ""
@@ -2064,6 +2138,26 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:339
 msgid "Thank you, human. My soldiers, stop fighting and return to your homes!"
+msgstr ""
+
+#. [event]
+#. [side]: id=Robert the Hefty, type=Fugitive
+#: A_New_Order/macros/ano-20macros.cfg:349
+#: A_New_Order/macros/ano-20macros.cfg:351
+#: A_New_Order/macros/ano-20macros.cfg:358
+#: A_New_Order/macros/ano-20macros.cfg:360
+#: A_New_Order/macros/ano-20macros.cfg:362
+#: A_New_Order/macros/ano-20macros.cfg:416
+#: A_New_Order/macros/ano-20macros.cfg:418
+#: A_New_Order/macros/ano-20macros.cfg:419
+#: A_New_Order/macros/ano-20macros.cfg:423
+#: A_New_Order/macros/ano-20macros.cfg:426
+#: A_New_Order/macros/ano-20macros.cfg:428
+#: A_New_Order/macros/ano-20macros.cfg:503
+#: A_New_Order/macros/ano-20macros.cfg:506
+#: A_New_Order/macros/ano-20macros.cfg:528
+#: A_New_Order/scenarios/27_Orannon.cfg:265
+msgid "Robert the Hefty"
 msgstr ""
 
 #. [event]
@@ -2234,6 +2328,20 @@ msgid "One necromancer goes down - and the world seems a little bit brighter bec
 msgstr ""
 
 #. [event]
+#. [side]: id=Mal-Raylal, type=Necromancer
+#: A_New_Order/macros/ano-20macros.cfg:439
+#: A_New_Order/macros/ano-20macros.cfg:450
+#: A_New_Order/macros/ano-20macros.cfg:534
+#: A_New_Order/macros/ano-20macros.cfg:536
+#: A_New_Order/macros/ano-20macros.cfg:538
+#: A_New_Order/macros/ano-20macros.cfg:549
+#: A_New_Order/macros/ano-20macros.cfg:571
+#: A_New_Order/macros/ano-20macros.cfg:824
+#: A_New_Order/scenarios/27_Orannon.cfg:301
+msgid "Mal-Raylal"
+msgstr ""
+
+#. [event]
 #: A_New_Order/macros/ano-20macros.cfg:439
 msgid "I am not really dying! I am just moving on from this existence to another level..."
 msgstr ""
@@ -2264,6 +2372,21 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:569
 #: A_New_Order/macros/ano-20macros.cfg:822
 msgid "Curse you, whole Akladian race! Curse you! And I put my curse on you, Gawen Hagarthen!"
+msgstr ""
+
+#. [event]
+#. [side]: id=Warh Arug, type=Orcish Sovereign
+#: A_New_Order/macros/ano-20macros.cfg:449
+#: A_New_Order/macros/ano-20macros.cfg:459
+#: A_New_Order/macros/ano-20macros.cfg:461
+#: A_New_Order/macros/ano-20macros.cfg:463
+#: A_New_Order/macros/ano-20macros.cfg:548
+#: A_New_Order/macros/ano-20macros.cfg:558
+#: A_New_Order/macros/ano-20macros.cfg:560
+#: A_New_Order/macros/ano-20macros.cfg:570
+#: A_New_Order/macros/ano-20macros.cfg:823
+#: A_New_Order/scenarios/27_Orannon.cfg:471
+msgid "Warh Arug"
 msgstr ""
 
 #. [event]
@@ -2987,15 +3110,6 @@ msgstr ""
 msgid "+$experience_gained| exp"
 msgstr ""
 
-#. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/macros/messages.cfg:9
-#: A_New_Order/macros/messages.cfg:13
-#: A_New_Order/macros/messages.cfg:17
-#: A_New_Order/macros/messages.cfg:21
-#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
-msgid "Gawen"
-msgstr ""
-
 #: A_New_Order/macros/messages.cfg:25
 msgid "Graeme"
 msgstr ""
@@ -3037,23 +3151,6 @@ msgid "Gwidle"
 msgstr ""
 
 #. [event]
-#. [scenario]: id=28_Lorin
-#: A_New_Order/macros/messages.cfg:64
-#: A_New_Order/macros/messages.cfg:68
-#: A_New_Order/macros/messages.cfg:72
-#: A_New_Order/scenarios/20_Okladia.cfg:438
-#: A_New_Order/scenarios/20_Okladia.cfg:447
-#: A_New_Order/scenarios/20_Okladia.cfg:457
-#: A_New_Order/scenarios/20_Okladia.cfg:464
-#: A_New_Order/scenarios/13_Scouting.cfg:717
-#: A_New_Order/scenarios/13_Scouting.cfg:726
-#: A_New_Order/scenarios/28_Lorin.cfg:3
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
-msgid "Lorin"
-msgstr ""
-
-#. [event]
 #: A_New_Order/macros/messages.cfg:76
 #: A_New_Order/macros/messages.cfg:80
 #: A_New_Order/scenarios/20_Okladia.cfg:437
@@ -3070,18 +3167,6 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:718
 #: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid "Yahyazad"
-msgstr ""
-
-#. [unit]: id=Deorien, type=Mage of Light
-#. [event]
-#. [side]: id=Deorien, type=Mage of Light
-#: A_New_Order/macros/messages.cfg:108
-#: A_New_Order/scenarios/20_Okladia.cfg:97
-#: A_New_Order/scenarios/20_Okladia.cfg:439
-#: A_New_Order/scenarios/20_Okladia.cfg:456
-#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:70
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:110
-msgid "Deorien"
 msgstr ""
 
 #. [side]: id=Grekulak, type=Ancient Lich
@@ -4023,6 +4108,10 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:162
 #: A_New_Order/scenarios/28_Lorin.cfg:228
 #: A_New_Order/scenarios/27_Orannon.cfg:95
+#: A_New_Order/scenarios/27_Orannon.cfg:692
+#: A_New_Order/scenarios/27_Orannon.cfg:916
+#: A_New_Order/scenarios/27_Orannon.cfg:1612
+#: A_New_Order/scenarios/27_Orannon.cfg:1618
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:71
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
@@ -7075,18 +7164,6 @@ msgstr ""
 msgid "Explore"
 msgstr ""
 
-#. [unit]: id=Maurice, type=Red Mage
-#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:123
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:164
-msgid "Maurice"
-msgstr ""
-
-#. [unit]: id=Alarice, type=White Mage
-#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:139
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:181
-msgid "Alarice"
-msgstr ""
-
 #. [event]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:154
 msgid "Master, someone approaches us! Should I attack now?"
@@ -8721,6 +8798,9 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:221
 #: A_New_Order/scenarios/28_Lorin.cfg:263
 #: A_New_Order/scenarios/27_Orannon.cfg:819
+#: A_New_Order/scenarios/27_Orannon.cfg:864
+#: A_New_Order/scenarios/27_Orannon.cfg:866
+#: A_New_Order/scenarios/27_Orannon.cfg:869
 msgid "Luc Hagarthen"
 msgstr ""
 
@@ -8733,6 +8813,8 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:241
 #: A_New_Order/scenarios/28_Lorin.cfg:265
 #: A_New_Order/scenarios/27_Orannon.cfg:834
+#: A_New_Order/scenarios/27_Orannon.cfg:865
+#: A_New_Order/scenarios/27_Orannon.cfg:867
 msgid "Gauri Hagarthen"
 msgstr ""
 
@@ -11646,26 +11728,6 @@ msgstr ""
 #. [part]
 #: A_New_Order/scenarios/27_Orannon.cfg:18
 msgid "Both forces met at the fields which were later called Orannon, which in Akladian means 'battlefield'. This day was to be remembered for many generations to come - and also by vultures and jackals, who couldn't expect to see such an abundant number of bodies again for decades."
-msgstr ""
-
-#. [side]: id=Borlug, type=Orcish Sovereign
-#: A_New_Order/scenarios/27_Orannon.cfg:174
-msgid "Borlug"
-msgstr ""
-
-#. [side]: id=Robert the Hefty, type=Fugitive
-#: A_New_Order/scenarios/27_Orannon.cfg:265
-msgid "Robert the Hefty"
-msgstr ""
-
-#. [side]: id=Mal-Raylal, type=Necromancer
-#: A_New_Order/scenarios/27_Orannon.cfg:301
-msgid "Mal-Raylal"
-msgstr ""
-
-#. [side]: id=Warh Arug, type=Orcish Sovereign
-#: A_New_Order/scenarios/27_Orannon.cfg:471
-msgid "Warh Arug"
 msgstr ""
 
 #. [event]
