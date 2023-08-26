@@ -47,7 +47,7 @@ PORTRAITS
   profile_pikinier.png)
 * Outlaw Raider (might cost more due to some artists charging more for horses)
   (being commissioned to Mells/ohlyf)
-* Better saurian portraits (Young Saurian)
+* Better saurian portraits (Young Saurian) (being commissioned to AlysaaArt)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority) (being
