@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-08-25 23:09 UTC\n"
+"POT-Creation-Date: 2023-08-26 01:25 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -740,7 +740,6 @@ msgstr ""
 
 #. [event]
 #. The message 'I fought with you for so many battles...' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
-#. The message 'I fought with you for so many battles..' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
 #: A_New_Order/macros/elvish_macros.cfg:79
 #: A_New_Order/macros/elvish_macros.cfg:96
 msgid "My lord, I fought with you for so many battles... I can accept money from you no more. Please, treat me like a friend, not like a hired soldier."
