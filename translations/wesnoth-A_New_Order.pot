@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-01 19:39 UTC\n"
+"POT-Creation-Date: 2023-09-02 08:18 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1352,7 +1352,7 @@ msgstr ""
 #. [event]
 #. Reme's "last breath" message:
 #: A_New_Order/macros/deaths.cfg:12
-#: A_New_Order/macros/deaths.cfg:106
+#: A_New_Order/macros/deaths.cfg:107
 msgid "I can't hold my sword anymore... I can't..."
 msgstr ""
 
@@ -1363,14 +1363,22 @@ msgid "My ancestors, I am coming to you! I hope I have not failed you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/deaths.cfg:34
+#. [unit]: id=Karl Regven, type=Duelist
+#: A_New_Order/macros/deaths.cfg:33
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
+msgid "Karl Regven"
+msgstr ""
+
+#. [event]
+#. Karl Regven's "last breath" message:
+#: A_New_Order/macros/deaths.cfg:35
 msgid "I'm not afraid... I would just want to smoke a little longer..."
 msgstr ""
 
 #. [event]
 #. "last breath" message shared by multiple Dunefolk
 #. (both Majid Yahyazad campaign-wide, and Arsham Mahouri in S23, "Trapped")
-#: A_New_Order/macros/deaths.cfg:46
+#: A_New_Order/macros/deaths.cfg:47
 #: A_New_Order/scenarios/23_Trapped.cfg:597
 #: A_New_Order/scenarios/23_Trapped.cfg:610
 msgid "Dunefolk die without fear!"
@@ -1378,26 +1386,26 @@ msgstr ""
 
 #. [event]
 #. Gawen's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:66
+#: A_New_Order/macros/deaths.cfg:67
 msgid "No! It's impossible! I have just started!"
 msgstr ""
 
 #. [event]
 #. Lorin's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:86
+#: A_New_Order/macros/deaths.cfg:87
 msgid "That's not fair!"
 msgstr ""
 
 #. [event]
 #. unsure how to complete this sentence... "life" seems the most obvious, but "sight" and "blood" also work
 #. (plus my mind can't stop completing it with "virginity" even though that makes no sense)
-#: A_New_Order/macros/deaths.cfg:127
+#: A_New_Order/macros/deaths.cfg:128
 msgid "Father! Father! I am losing my..."
 msgstr ""
 
 #. [event]
 #. Ruvio's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:147
+#: A_New_Order/macros/deaths.cfg:148
 msgid "No! I have still so much to do!"
 msgstr ""
 
@@ -4148,6 +4156,7 @@ msgstr ""
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:66
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:157
 msgid "Huon Ryedric"
 msgstr ""
 
@@ -7345,11 +7354,6 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:316
 msgid "What are you doing here?!"
-msgstr ""
-
-#. [unit]: id=Karl Regven, type=Duelist
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
-msgid "Karl Regven"
 msgstr ""
 
 #. [event]
@@ -16235,7 +16239,11 @@ msgid "Soon envoys came from other Akladian kingdoms. Easkladia had no king and 
 msgstr ""
 
 #. [side]: id=Lutr Moric, type=Akladian Lord
+#. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:76
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:166
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:173
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:175
 msgid "Lutr Moric"
 msgstr ""
 
