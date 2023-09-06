@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-06 09:04 UTC\n"
+"POT-Creation-Date: 2023-09-06 09:37 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,8 +80,8 @@ msgstr ""
 #. [event]
 #. [unit]: id=Karen, type=Ruvios Daughter
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
-#: A_New_Order/macros/messages.cfg:56
-#: A_New_Order/macros/messages.cfg:60
+#: A_New_Order/macros/messages.cfg:64
+#: A_New_Order/macros/messages.cfg:68
 #: A_New_Order/scenarios/13_Scouting.cfg:715
 #: A_New_Order/scenarios/13_Scouting.cfg:725
 #: A_New_Order/scenarios/13_Scouting.cfg:736
@@ -117,9 +117,9 @@ msgstr ""
 #. [event]
 #. [unit]: id=Ruvio, type=Ruvio
 #: A_New_Order/units/others/Ruvio.cfg:4
-#: A_New_Order/macros/messages.cfg:84
-#: A_New_Order/macros/messages.cfg:88
-#: A_New_Order/macros/messages.cfg:95
+#: A_New_Order/macros/messages.cfg:92
+#: A_New_Order/macros/messages.cfg:96
+#: A_New_Order/macros/messages.cfg:103
 #: A_New_Order/scenarios/20_Okladia.cfg:436
 #: A_New_Order/scenarios/20_Okladia.cfg:445
 #: A_New_Order/scenarios/20_Okladia.cfg:455
@@ -741,7 +741,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:78
-#: A_New_Order/macros/messages.cfg:120
+#: A_New_Order/macros/messages.cfg:128
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
 msgstr ""
@@ -756,7 +756,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
-#: A_New_Order/macros/messages.cfg:117
+#: A_New_Order/macros/messages.cfg:125
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
 msgid "Elorain"
 msgstr ""
@@ -790,9 +790,9 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:307
 #: A_New_Order/macros/elvish_macros.cfg:310
 #: A_New_Order/macros/elvish_macros.cfg:320
-#: A_New_Order/macros/messages.cfg:134
-#: A_New_Order/macros/messages.cfg:137
-#: A_New_Order/macros/messages.cfg:147
+#: A_New_Order/macros/messages.cfg:142
+#: A_New_Order/macros/messages.cfg:145
+#: A_New_Order/macros/messages.cfg:155
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
@@ -917,7 +917,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:147
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:155
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:170
-#: A_New_Order/scenarios/27_Orannon.cfg:1437
+#: A_New_Order/scenarios/27_Orannon.cfg:1436
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:16
 msgid "Well..."
 msgstr ""
@@ -1276,9 +1276,9 @@ msgstr ""
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/macros/conversations.cfg:46
 #: A_New_Order/macros/conversations.cfg:49
-#: A_New_Order/macros/messages.cfg:64
-#: A_New_Order/macros/messages.cfg:68
 #: A_New_Order/macros/messages.cfg:72
+#: A_New_Order/macros/messages.cfg:76
+#: A_New_Order/macros/messages.cfg:80
 #: A_New_Order/scenarios/20_Okladia.cfg:438
 #: A_New_Order/scenarios/20_Okladia.cfg:447
 #: A_New_Order/scenarios/20_Okladia.cfg:457
@@ -1641,7 +1641,7 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1572
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:499
 #: A_New_Order/scenarios/27_Orannon.cfg:746
-#: A_New_Order/scenarios/27_Orannon.cfg:1147
+#: A_New_Order/scenarios/27_Orannon.cfg:1146
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:343
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:535
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:257
@@ -1854,7 +1854,7 @@ msgstr ""
 #. [unit]: id=Deorien, type=Mage of Light
 #. [side]: id=Deorien, type=Mage of Light
 #: A_New_Order/macros/ano-20macros.cfg:37
-#: A_New_Order/macros/messages.cfg:108
+#: A_New_Order/macros/messages.cfg:116
 #: A_New_Order/scenarios/20_Okladia.cfg:97
 #: A_New_Order/scenarios/20_Okladia.cfg:439
 #: A_New_Order/scenarios/20_Okladia.cfg:456
@@ -2949,7 +2949,7 @@ msgstr ""
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:214
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1568
 #: A_New_Order/scenarios/27_Orannon.cfg:754
-#: A_New_Order/scenarios/27_Orannon.cfg:1155
+#: A_New_Order/scenarios/27_Orannon.cfg:1154
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:224
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:212
 msgid "Death of Ruvio"
@@ -2973,7 +2973,7 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1564
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:495
 #: A_New_Order/scenarios/27_Orannon.cfg:742
-#: A_New_Order/scenarios/27_Orannon.cfg:1143
+#: A_New_Order/scenarios/27_Orannon.cfg:1142
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:216
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:208
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:339
@@ -3209,17 +3209,42 @@ msgstr ""
 msgid "Uri van Roe"
 msgstr ""
 
+#. [side]: id=Hoyre O Barnone, type=Akladian Lord
 #: A_New_Order/macros/messages.cfg:48
-msgid "Quivre"
+#: A_New_Order/scenarios/25_The_Awakening.cfg:466
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:98
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:82
+msgid "Hoyre O Barnone"
 msgstr ""
 
 #: A_New_Order/macros/messages.cfg:52
+msgid "Quivre"
+msgstr ""
+
+#: A_New_Order/macros/messages.cfg:56
 msgid "Gwidle"
 msgstr ""
 
+#. [side]: id=Huon Ryedric, type=General
+#. [unit]: id=Huon Ryedric, type=Sergeant
+#. [unit]: id=Huon Ryedric, type=General
 #. [event]
-#: A_New_Order/macros/messages.cfg:76
-#: A_New_Order/macros/messages.cfg:80
+#: A_New_Order/macros/messages.cfg:60
+#: A_New_Order/scenarios/25_The_Awakening.cfg:349
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:62
+#: A_New_Order/scenarios/28_Lorin.cfg:162
+#: A_New_Order/scenarios/28_Lorin.cfg:227
+#: A_New_Order/scenarios/27_Orannon.cfg:95
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:71
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
+#: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:66
+msgid "Huon Ryedric"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/messages.cfg:84
+#: A_New_Order/macros/messages.cfg:88
 #: A_New_Order/scenarios/20_Okladia.cfg:437
 #: A_New_Order/scenarios/20_Okladia.cfg:446
 #: A_New_Order/scenarios/13_Scouting.cfg:716
@@ -3229,15 +3254,15 @@ msgid "Reme"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/messages.cfg:99
-#: A_New_Order/macros/messages.cfg:104
+#: A_New_Order/macros/messages.cfg:107
+#: A_New_Order/macros/messages.cfg:112
 #: A_New_Order/scenarios/13_Scouting.cfg:718
 #: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid "Yahyazad"
 msgstr ""
 
 #. [side]: id=Grekulak, type=Ancient Lich
-#: A_New_Order/macros/messages.cfg:112
+#: A_New_Order/macros/messages.cfg:120
 #: A_New_Order/scenarios/27_Orannon.cfg:377
 msgid "Grekulak"
 msgstr ""
@@ -4155,71 +4180,12 @@ msgstr ""
 msgid "Ye have all heard about him. Son of an Akladian king and a Wesnothian queen. A great warrior and great leader. Let him know ye wish him to come here and take his crown. All hail the king! All hail the messiah! All hail Gawen Haldric Hagarthen!"
 msgstr ""
 
-#. [side]: id=Huon Ryedric, type=General
-#. [event]
-#. [unit]: id=Huon Ryedric, type=Sergeant
-#. [unit]: id=Huon Ryedric, type=General
-#. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/25_The_Awakening.cfg:349
-#: A_New_Order/scenarios/25_The_Awakening.cfg:730
-#: A_New_Order/scenarios/25_The_Awakening.cfg:936
-#: A_New_Order/scenarios/25_The_Awakening.cfg:938
-#: A_New_Order/scenarios/25_The_Awakening.cfg:941
-#: A_New_Order/scenarios/25_The_Awakening.cfg:945
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1019
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1025
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1039
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1105
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1165
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:62
-#: A_New_Order/scenarios/28_Lorin.cfg:162
-#: A_New_Order/scenarios/28_Lorin.cfg:227
-#: A_New_Order/scenarios/27_Orannon.cfg:95
-#: A_New_Order/scenarios/27_Orannon.cfg:692
-#: A_New_Order/scenarios/27_Orannon.cfg:916
-#: A_New_Order/scenarios/27_Orannon.cfg:1121
-#: A_New_Order/scenarios/27_Orannon.cfg:1613
-#: A_New_Order/scenarios/27_Orannon.cfg:1619
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:71
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
-#: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
-#: A_New_Order/scenarios/26_Return_of_the_King.cfg:66
-#: A_New_Order/scenarios/26_Return_of_the_King.cfg:157
-msgid "Huon Ryedric"
-msgstr ""
-
 #. [side]: id=Barhoon Urk, type=Orcish Warlord
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:419
 #: A_New_Order/scenarios/25_The_Awakening.cfg:717
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1265
 msgid "Barhoon Urk"
-msgstr ""
-
-#. [side]: id=Hoyre O Barnone, type=Akladian Lord
-#. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:466
-#: A_New_Order/scenarios/25_The_Awakening.cfg:706
-#: A_New_Order/scenarios/25_The_Awakening.cfg:708
-#: A_New_Order/scenarios/25_The_Awakening.cfg:710
-#: A_New_Order/scenarios/25_The_Awakening.cfg:712
-#: A_New_Order/scenarios/25_The_Awakening.cfg:714
-#: A_New_Order/scenarios/25_The_Awakening.cfg:716
-#: A_New_Order/scenarios/25_The_Awakening.cfg:719
-#: A_New_Order/scenarios/25_The_Awakening.cfg:725
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1173
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1175
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1183
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1193
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1195
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1197
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1210
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1221
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1223
-#: A_New_Order/scenarios/25_The_Awakening.cfg:1256
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:98
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:82
-msgid "Hoyre O Barnone"
 msgstr ""
 
 #. [event]
@@ -4348,7 +4314,7 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1556
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:491
 #: A_New_Order/scenarios/27_Orannon.cfg:738
-#: A_New_Order/scenarios/27_Orannon.cfg:1139
+#: A_New_Order/scenarios/27_Orannon.cfg:1138
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:243
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:255
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:253
@@ -4362,14 +4328,14 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:473
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:197
 #: A_New_Order/scenarios/27_Orannon.cfg:750
-#: A_New_Order/scenarios/27_Orannon.cfg:1151
+#: A_New_Order/scenarios/27_Orannon.cfg:1150
 msgid "Death of Deorien"
 msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/25_The_Awakening.cfg:756
 #: A_New_Order/scenarios/27_Orannon.cfg:758
-#: A_New_Order/scenarios/27_Orannon.cfg:1159
+#: A_New_Order/scenarios/27_Orannon.cfg:1158
 msgid "Death of Huon Ryedric"
 msgstr ""
 
@@ -4521,13 +4487,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1019
-#: A_New_Order/scenarios/27_Orannon.cfg:1613
+#: A_New_Order/scenarios/27_Orannon.cfg:1612
 msgid "My king, we could really use some help here."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1025
-#: A_New_Order/scenarios/27_Orannon.cfg:1619
+#: A_New_Order/scenarios/27_Orannon.cfg:1618
 msgid "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
 
@@ -11465,6 +11431,7 @@ msgid "Now wait just a minute here! Men, look around and see if they dropped any
 msgstr ""
 
 #. [event]
+#. Bor Cryne's response here assumes that Uri is still alive (which he ought to be) and said his line:
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2239
 msgid "Yes, gold for all true Akladians!"
 msgstr ""
@@ -11896,7 +11863,7 @@ msgstr ""
 #. this hint is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
 #. this hint is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
 #: A_New_Order/scenarios/27_Orannon.cfg:735
-#: A_New_Order/scenarios/27_Orannon.cfg:1136
+#: A_New_Order/scenarios/27_Orannon.cfg:1135
 msgid "In this scenario, only Gawen and Lorin have full interrogations for enemy leaders."
 msgstr ""
 
@@ -11972,53 +11939,53 @@ msgstr ""
 
 #. [event]: id=Grekulak_arrives
 #. Hint that Huon's recruits have changed:
-#: A_New_Order/scenarios/27_Orannon.cfg:1123
+#: A_New_Order/scenarios/27_Orannon.cfg:1122
 msgid "Never, foul lich! We may have to adjust our tactics, but we shall never surrender!"
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1124
+#: A_New_Order/scenarios/27_Orannon.cfg:1123
 msgid "Lady Lorin, are you sure you can participate in a battle?"
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1125
+#: A_New_Order/scenarios/27_Orannon.cfg:1124
 msgid "And why not, foul and rude mage?"
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1126
+#: A_New_Order/scenarios/27_Orannon.cfg:1125
 msgid "As I said before, I KNOW. I also know that ANY effort may be extremely dangerous for you."
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1127
+#: A_New_Order/scenarios/27_Orannon.cfg:1126
 msgid "First of all, I am LORIN, foul mage. Second of all, I am not a Wesnothian woman, the kind you are used to, but Akladian. I can fight until... for as long as I want."
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1128
+#: A_New_Order/scenarios/27_Orannon.cfg:1127
 msgid "My king, please take my advice. Order Lorin to withdraw into the castle. No matter how she boasts and flaunts her Akladian heritage, I am quite sure she shouldn't be here."
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1129
+#: A_New_Order/scenarios/27_Orannon.cfg:1128
 msgid "But why? I don't understand. Lorin is a fine warrior, and withdrawing her from battle may be..."
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1130
+#: A_New_Order/scenarios/27_Orannon.cfg:1129
 msgid "I am a mage attuned to life, my king, and can sense things you cannot. Believe me, withdraw her into our keep."
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1131
+#: A_New_Order/scenarios/27_Orannon.cfg:1130
 msgid "FOUL mage. You should have said: 'I am a FOUL mage'."
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
 #. This incantation that Grekulak tries should sound (or at least look) poetic:
-#: A_New_Order/scenarios/27_Orannon.cfg:1186
+#: A_New_Order/scenarios/27_Orannon.cfg:1185
 msgid ""
 "\n"
 "Forces of Darkness, come to my aid -\n"
@@ -12031,181 +11998,181 @@ msgid ""
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1275
+#: A_New_Order/scenarios/27_Orannon.cfg:1274
 msgid "NO! Avaunt, the darkness, avaunt, the night!"
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1303
+#: A_New_Order/scenarios/27_Orannon.cfg:1302
 msgid "How is this possible? Who could possibly have broken my sorcery?"
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1304
+#: A_New_Order/scenarios/27_Orannon.cfg:1303
 msgid "Even a child could have done it, it was so weak... as is all of your heinous black magic; for all your power has been built solely on lies and deceit."
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1305
+#: A_New_Order/scenarios/27_Orannon.cfg:1304
 msgid "Brave words - and who dares to utter them?"
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
 #. please preserve the cheesy rhyming here on translation, so that Grekulak's reply calling Deorien an "awful poet" makes sense:
-#: A_New_Order/scenarios/27_Orannon.cfg:1307
+#: A_New_Order/scenarios/27_Orannon.cfg:1306
 msgid "Deorien, mage of light - whose might will defeat the night."
 msgstr ""
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1308
+#: A_New_Order/scenarios/27_Orannon.cfg:1307
 msgid "You are a competent enough mage, but an awful poet. Deorien, you will be mine before this battle is through."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1349
+#: A_New_Order/scenarios/27_Orannon.cfg:1348
 msgid "Aaaah!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1350
+#: A_New_Order/scenarios/27_Orannon.cfg:1349
 msgid "What happened? Mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1351
+#: A_New_Order/scenarios/27_Orannon.cfg:1350
 msgid "It's nothing... It's nothing... I just... I can't..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1352
+#: A_New_Order/scenarios/27_Orannon.cfg:1351
 msgid "Ahem."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1353
+#: A_New_Order/scenarios/27_Orannon.cfg:1352
 msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1354
+#: A_New_Order/scenarios/27_Orannon.cfg:1353
 msgid "No, you CAN'T. My lord, you must withdraw Lorin to our castle's keep immediately. She is unable to fight any longer."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1366
+#: A_New_Order/scenarios/27_Orannon.cfg:1365
 msgid "I AM in the castle's keep, you idiot."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1367
+#: A_New_Order/scenarios/27_Orannon.cfg:1366
 msgid "Good. Now, go to bedroom. I will send someone to take care of you immediately."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/27_Orannon.cfg:1376
+#: A_New_Order/scenarios/27_Orannon.cfg:1381
+msgid "Shut up, I can fight, I just have to get some rest!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1377
 #: A_New_Order/scenarios/27_Orannon.cfg:1382
-msgid "Shut up, I can fight, I just have to get some rest!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1378
-#: A_New_Order/scenarios/27_Orannon.cfg:1383
 msgid "You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1398
+#: A_New_Order/scenarios/27_Orannon.cfg:1397
 msgid "Are you prepared for a little surprise? Get them boys!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1432
+#: A_New_Order/scenarios/27_Orannon.cfg:1431
 msgid "Milord, should I destroy this bridge?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1438
+#: A_New_Order/scenarios/27_Orannon.cfg:1437
 msgid "Yes!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1439
+#: A_New_Order/scenarios/27_Orannon.cfg:1438
 msgid "No, but I might want a bridge destroyed later..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1440
+#: A_New_Order/scenarios/27_Orannon.cfg:1439
 msgid "No, we won't be destroying any bridges today."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1499
+#: A_New_Order/scenarios/27_Orannon.cfg:1498
 msgid "Ha, take that!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1504
+#: A_New_Order/scenarios/27_Orannon.cfg:1503
 msgid "OK, I won't this time, but I really think we should destroy some bridges eventually, so I'll keep asking!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1510
+#: A_New_Order/scenarios/27_Orannon.cfg:1509
 msgid "In that case I shall cease asking to do so."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1526
+#: A_New_Order/scenarios/27_Orannon.cfg:1525
 msgid "Let me set up an outpost here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1551
+#: A_New_Order/scenarios/27_Orannon.cfg:1550
 msgid "I really can fight!"
 msgstr ""
 
 #. [event]
 #. "Note for translators: 'But what about IT?' refers to Lorin's child"
-#: A_New_Order/scenarios/27_Orannon.cfg:1553
+#: A_New_Order/scenarios/27_Orannon.cfg:1552
 msgid "Yes, you can fight. But what about IT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1554
+#: A_New_Order/scenarios/27_Orannon.cfg:1553
 msgid "IT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1573
+#: A_New_Order/scenarios/27_Orannon.cfg:1572
 msgid "Aaah! I can't handle this pain!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1574
+#: A_New_Order/scenarios/27_Orannon.cfg:1573
 msgid "What happened? What?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1575
+#: A_New_Order/scenarios/27_Orannon.cfg:1574
 msgid "I told you... she miscarried."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1576
+#: A_New_Order/scenarios/27_Orannon.cfg:1575
 msgid "She WHAT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1577
+#: A_New_Order/scenarios/27_Orannon.cfg:1576
 msgid "Noooooo!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1582
+#: A_New_Order/scenarios/27_Orannon.cfg:1581
 msgid "I wish Lorin were still here to fight alongside us; we could use her help..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1583
+#: A_New_Order/scenarios/27_Orannon.cfg:1582
 msgid "Trust me, Gawen, it is for the better that she is in the castle right now."
 msgstr ""
 
