@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-02 08:18 UTC\n"
+"POT-Creation-Date: 2023-09-06 09:04 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1160,28 +1160,28 @@ msgstr ""
 msgid "Stingy bastard."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:422
+#: A_New_Order/macros/ano_macros.cfg:423
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:426
+#: A_New_Order/macros/ano_macros.cfg:427
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:864
+#: A_New_Order/macros/ano_macros.cfg:865
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
 #. trailing space is intentional here:
-#: A_New_Order/macros/ano_macros.cfg:873
+#: A_New_Order/macros/ano_macros.cfg:874
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1024
+#: A_New_Order/macros/ano_macros.cfg:1025
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1030
+#: A_New_Order/macros/ano_macros.cfg:1031
 msgid "Scenario notes:"
 msgstr ""
 
@@ -4080,6 +4080,24 @@ msgstr ""
 msgid "The Awakening"
 msgstr ""
 
+#. [side]: id=Bar Urien, type=Akladian Lord
+#. [event]
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:558
+#: A_New_Order/scenarios/25_The_Awakening.cfg:707
+#: A_New_Order/scenarios/25_The_Awakening.cfg:709
+#: A_New_Order/scenarios/25_The_Awakening.cfg:711
+#: A_New_Order/scenarios/25_The_Awakening.cfg:713
+#: A_New_Order/scenarios/25_The_Awakening.cfg:715
+#: A_New_Order/scenarios/25_The_Awakening.cfg:726
+#: A_New_Order/scenarios/25_The_Awakening.cfg:728
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1237
+#: A_New_Order/scenarios/25_The_Awakening.cfg:20
+#: A_New_Order/scenarios/25_The_Awakening.cfg:22
+#: A_New_Order/scenarios/25_The_Awakening.cfg:29
+msgid "Bar Urien"
+msgstr ""
+
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:20
 msgid "My Lord! My lord is dead!"
@@ -4138,11 +4156,21 @@ msgid "Ye have all heard about him. Son of an Akladian king and a Wesnothian que
 msgstr ""
 
 #. [side]: id=Huon Ryedric, type=General
+#. [event]
 #. [unit]: id=Huon Ryedric, type=Sergeant
 #. [unit]: id=Huon Ryedric, type=General
-#. [event]
 #. [event]: id=Grekulak_arrives
 #: A_New_Order/scenarios/25_The_Awakening.cfg:349
+#: A_New_Order/scenarios/25_The_Awakening.cfg:730
+#: A_New_Order/scenarios/25_The_Awakening.cfg:936
+#: A_New_Order/scenarios/25_The_Awakening.cfg:938
+#: A_New_Order/scenarios/25_The_Awakening.cfg:941
+#: A_New_Order/scenarios/25_The_Awakening.cfg:945
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1019
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1025
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1039
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1105
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1165
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:62
 #: A_New_Order/scenarios/28_Lorin.cfg:162
 #: A_New_Order/scenarios/28_Lorin.cfg:227
@@ -4161,20 +4189,37 @@ msgid "Huon Ryedric"
 msgstr ""
 
 #. [side]: id=Barhoon Urk, type=Orcish Warlord
+#. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:419
+#: A_New_Order/scenarios/25_The_Awakening.cfg:717
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1265
 msgid "Barhoon Urk"
 msgstr ""
 
 #. [side]: id=Hoyre O Barnone, type=Akladian Lord
+#. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:466
+#: A_New_Order/scenarios/25_The_Awakening.cfg:706
+#: A_New_Order/scenarios/25_The_Awakening.cfg:708
+#: A_New_Order/scenarios/25_The_Awakening.cfg:710
+#: A_New_Order/scenarios/25_The_Awakening.cfg:712
+#: A_New_Order/scenarios/25_The_Awakening.cfg:714
+#: A_New_Order/scenarios/25_The_Awakening.cfg:716
+#: A_New_Order/scenarios/25_The_Awakening.cfg:719
+#: A_New_Order/scenarios/25_The_Awakening.cfg:725
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1173
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1175
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1183
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1193
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1195
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1197
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1210
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1221
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1223
+#: A_New_Order/scenarios/25_The_Awakening.cfg:1256
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:98
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:82
 msgid "Hoyre O Barnone"
-msgstr ""
-
-#. [side]: id=Bar Urien, type=Akladian Lord
-#: A_New_Order/scenarios/25_The_Awakening.cfg:558
-msgid "Bar Urien"
 msgstr ""
 
 #. [event]
@@ -4348,7 +4393,9 @@ msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win 
 msgstr ""
 
 #. [unit]: type=Akladian Sturmknight, id=Bors Brien
+#. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:903
+#: A_New_Order/scenarios/25_The_Awakening.cfg:931
 msgid "Bors Brien"
 msgstr ""
 
