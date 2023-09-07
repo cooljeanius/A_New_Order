@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-06 10:07 UTC\n"
+"POT-Creation-Date: 2023-09-07 05:43 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,8 +80,8 @@ msgstr ""
 #. [event]
 #. [unit]: id=Karen, type=Ruvios Daughter
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
-#: A_New_Order/macros/messages.cfg:64
-#: A_New_Order/macros/messages.cfg:68
+#: A_New_Order/macros/messages.cfg:70
+#: A_New_Order/macros/messages.cfg:74
 #: A_New_Order/scenarios/13_Scouting.cfg:715
 #: A_New_Order/scenarios/13_Scouting.cfg:725
 #: A_New_Order/scenarios/13_Scouting.cfg:736
@@ -117,9 +117,9 @@ msgstr ""
 #. [event]
 #. [unit]: id=Ruvio, type=Ruvio
 #: A_New_Order/units/others/Ruvio.cfg:4
-#: A_New_Order/macros/messages.cfg:92
-#: A_New_Order/macros/messages.cfg:96
-#: A_New_Order/macros/messages.cfg:103
+#: A_New_Order/macros/messages.cfg:98
+#: A_New_Order/macros/messages.cfg:102
+#: A_New_Order/macros/messages.cfg:109
 #: A_New_Order/scenarios/20_Okladia.cfg:436
 #: A_New_Order/scenarios/20_Okladia.cfg:445
 #: A_New_Order/scenarios/20_Okladia.cfg:455
@@ -741,7 +741,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:78
-#: A_New_Order/macros/messages.cfg:128
+#: A_New_Order/macros/messages.cfg:134
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
 msgstr ""
@@ -756,7 +756,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
-#: A_New_Order/macros/messages.cfg:125
+#: A_New_Order/macros/messages.cfg:131
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
 msgid "Elorain"
 msgstr ""
@@ -790,9 +790,9 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:307
 #: A_New_Order/macros/elvish_macros.cfg:310
 #: A_New_Order/macros/elvish_macros.cfg:320
-#: A_New_Order/macros/messages.cfg:142
-#: A_New_Order/macros/messages.cfg:145
-#: A_New_Order/macros/messages.cfg:155
+#: A_New_Order/macros/messages.cfg:148
+#: A_New_Order/macros/messages.cfg:151
+#: A_New_Order/macros/messages.cfg:161
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
@@ -912,7 +912,7 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:412
-#: A_New_Order/scenarios/23_Trapped.cfg:20
+#: A_New_Order/scenarios/23_Trapped.cfg:28
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:600
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:147
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:155
@@ -1160,28 +1160,28 @@ msgstr ""
 msgid "Stingy bastard."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:423
+#: A_New_Order/macros/ano_macros.cfg:427
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:427
+#: A_New_Order/macros/ano_macros.cfg:431
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:865
+#: A_New_Order/macros/ano_macros.cfg:869
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
 #. trailing space is intentional here:
-#: A_New_Order/macros/ano_macros.cfg:874
+#: A_New_Order/macros/ano_macros.cfg:878
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1025
+#: A_New_Order/macros/ano_macros.cfg:1029
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1031
+#: A_New_Order/macros/ano_macros.cfg:1035
 msgid "Scenario notes:"
 msgstr ""
 
@@ -1259,10 +1259,10 @@ msgstr ""
 #: A_New_Order/macros/conversations.cfg:48
 #: A_New_Order/macros/conversations.cfg:61
 #: A_New_Order/macros/conversations.cfg:77
-#: A_New_Order/macros/messages.cfg:9
-#: A_New_Order/macros/messages.cfg:13
-#: A_New_Order/macros/messages.cfg:17
-#: A_New_Order/macros/messages.cfg:21
+#: A_New_Order/macros/messages.cfg:15
+#: A_New_Order/macros/messages.cfg:19
+#: A_New_Order/macros/messages.cfg:23
+#: A_New_Order/macros/messages.cfg:27
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
 msgid "Gawen"
 msgstr ""
@@ -1276,9 +1276,9 @@ msgstr ""
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/macros/conversations.cfg:46
 #: A_New_Order/macros/conversations.cfg:49
-#: A_New_Order/macros/messages.cfg:72
-#: A_New_Order/macros/messages.cfg:76
-#: A_New_Order/macros/messages.cfg:80
+#: A_New_Order/macros/messages.cfg:78
+#: A_New_Order/macros/messages.cfg:82
+#: A_New_Order/macros/messages.cfg:86
 #: A_New_Order/scenarios/20_Okladia.cfg:438
 #: A_New_Order/scenarios/20_Okladia.cfg:447
 #: A_New_Order/scenarios/20_Okladia.cfg:457
@@ -1379,8 +1379,8 @@ msgstr ""
 #. "last breath" message shared by multiple Dunefolk
 #. (both Majid Yahyazad campaign-wide, and Arsham Mahouri in S23, "Trapped")
 #: A_New_Order/macros/deaths.cfg:47
-#: A_New_Order/scenarios/23_Trapped.cfg:597
-#: A_New_Order/scenarios/23_Trapped.cfg:610
+#: A_New_Order/scenarios/23_Trapped.cfg:605
+#: A_New_Order/scenarios/23_Trapped.cfg:618
 msgid "Dunefolk die without fear!"
 msgstr ""
 
@@ -1634,7 +1634,7 @@ msgstr ""
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:341
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:388
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:417
-#: A_New_Order/scenarios/23_Trapped.cfg:905
+#: A_New_Order/scenarios/23_Trapped.cfg:913
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:477
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:193
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:218
@@ -1854,7 +1854,7 @@ msgstr ""
 #. [unit]: id=Deorien, type=Mage of Light
 #. [side]: id=Deorien, type=Mage of Light
 #: A_New_Order/macros/ano-20macros.cfg:37
-#: A_New_Order/macros/messages.cfg:116
+#: A_New_Order/macros/messages.cfg:122
 #: A_New_Order/scenarios/20_Okladia.cfg:97
 #: A_New_Order/scenarios/20_Okladia.cfg:439
 #: A_New_Order/scenarios/20_Okladia.cfg:456
@@ -1942,9 +1942,9 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1118
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1134
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1150
-#: A_New_Order/scenarios/23_Trapped.cfg:621
-#: A_New_Order/scenarios/23_Trapped.cfg:637
-#: A_New_Order/scenarios/23_Trapped.cfg:653
+#: A_New_Order/scenarios/23_Trapped.cfg:629
+#: A_New_Order/scenarios/23_Trapped.cfg:645
+#: A_New_Order/scenarios/23_Trapped.cfg:661
 msgid "Ha! They were hiding some gold here!"
 msgstr ""
 
@@ -1960,9 +1960,9 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1123
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1139
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1155
-#: A_New_Order/scenarios/23_Trapped.cfg:627
-#: A_New_Order/scenarios/23_Trapped.cfg:643
-#: A_New_Order/scenarios/23_Trapped.cfg:659
+#: A_New_Order/scenarios/23_Trapped.cfg:635
+#: A_New_Order/scenarios/23_Trapped.cfg:651
+#: A_New_Order/scenarios/23_Trapped.cfg:667
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:676
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:343
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2232
@@ -2963,7 +2963,7 @@ msgstr ""
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:380
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:409
-#: A_New_Order/scenarios/23_Trapped.cfg:897
+#: A_New_Order/scenarios/23_Trapped.cfg:905
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:469
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:185
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:100
@@ -3177,23 +3177,23 @@ msgstr ""
 msgid "+$experience_gained| exp"
 msgstr ""
 
-#: A_New_Order/macros/messages.cfg:25
+#: A_New_Order/macros/messages.cfg:31
 msgid "Graeme"
 msgstr ""
 
 #. [side]: type=Akladian Chieftain, id=Reumario
-#: A_New_Order/macros/messages.cfg:29
+#: A_New_Order/macros/messages.cfg:35
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:180
 msgid "Reumario"
 msgstr ""
 
-#: A_New_Order/macros/messages.cfg:36
+#: A_New_Order/macros/messages.cfg:42
 msgid "Rauke"
 msgstr ""
 
 #. [unit]: type=Lord Bor Cryne, id=Bor Cryne
 #. [side]: id=Bor Cryne, type=Lord Bor Cryne
-#: A_New_Order/macros/messages.cfg:40
+#: A_New_Order/macros/messages.cfg:46
 #: A_New_Order/scenarios/25_The_Awakening.cfg:888
 #: A_New_Order/scenarios/03_Coronation.cfg:130
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:246
@@ -3202,7 +3202,7 @@ msgid "Bor Cryne"
 msgstr ""
 
 #. [side]: id=Uri van Roe, type=Akladian Lord
-#: A_New_Order/macros/messages.cfg:44
+#: A_New_Order/macros/messages.cfg:50
 #: A_New_Order/scenarios/03_Coronation.cfg:140
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:287
 #: A_New_Order/scenarios/27_Orannon.cfg:208
@@ -3210,18 +3210,18 @@ msgid "Uri van Roe"
 msgstr ""
 
 #. [side]: id=Hoyre O Barnone, type=Akladian Lord
-#: A_New_Order/macros/messages.cfg:48
+#: A_New_Order/macros/messages.cfg:54
 #: A_New_Order/scenarios/25_The_Awakening.cfg:466
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:98
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:82
 msgid "Hoyre O Barnone"
 msgstr ""
 
-#: A_New_Order/macros/messages.cfg:52
+#: A_New_Order/macros/messages.cfg:58
 msgid "Quivre"
 msgstr ""
 
-#: A_New_Order/macros/messages.cfg:56
+#: A_New_Order/macros/messages.cfg:62
 msgid "Gwidle"
 msgstr ""
 
@@ -3229,7 +3229,7 @@ msgstr ""
 #. [unit]: id=Huon Ryedric, type=Sergeant
 #. [unit]: id=Huon Ryedric, type=General
 #. [event]
-#: A_New_Order/macros/messages.cfg:60
+#: A_New_Order/macros/messages.cfg:66
 #: A_New_Order/scenarios/25_The_Awakening.cfg:349
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:62
 #: A_New_Order/scenarios/28_Lorin.cfg:162
@@ -3243,8 +3243,8 @@ msgid "Huon Ryedric"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/messages.cfg:84
-#: A_New_Order/macros/messages.cfg:88
+#: A_New_Order/macros/messages.cfg:90
+#: A_New_Order/macros/messages.cfg:94
 #: A_New_Order/scenarios/20_Okladia.cfg:437
 #: A_New_Order/scenarios/20_Okladia.cfg:446
 #: A_New_Order/scenarios/13_Scouting.cfg:716
@@ -3254,15 +3254,15 @@ msgid "Reme"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/messages.cfg:107
-#: A_New_Order/macros/messages.cfg:112
+#: A_New_Order/macros/messages.cfg:113
+#: A_New_Order/macros/messages.cfg:118
 #: A_New_Order/scenarios/13_Scouting.cfg:718
 #: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid "Yahyazad"
 msgstr ""
 
 #. [side]: id=Grekulak, type=Ancient Lich
-#: A_New_Order/macros/messages.cfg:120
+#: A_New_Order/macros/messages.cfg:126
 #: A_New_Order/scenarios/27_Orannon.cfg:377
 msgid "Grekulak"
 msgstr ""
@@ -3332,7 +3332,7 @@ msgstr ""
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:58
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:67
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:104
-#: A_New_Order/scenarios/23_Trapped.cfg:138
+#: A_New_Order/scenarios/23_Trapped.cfg:146
 #: A_New_Order/scenarios/29_Epilogue.cfg:101
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:36
 #: A_New_Order/scenarios/28_Lorin.cfg:92
@@ -4324,7 +4324,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/25_The_Awakening.cfg:752
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:392
-#: A_New_Order/scenarios/23_Trapped.cfg:901
+#: A_New_Order/scenarios/23_Trapped.cfg:909
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:473
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:197
 #: A_New_Order/scenarios/27_Orannon.cfg:750
@@ -7935,7 +7935,7 @@ msgstr ""
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:372
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:401
-#: A_New_Order/scenarios/23_Trapped.cfg:889
+#: A_New_Order/scenarios/23_Trapped.cfg:897
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:461
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:168
@@ -8095,369 +8095,394 @@ msgstr ""
 msgid "We must do likewise! Bring our own reinforcements!"
 msgstr ""
 
+#. [side]: id=Arsham Mahouri, type=Dune Warmaster
+#: A_New_Order/scenarios/23_Trapped.cfg:336
+#: A_New_Order/scenarios/23_Trapped.cfg:4
+msgid "Arsham Mahouri"
+msgstr ""
+
+#. [side]: id=King Buffin, type=Akladian Lord
+#: A_New_Order/scenarios/23_Trapped.cfg:199
 #: A_New_Order/scenarios/23_Trapped.cfg:8
+msgid "King Buffin"
+msgstr ""
+
+#: A_New_Order/scenarios/23_Trapped.cfg:16
 msgid "Those are Dunefolk troops! Excellent! Listen, I knew your leader, Majid Yahyazad, and..."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:9
+#: A_New_Order/scenarios/23_Trapped.cfg:17
 msgid "Majid Yahyazad is not my leader. His Ostan is far away from here. The Ostan of Mahour - and this tribe - is ruled by me, and no other rules over me."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:10
+#: A_New_Order/scenarios/23_Trapped.cfg:18
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:11
+#: A_New_Order/scenarios/23_Trapped.cfg:19
 msgid "King? We have never been joined by a king before. If he wants to be one of us, he will be welcomed, but he must understand that his of chances being called 'his majesty' are zero."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:12
+#: A_New_Order/scenarios/23_Trapped.cfg:20
 msgid "We are not your enemies. If you won't join us, will you at least not attack us?"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:13
+#: A_New_Order/scenarios/23_Trapped.cfg:21
 msgid "Who said we won't join you? If you can pay, we will readily join your army! The price is $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:21
+#: A_New_Order/scenarios/23_Trapped.cfg:29
 msgid "We will pay the $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:22
+#: A_New_Order/scenarios/23_Trapped.cfg:30
 msgid "We won't pay."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:25
+#: A_New_Order/scenarios/23_Trapped.cfg:33
 msgid "Why not. Here are your $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:27
+#: A_New_Order/scenarios/23_Trapped.cfg:35
 msgid "Why not. Here is your gold."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:29
+#: A_New_Order/scenarios/23_Trapped.cfg:37
 msgid "Ha! We have a deal, then, my king. You may now recruit Dunefolk from my Ostan."
 msgstr ""
 
 #. EASY difficulty; the healer in question is a Dune Herbalist:
-#: A_New_Order/scenarios/23_Trapped.cfg:69
+#: A_New_Order/scenarios/23_Trapped.cfg:77
 msgid "As a gesture of goodwill, I am sending you a healer, too."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:77
+#: A_New_Order/scenarios/23_Trapped.cfg:85
 msgid "We are not interested in hiring you."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:78
-#: A_New_Order/scenarios/23_Trapped.cfg:91
+#: A_New_Order/scenarios/23_Trapped.cfg:86
+#: A_New_Order/scenarios/23_Trapped.cfg:99
 msgid "Then leave in peace, or prepare to fight."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:90
+#: A_New_Order/scenarios/23_Trapped.cfg:98
 msgid "Unfortunately, we do not have that much gold."
 msgstr ""
 
 #. [part]
 #. spoken by Gawen
-#: A_New_Order/scenarios/23_Trapped.cfg:115
+#: A_New_Order/scenarios/23_Trapped.cfg:123
 msgid "King Buffin's army was right behind us - we could almost feel their breath on our necks. As though this were not enough, we marched right into a knot of Akladians."
 msgstr ""
 
 #. [side]: id=Larkin O Travil, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:154
+#. [event]
+#: A_New_Order/scenarios/23_Trapped.cfg:162
+#: A_New_Order/scenarios/23_Trapped.cfg:525
 msgid "Larkin O Travil"
 msgstr ""
 
-#. [side]: id=King Buffin, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:191
-msgid "King Buffin"
-msgstr ""
-
 #. [side]: id={NAME}, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:266
+#: A_New_Order/scenarios/23_Trapped.cfg:274
 msgid "{NAME}"
 msgstr ""
 
 #. [side]: id=Dauri Hurionen, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:297
+#. [event]
+#: A_New_Order/scenarios/23_Trapped.cfg:305
+#: A_New_Order/scenarios/23_Trapped.cfg:480
+#: A_New_Order/scenarios/23_Trapped.cfg:546
+#: A_New_Order/scenarios/23_Trapped.cfg:548
+#: A_New_Order/scenarios/23_Trapped.cfg:582
+#: A_New_Order/scenarios/23_Trapped.cfg:584
+#: A_New_Order/scenarios/23_Trapped.cfg:589
+#: A_New_Order/scenarios/23_Trapped.cfg:591
+#: A_New_Order/scenarios/23_Trapped.cfg:810
 msgid "Dauri Hurionen"
 msgstr ""
 
-#. [side]: id=Arsham Mahouri, type=Dune Warmaster
-#: A_New_Order/scenarios/23_Trapped.cfg:328
-msgid "Arsham Mahouri"
-msgstr ""
-
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:427
+#: A_New_Order/scenarios/23_Trapped.cfg:435
 msgid "Who are you, stranger brave or foolhardy enough to enter Dunefolk land?"
 msgstr ""
 
 #. [unit]: id=Messenger, type=Akladian Homeguard
+#. [event]
 #. [unit]: type=Akladian Clansman, id=Messenger
-#: A_New_Order/scenarios/23_Trapped.cfg:452
+#: A_New_Order/scenarios/23_Trapped.cfg:460
+#: A_New_Order/scenarios/23_Trapped.cfg:467
+#: A_New_Order/scenarios/23_Trapped.cfg:470
+#: A_New_Order/scenarios/23_Trapped.cfg:473
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:277
 msgid "Messenger"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:459
+#: A_New_Order/scenarios/23_Trapped.cfg:467
 msgid "King Buffin! King Buffin! I bring terrible news for you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:461
+#: A_New_Order/scenarios/23_Trapped.cfg:469
 msgid "King Buffin is dead, boy."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:462
+#: A_New_Order/scenarios/23_Trapped.cfg:470
 msgid "Dead? How can that be! "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:462
-#: A_New_Order/scenarios/23_Trapped.cfg:465
+#: A_New_Order/scenarios/23_Trapped.cfg:470
+#: A_New_Order/scenarios/23_Trapped.cfg:473
 msgid "Okladia is in need - undead have invaded our country, they are razing the countryside and murdering our people! "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:462
+#: A_New_Order/scenarios/23_Trapped.cfg:470
 msgid "Without King Buffin, who will lead our army against them?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:464
+#: A_New_Order/scenarios/23_Trapped.cfg:472
 msgid "What? Speak quickly, I am a little bit busy here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:465
+#: A_New_Order/scenarios/23_Trapped.cfg:473
 msgid "My king - "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:465
+#: A_New_Order/scenarios/23_Trapped.cfg:473
 msgid " You must return home, with every able soldier in your army, as soon as possible or we shall surely perish!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:466
+#: A_New_Order/scenarios/23_Trapped.cfg:474
 msgid "Undead? So the reports I've been hearing were true, after all! You are fortunate, false Gawen, that I my duty to my people calls me away from here... for now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:472
+#: A_New_Order/scenarios/23_Trapped.cfg:480
 msgid "That's not good. I think the wise thing to do would be to withdraw, because without Buffin we will be too weak to defeat this army..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:495
+#: A_New_Order/scenarios/23_Trapped.cfg:503
 msgid "Who's there? Ruvio! Finally, my friend!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:496
+#: A_New_Order/scenarios/23_Trapped.cfg:504
 msgid "My lord..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:497
+#: A_New_Order/scenarios/23_Trapped.cfg:505
 msgid "What? Why the long face? Cheer up! Where is Karen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:498
+#: A_New_Order/scenarios/23_Trapped.cfg:506
 msgid "My lord... Gawen, my lord, please forgive me if I can't speak clearly enough. What I saw... I... I don't know if I can even describe it... if I can bear the task of describing it. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:509
+#: A_New_Order/scenarios/23_Trapped.cfg:517
 msgid " 'This is the Dunefolk territory of Mahour. If you wish to join us, you are welcome; if you wish to fight us, you shall perish.'"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:517
+#: A_New_Order/scenarios/23_Trapped.cfg:525
 msgid "My ancestors, I am coming to you with sword in my hand!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:518
+#: A_New_Order/scenarios/23_Trapped.cfg:526
 msgid "They are more powerful than I thought! Reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:538
+#: A_New_Order/scenarios/23_Trapped.cfg:546
 msgid "I am finished! But your leader... before I die, is his name really Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:539
+#: A_New_Order/scenarios/23_Trapped.cfg:547
 msgid "I really am Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:540
-#: A_New_Order/scenarios/23_Trapped.cfg:576
-#: A_New_Order/scenarios/23_Trapped.cfg:583
+#: A_New_Order/scenarios/23_Trapped.cfg:548
+#: A_New_Order/scenarios/23_Trapped.cfg:584
+#: A_New_Order/scenarios/23_Trapped.cfg:591
 msgid "Then I am doomed! My spirit will never find rest amongst my ancestors, since I fought my king!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:545
-#: A_New_Order/scenarios/23_Trapped.cfg:551
+#: A_New_Order/scenarios/23_Trapped.cfg:553
+#: A_New_Order/scenarios/23_Trapped.cfg:559
 msgid "I am dying... are you going to try to intimidate me, as your step-mother used to do?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:546
+#: A_New_Order/scenarios/23_Trapped.cfg:554
 msgid "No, noble Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:552
+#: A_New_Order/scenarios/23_Trapped.cfg:559
+#: A_New_Order/scenarios/23b_Trapped.cfg:18
+#: A_New_Order/scenarios/23b_Trapped.cfg:21
+#: A_New_Order/scenarios/23b_Trapped.cfg:30
+msgid "Aire Reumario"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/23_Trapped.cfg:560
 msgid "No, noble Aire Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:557
+#: A_New_Order/scenarios/23_Trapped.cfg:565
 msgid "King Buffin, my uncle, it has been an honour to fight you. You were a tough opponent."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:558
+#: A_New_Order/scenarios/23_Trapped.cfg:566
 msgid "Your uncle? Me? You are just an underling! Even if you ARE really Gawen Hagarthen, your mother was one of those curs! (<i>coughs</i>) My cousin should never have desecrated our family name by marrying her! I spit on you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:559
+#: A_New_Order/scenarios/23_Trapped.cfg:567
 msgid "Let this be a lesson to you, my idealistic step-son. To some people you may speak only with knife in hand."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:563
+#: A_New_Order/scenarios/23_Trapped.cfg:571
 msgid "A king! Ooh, I've never killed a king before. You know, I should feel more exhilirated."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:564
+#: A_New_Order/scenarios/23_Trapped.cfg:572
 msgid "So you are Lorin from the Galloraes... best sword-arm among Akladian women... (cough)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:565
+#: A_New_Order/scenarios/23_Trapped.cfg:573
 msgid "You have heard about me even in Okladia!? That's a pleasant surprise. Now, tell me, why were you here, and with a large army to boot?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:566
+#: A_New_Order/scenarios/23_Trapped.cfg:574
 msgid "To introduce peace and order into Vakladia and to unite it with my kingdom, Okladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:567
+#: A_New_Order/scenarios/23_Trapped.cfg:575
 msgid "Wait, do not die yet! I've heard that some of your people were mentioning rumors about strange things in the eastern part of Okladia. What strange things?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:568
+#: A_New_Order/scenarios/23_Trapped.cfg:576
 msgid "Ghosts, the long-dead who were seen walking again... zombies... my scouts were giving me contradictory reports. Some of my lords disappeared. I was planning on sending some of my army there immediately after finishing with Vakladia... (cough)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:569
+#: A_New_Order/scenarios/23_Trapped.cfg:577
 msgid "He's died."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:574
+#: A_New_Order/scenarios/23_Trapped.cfg:582
 msgid "I am finished! Death is less than fifty paces from me... but before she takes me, please tell me... are you really Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:575
+#: A_New_Order/scenarios/23_Trapped.cfg:583
 msgid "I am really Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:580
+#: A_New_Order/scenarios/23_Trapped.cfg:588
 msgid "Another lord killed by my delicate hand. I really should think about starting a collection of souvenirs from each defeated lord. Hmm... maybe the ears?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:581
+#: A_New_Order/scenarios/23_Trapped.cfg:589
 msgid "What are you doing with that underling cur, aren't you Lorin of Gallorae?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:582
+#: A_New_Order/scenarios/23_Trapped.cfg:590
 msgid "Yes, I am. And he is no underling, he is your lord, your king, Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:583
+#: A_New_Order/scenarios/23_Trapped.cfg:591
 msgid "Is that so? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:598
+#: A_New_Order/scenarios/23_Trapped.cfg:606
 msgid "We don't really care how underlings die, as long as they do it quickly and without making too much trouble."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:611
+#: A_New_Order/scenarios/23_Trapped.cfg:619
 msgid "See, noble and independent but not-so-smart Dunefolk leader, you could still be alive and on our side instead of being just another body in our path..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:666
+#: A_New_Order/scenarios/23_Trapped.cfg:674
 msgid "Ha, the rest of my army is coming!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
-#: A_New_Order/scenarios/23_Trapped.cfg:696
+#: A_New_Order/scenarios/23_Trapped.cfg:704
 msgid "Hm? I thought another unit of my army would be arriving now..."
 msgstr ""
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
-#: A_New_Order/scenarios/23_Trapped.cfg:725
+#: A_New_Order/scenarios/23_Trapped.cfg:733
 msgid "Where is the rest of that army of mine?!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:797
+#: A_New_Order/scenarios/23_Trapped.cfg:805
 msgid "Akladians of Vakladia! I am King Buffin. I have come to you to re-introduce peace and order to your lands after the untimely death of your king, my beloved cousin, Gawen Hagarthen. I..."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:799
+#: A_New_Order/scenarios/23_Trapped.cfg:807
 msgid "I AM Gawen Hagarthen. I am starting to tire of repeating that I am alive."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:800
+#: A_New_Order/scenarios/23_Trapped.cfg:808
 msgid "NO! Gawen Ha... No, you are not him! You are... some underling pretending to be my beloved nephew! Kill him!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:802
+#: A_New_Order/scenarios/23_Trapped.cfg:810
 msgid "We will, but not because we welcome you, Buffin of Okladia. Though you are Hagarthen, nobody has invited you here. But we will discuss that issue later."
 msgstr ""
 
 #. example of full sentence "I hope that with Reumario helping us this won't be as difficult as it might..." etc
-#: A_New_Order/scenarios/23_Trapped.cfg:878
+#: A_New_Order/scenarios/23_Trapped.cfg:886
 msgid "I hope that with "
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:878
+#: A_New_Order/scenarios/23_Trapped.cfg:886
 msgid " helping us this won't be as difficult as it might otherwise be, but we still should be prepared for serious losses."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:880
+#: A_New_Order/scenarios/23_Trapped.cfg:888
 msgid "I'm afraid this battle may be extremely difficult. We must be prepared for serious losses, unfortunately."
 msgstr ""
 
 #. [objectives]
 #. [note]
-#: A_New_Order/scenarios/23_Trapped.cfg:887
+#: A_New_Order/scenarios/23_Trapped.cfg:895
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:175
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:166
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1584
@@ -8465,7 +8490,7 @@ msgid "There are no interrogations in this scenario."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/23_Trapped.cfg:893
+#: A_New_Order/scenarios/23_Trapped.cfg:901
 msgid "Survive to the end of time limit"
 msgstr ""
 
@@ -14503,6 +14528,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:18
+#: A_New_Order/scenarios/23d_Trapped.cfg:21
+#: A_New_Order/scenarios/23d_Trapped.cfg:25
+#: A_New_Order/scenarios/23d_Trapped.cfg:35
+#: A_New_Order/scenarios/23d_Trapped.cfg:43
+#: A_New_Order/scenarios/23d_Trapped.cfg:46
+msgid "Raven O Trimmen"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/23d_Trapped.cfg:18
 msgid "Stop there! Foul underlings, your life is at an end!"
 msgstr ""
 
@@ -14543,7 +14578,7 @@ msgstr ""
 
 #. [event]
 #. FIXME: the opposite of "spared" isn't necessarily "killed"; it could also be "ignored entirely" (if Gawen just escaped in S17):
-#: A_New_Order/scenarios/23d_Trapped.cfg:47
+#: A_New_Order/scenarios/23d_Trapped.cfg:48
 msgid "If you were truly Gawen Hagarthen, you wouldn't have killed so many of my fellow Akladian Lords!"
 msgstr ""
 
