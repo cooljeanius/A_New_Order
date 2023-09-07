@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-07 07:27 UTC\n"
+"POT-Creation-Date: 2023-09-07 09:26 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,10 +120,10 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:98
 #: A_New_Order/macros/messages.cfg:102
 #: A_New_Order/macros/messages.cfg:109
-#: A_New_Order/scenarios/20_Okladia.cfg:436
-#: A_New_Order/scenarios/20_Okladia.cfg:445
-#: A_New_Order/scenarios/20_Okladia.cfg:455
-#: A_New_Order/scenarios/20_Okladia.cfg:463
+#: A_New_Order/scenarios/20_Okladia.cfg:437
+#: A_New_Order/scenarios/20_Okladia.cfg:446
+#: A_New_Order/scenarios/20_Okladia.cfg:456
+#: A_New_Order/scenarios/20_Okladia.cfg:464
 #: A_New_Order/scenarios/13_Scouting.cfg:714
 #: A_New_Order/scenarios/13_Scouting.cfg:724
 #: A_New_Order/scenarios/13_Scouting.cfg:735
@@ -757,6 +757,8 @@ msgstr ""
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
 #: A_New_Order/macros/messages.cfg:131
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
 msgid "Elorain"
 msgstr ""
@@ -1279,10 +1281,10 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:78
 #: A_New_Order/macros/messages.cfg:82
 #: A_New_Order/macros/messages.cfg:86
-#: A_New_Order/scenarios/20_Okladia.cfg:438
-#: A_New_Order/scenarios/20_Okladia.cfg:447
-#: A_New_Order/scenarios/20_Okladia.cfg:457
-#: A_New_Order/scenarios/20_Okladia.cfg:464
+#: A_New_Order/scenarios/20_Okladia.cfg:439
+#: A_New_Order/scenarios/20_Okladia.cfg:448
+#: A_New_Order/scenarios/20_Okladia.cfg:458
+#: A_New_Order/scenarios/20_Okladia.cfg:465
 #: A_New_Order/scenarios/13_Scouting.cfg:717
 #: A_New_Order/scenarios/13_Scouting.cfg:726
 #: A_New_Order/scenarios/28_Lorin.cfg:3
@@ -1632,8 +1634,8 @@ msgstr ""
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:588
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:246
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:341
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:388
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:417
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:399
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:428
 #: A_New_Order/scenarios/23_Trapped.cfg:913
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:480
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:196
@@ -1743,8 +1745,8 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:392
 #: A_New_Order/macros/ano-20macros.cfg:399
 #: A_New_Order/macros/ano-20macros.cfg:406
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:17
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:43
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:21
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:51
 msgid "Please tell me..."
 msgstr ""
 
@@ -1776,10 +1778,10 @@ msgstr ""
 #. [command]
 #. [event]
 #: A_New_Order/macros/debug.cfg:66
-#: A_New_Order/scenarios/20_Okladia.cfg:440
-#: A_New_Order/scenarios/20_Okladia.cfg:448
-#: A_New_Order/scenarios/20_Okladia.cfg:458
-#: A_New_Order/scenarios/20_Okladia.cfg:465
+#: A_New_Order/scenarios/20_Okladia.cfg:441
+#: A_New_Order/scenarios/20_Okladia.cfg:449
+#: A_New_Order/scenarios/20_Okladia.cfg:459
+#: A_New_Order/scenarios/20_Okladia.cfg:466
 #: A_New_Order/scenarios/13_Scouting.cfg:719
 #: A_New_Order/scenarios/13_Scouting.cfg:728
 #: A_New_Order/scenarios/13_Scouting.cfg:738
@@ -1858,8 +1860,8 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:37
 #: A_New_Order/macros/messages.cfg:122
 #: A_New_Order/scenarios/20_Okladia.cfg:97
-#: A_New_Order/scenarios/20_Okladia.cfg:439
-#: A_New_Order/scenarios/20_Okladia.cfg:456
+#: A_New_Order/scenarios/20_Okladia.cfg:440
+#: A_New_Order/scenarios/20_Okladia.cfg:457
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:70
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:111
 msgid "Deorien"
@@ -2298,16 +2300,16 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:395
 #: A_New_Order/macros/ano-20macros.cfg:401
 #: A_New_Order/macros/ano-20macros.cfg:408
-#: A_New_Order/scenarios/20_Okladia.cfg:311
-#: A_New_Order/scenarios/20_Okladia.cfg:361
-#: A_New_Order/scenarios/20_Okladia.cfg:408
+#: A_New_Order/scenarios/20_Okladia.cfg:312
+#: A_New_Order/scenarios/20_Okladia.cfg:362
+#: A_New_Order/scenarios/20_Okladia.cfg:409
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1190
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1218
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:49
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:570
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:22
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:48
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:581
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:26
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:56
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:13
 #: A_New_Order/scenarios/14b_Bontom.cfg:550
 #: A_New_Order/scenarios/14b_Bontom.cfg:557
@@ -2942,8 +2944,8 @@ msgstr ""
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:220
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:584
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:354
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:384
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:413
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:395
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:424
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:189
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:96
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:180
@@ -2963,8 +2965,8 @@ msgstr ""
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:224
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:580
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:380
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:409
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:391
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:420
 #: A_New_Order/scenarios/23_Trapped.cfg:905
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:472
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:185
@@ -3247,8 +3249,8 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/messages.cfg:90
 #: A_New_Order/macros/messages.cfg:94
-#: A_New_Order/scenarios/20_Okladia.cfg:437
-#: A_New_Order/scenarios/20_Okladia.cfg:446
+#: A_New_Order/scenarios/20_Okladia.cfg:438
+#: A_New_Order/scenarios/20_Okladia.cfg:447
 #: A_New_Order/scenarios/13_Scouting.cfg:716
 #: A_New_Order/scenarios/13_Scouting.cfg:737
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:562
@@ -3333,7 +3335,7 @@ msgstr ""
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:770
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:58
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:67
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:104
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:112
 #: A_New_Order/scenarios/23_Trapped.cfg:146
 #: A_New_Order/scenarios/29_Epilogue.cfg:101
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:36
@@ -3441,10 +3443,10 @@ msgstr ""
 #. [event]
 #. [else]
 #: A_New_Order/scenarios/20_Okladia.cfg:170
-#: A_New_Order/scenarios/20_Okladia.cfg:189
-#: A_New_Order/scenarios/20_Okladia.cfg:207
-#: A_New_Order/scenarios/20_Okladia.cfg:227
-#: A_New_Order/scenarios/20_Okladia.cfg:252
+#: A_New_Order/scenarios/20_Okladia.cfg:190
+#: A_New_Order/scenarios/20_Okladia.cfg:208
+#: A_New_Order/scenarios/20_Okladia.cfg:228
+#: A_New_Order/scenarios/20_Okladia.cfg:253
 #: A_New_Order/scenarios/13_Scouting.cfg:526
 #: A_New_Order/scenarios/13_Scouting.cfg:550
 #: A_New_Order/scenarios/13_Scouting.cfg:586
@@ -3453,7 +3455,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:946
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:266
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:461
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:470
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:183
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:243
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:278
@@ -3476,10 +3478,10 @@ msgstr ""
 #. [event]
 #. [else]
 #: A_New_Order/scenarios/20_Okladia.cfg:171
-#: A_New_Order/scenarios/20_Okladia.cfg:190
-#: A_New_Order/scenarios/20_Okladia.cfg:208
-#: A_New_Order/scenarios/20_Okladia.cfg:228
-#: A_New_Order/scenarios/20_Okladia.cfg:253
+#: A_New_Order/scenarios/20_Okladia.cfg:191
+#: A_New_Order/scenarios/20_Okladia.cfg:209
+#: A_New_Order/scenarios/20_Okladia.cfg:229
+#: A_New_Order/scenarios/20_Okladia.cfg:254
 #: A_New_Order/scenarios/13_Scouting.cfg:527
 #: A_New_Order/scenarios/13_Scouting.cfg:551
 #: A_New_Order/scenarios/13_Scouting.cfg:587
@@ -3488,7 +3490,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:947
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:267
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:462
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:471
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:482
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:184
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:201
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:192
@@ -3507,35 +3509,35 @@ msgid "Well, maybe not."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:178
+#: A_New_Order/scenarios/20_Okladia.cfg:179
 msgid "My lord, we already visited that place, and we found Deorien there."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:188
+#: A_New_Order/scenarios/20_Okladia.cfg:189
 msgid "So, shall we go to these haunted ruins?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:198
-#: A_New_Order/scenarios/20_Okladia.cfg:216
+#: A_New_Order/scenarios/20_Okladia.cfg:199
+#: A_New_Order/scenarios/20_Okladia.cfg:217
 msgid "My lord, we already visited that place."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:206
+#: A_New_Order/scenarios/20_Okladia.cfg:207
 msgid "So, should we go that way?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:226
-#: A_New_Order/scenarios/20_Okladia.cfg:251
+#: A_New_Order/scenarios/20_Okladia.cfg:227
+#: A_New_Order/scenarios/20_Okladia.cfg:252
 msgid "So, should we go back to Vakladia?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:242
-#: A_New_Order/scenarios/20_Okladia.cfg:267
+#: A_New_Order/scenarios/20_Okladia.cfg:243
+#: A_New_Order/scenarios/20_Okladia.cfg:268
 msgid "My lord, we have not found Deorien yet."
 msgstr ""
 
@@ -3544,32 +3546,32 @@ msgstr ""
 #. FIXME: her signpost is actually west from here, but maybe this villager is just stupid/lying?
 #. FIXME: her signpost is actually west from here, but maybe this villager is just stupid/lying?
 #. he is wrong about where Deorien lives, but as he says, he doesn't know, so preserve his mistake on translation:
-#: A_New_Order/scenarios/20_Okladia.cfg:276
-#: A_New_Order/scenarios/20_Okladia.cfg:280
-#: A_New_Order/scenarios/20_Okladia.cfg:292
-#: A_New_Order/scenarios/20_Okladia.cfg:298
+#: A_New_Order/scenarios/20_Okladia.cfg:277
+#: A_New_Order/scenarios/20_Okladia.cfg:281
+#: A_New_Order/scenarios/20_Okladia.cfg:293
 #: A_New_Order/scenarios/20_Okladia.cfg:299
-#: A_New_Order/scenarios/20_Okladia.cfg:314
-#: A_New_Order/scenarios/20_Okladia.cfg:316
-#: A_New_Order/scenarios/20_Okladia.cfg:318
-#: A_New_Order/scenarios/20_Okladia.cfg:320
-#: A_New_Order/scenarios/20_Okladia.cfg:322
-#: A_New_Order/scenarios/20_Okladia.cfg:325
-#: A_New_Order/scenarios/20_Okladia.cfg:327
-#: A_New_Order/scenarios/20_Okladia.cfg:342
-#: A_New_Order/scenarios/20_Okladia.cfg:344
-#: A_New_Order/scenarios/20_Okladia.cfg:365
-#: A_New_Order/scenarios/20_Okladia.cfg:367
-#: A_New_Order/scenarios/20_Okladia.cfg:383
-#: A_New_Order/scenarios/20_Okladia.cfg:385
-#: A_New_Order/scenarios/20_Okladia.cfg:388
-#: A_New_Order/scenarios/20_Okladia.cfg:390
-#: A_New_Order/scenarios/20_Okladia.cfg:398
-#: A_New_Order/scenarios/20_Okladia.cfg:400
-#: A_New_Order/scenarios/20_Okladia.cfg:411
-#: A_New_Order/scenarios/20_Okladia.cfg:413
-#: A_New_Order/scenarios/20_Okladia.cfg:415
-#: A_New_Order/scenarios/20_Okladia.cfg:417
+#: A_New_Order/scenarios/20_Okladia.cfg:300
+#: A_New_Order/scenarios/20_Okladia.cfg:315
+#: A_New_Order/scenarios/20_Okladia.cfg:317
+#: A_New_Order/scenarios/20_Okladia.cfg:319
+#: A_New_Order/scenarios/20_Okladia.cfg:321
+#: A_New_Order/scenarios/20_Okladia.cfg:323
+#: A_New_Order/scenarios/20_Okladia.cfg:326
+#: A_New_Order/scenarios/20_Okladia.cfg:328
+#: A_New_Order/scenarios/20_Okladia.cfg:343
+#: A_New_Order/scenarios/20_Okladia.cfg:345
+#: A_New_Order/scenarios/20_Okladia.cfg:366
+#: A_New_Order/scenarios/20_Okladia.cfg:368
+#: A_New_Order/scenarios/20_Okladia.cfg:384
+#: A_New_Order/scenarios/20_Okladia.cfg:386
+#: A_New_Order/scenarios/20_Okladia.cfg:389
+#: A_New_Order/scenarios/20_Okladia.cfg:391
+#: A_New_Order/scenarios/20_Okladia.cfg:399
+#: A_New_Order/scenarios/20_Okladia.cfg:401
+#: A_New_Order/scenarios/20_Okladia.cfg:412
+#: A_New_Order/scenarios/20_Okladia.cfg:414
+#: A_New_Order/scenarios/20_Okladia.cfg:416
+#: A_New_Order/scenarios/20_Okladia.cfg:418
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:216
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:218
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:230
@@ -3632,60 +3634,60 @@ msgid "Village leader"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:276
+#: A_New_Order/scenarios/20_Okladia.cfg:277
 msgid "Thank you once again, noble Gaumhaldric! I've sent my daughter to safety. If not for you, she would still be imprisoned."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:280
+#: A_New_Order/scenarios/20_Okladia.cfg:281
 msgid "Please accept this as modest sign of our gratitude."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:283
+#: A_New_Order/scenarios/20_Okladia.cfg:284
 msgid "You have received $bride_gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:292
+#: A_New_Order/scenarios/20_Okladia.cfg:293
 msgid "We are saved! Look who has come - it's Gaumhaldric the legendary!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:294
+#: A_New_Order/scenarios/20_Okladia.cfg:295
 msgid "It's Gaumhaldric, this is true, but he is also Gawen Hagarthen, king of Vakladia, and as Haldric he is king of Wesnoth. Wait, did you say - `saved`?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:296
+#: A_New_Order/scenarios/20_Okladia.cfg:297
 msgid "Well, yes, it's me, but why do you need to be saved?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:298
+#: A_New_Order/scenarios/20_Okladia.cfg:299
 msgid "My lord, my daughter is the most beautiful girl in these parts. I knew this would bring woe upon us. An Akladian lord wanted her hand in marriage, and she foolishly refused."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:299
+#: A_New_Order/scenarios/20_Okladia.cfg:300
 msgid "This Akladian lord, from Skagrrae clan, abducted her and swore to keep her imprisoned until she changed her mind. Please, free her!"
 msgstr ""
 
 #. [event]
 #. Lorin is about to say "underling" but catches herself:
-#: A_New_Order/scenarios/20_Okladia.cfg:301
+#: A_New_Order/scenarios/20_Okladia.cfg:302
 msgid "From your description she seems to be a girl with character, even for an under... anyway, we will release her, won't we, Gawen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:302
+#: A_New_Order/scenarios/20_Okladia.cfg:303
 msgid "Yes, of course, but first I want to ask few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:307
-#: A_New_Order/scenarios/20_Okladia.cfg:357
-#: A_New_Order/scenarios/20_Okladia.cfg:404
+#: A_New_Order/scenarios/20_Okladia.cfg:308
+#: A_New_Order/scenarios/20_Okladia.cfg:358
+#: A_New_Order/scenarios/20_Okladia.cfg:405
 #: A_New_Order/scenarios/13_Scouting.cfg:609
 #: A_New_Order/scenarios/13_Scouting.cfg:622
 #: A_New_Order/scenarios/13_Scouting.cfg:647
@@ -3704,8 +3706,8 @@ msgid "Please, tell me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:308
-#: A_New_Order/scenarios/20_Okladia.cfg:405
+#: A_New_Order/scenarios/20_Okladia.cfg:309
+#: A_New_Order/scenarios/20_Okladia.cfg:406
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:222
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:313
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:374
@@ -3714,18 +3716,18 @@ msgid "Would you fight for me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:309
-#: A_New_Order/scenarios/20_Okladia.cfg:406
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:569
+#: A_New_Order/scenarios/20_Okladia.cfg:310
+#: A_New_Order/scenarios/20_Okladia.cfg:407
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:580
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:375
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:484
 msgid "Do you know something about the mage Deorien?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:310
-#: A_New_Order/scenarios/20_Okladia.cfg:360
-#: A_New_Order/scenarios/20_Okladia.cfg:407
+#: A_New_Order/scenarios/20_Okladia.cfg:311
+#: A_New_Order/scenarios/20_Okladia.cfg:361
+#: A_New_Order/scenarios/20_Okladia.cfg:408
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:225
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:377
@@ -3734,159 +3736,159 @@ msgid "Have you heard any interesting news recently?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:314
+#: A_New_Order/scenarios/20_Okladia.cfg:315
 msgid "Hard and grueling times are ahead, I can't release anyone to join your army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:316
-#: A_New_Order/scenarios/20_Okladia.cfg:383
-#: A_New_Order/scenarios/20_Okladia.cfg:413
+#: A_New_Order/scenarios/20_Okladia.cfg:317
+#: A_New_Order/scenarios/20_Okladia.cfg:384
+#: A_New_Order/scenarios/20_Okladia.cfg:414
 msgid "Who?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:317
+#: A_New_Order/scenarios/20_Okladia.cfg:318
 msgid "Deorien, the great mage."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:318
+#: A_New_Order/scenarios/20_Okladia.cfg:319
 msgid "I don't know. Mages were all slaughtered by Akladians long time ago."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:320
+#: A_New_Order/scenarios/20_Okladia.cfg:321
 msgid "Our king, Buffin, is gathering an army to invade the neighbouring kingdom of Vakladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:321
+#: A_New_Order/scenarios/20_Okladia.cfg:322
 msgid "Take over Vakladia? How?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:322
+#: A_New_Order/scenarios/20_Okladia.cfg:323
 msgid "The previous king of Vakladia is dead. Usually Akladian lords would elect a new Hagarthen for the throne, but their king left no heir. So they should pick a regent and then send for a Hagarthen from another country, but instead they're just fighting amongst themselves."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:324
+#: A_New_Order/scenarios/20_Okladia.cfg:325
 msgid "Gawen Hagarthen is not dead, You see him now with your own eyes."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:325
+#: A_New_Order/scenarios/20_Okladia.cfg:326
 msgid "No offense, but I don't care. You wanted news, so I repeated what I've heard."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:327
+#: A_New_Order/scenarios/20_Okladia.cfg:328
 msgid "I've heard that Perien, king of Easkladia is besieged in his own capital by Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarreling amongst themselves. Our king, Buffin, decided he would invite himself to Vakladia. He thinks none can oppose him."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:328
+#: A_New_Order/scenarios/20_Okladia.cfg:329
 msgid "Interesting. Very, very interesting."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:342
+#: A_New_Order/scenarios/20_Okladia.cfg:343
 msgid "It's you who defeated the ghosts, aren't you? We will always keep you in our memory."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:344
+#: A_New_Order/scenarios/20_Okladia.cfg:345
 msgid "You've defeated the ghosts, then? We don't have much, but please accept this token of our gratitude."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:347
+#: A_New_Order/scenarios/20_Okladia.cfg:348
 msgid "You have received $haunted_gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:358
+#: A_New_Order/scenarios/20_Okladia.cfg:359
 msgid "Will you fight for me?"
 msgstr ""
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/20_Okladia.cfg:359
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:21
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:47
+#: A_New_Order/scenarios/20_Okladia.cfg:360
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:55
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:223
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:314
 msgid "Do you know anything about the mage Deorien?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:365
+#: A_New_Order/scenarios/20_Okladia.cfg:366
 msgid "There are no more people left here who can go with you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:367
+#: A_New_Order/scenarios/20_Okladia.cfg:368
 msgid "I can't, but there is one young man who would love to fight for you!"
 msgstr ""
 
 #. [unit]: type=Spearman, id=Gusto
-#: A_New_Order/scenarios/20_Okladia.cfg:372
+#: A_New_Order/scenarios/20_Okladia.cfg:373
 msgid "Gusto"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:384
-#: A_New_Order/scenarios/20_Okladia.cfg:414
-msgid "Deorien, a great mage."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:385
 #: A_New_Order/scenarios/20_Okladia.cfg:415
+msgid "Deorien, a great mage."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/20_Okladia.cfg:386
+#: A_New_Order/scenarios/20_Okladia.cfg:416
 msgid "I don't know. Mages were all killed by Akladians long time ago."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:388
+#: A_New_Order/scenarios/20_Okladia.cfg:389
 msgid "The greatest news is that you have defeated the ghosts which plagued the neighbourhood."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:390
+#: A_New_Order/scenarios/20_Okladia.cfg:391
 msgid "There is a haunted place east from here. People who go there never come back. We don't know what happens to them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:398
+#: A_New_Order/scenarios/20_Okladia.cfg:399
 msgid "Our village is poor, we have no food, we have no gold, we..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:399
+#: A_New_Order/scenarios/20_Okladia.cfg:400
 msgid "I don't want your food or gold. I just want to ask you few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:400
+#: A_New_Order/scenarios/20_Okladia.cfg:401
 msgid "We live in terror. Terrible things have taken up residence in the ruins east from here. We are waiting for someone who can free us from fear."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:411
+#: A_New_Order/scenarios/20_Okladia.cfg:412
 msgid "No, not really."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:417
+#: A_New_Order/scenarios/20_Okladia.cfg:418
 msgid "There is a haunted place to the east. People who go there disappear. We don't know what happens to them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:435
-#: A_New_Order/scenarios/20_Okladia.cfg:444
-#: A_New_Order/scenarios/20_Okladia.cfg:454
-#: A_New_Order/scenarios/20_Okladia.cfg:462
+#: A_New_Order/scenarios/20_Okladia.cfg:436
+#: A_New_Order/scenarios/20_Okladia.cfg:445
+#: A_New_Order/scenarios/20_Okladia.cfg:455
+#: A_New_Order/scenarios/20_Okladia.cfg:463
 #: A_New_Order/scenarios/13_Scouting.cfg:713
 #: A_New_Order/scenarios/13_Scouting.cfg:723
 #: A_New_Order/scenarios/13_Scouting.cfg:734
@@ -3897,114 +3899,114 @@ msgid "I would love to talk to..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:472
+#: A_New_Order/scenarios/20_Okladia.cfg:473
 #: A_New_Order/scenarios/13_Scouting.cfg:753
 msgid "Ruvio, please tell me.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:473
+#: A_New_Order/scenarios/20_Okladia.cfg:474
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:578
 msgid "Why do you dislike Lorin?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:474
+#: A_New_Order/scenarios/20_Okladia.cfg:475
 msgid "Tell me more about you and my mother."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:475
+#: A_New_Order/scenarios/20_Okladia.cfg:476
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:580
 msgid "Tell me about Karen"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:478
+#: A_New_Order/scenarios/20_Okladia.cfg:479
 msgid "You must be kidding. That woman is so grating and harsh, I cannot understand why Yahyazad seems to have a crush on her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:480
+#: A_New_Order/scenarios/20_Okladia.cfg:481
 msgid "There's not much to talk about. I told you she was my fiancée. But a few days before our wedding... Gawen, please, don't ask me. It's too painful."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:481
+#: A_New_Order/scenarios/20_Okladia.cfg:482
 msgid "But you have a wife now, and you love her, don't you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:482
+#: A_New_Order/scenarios/20_Okladia.cfg:483
 msgid "Yes. I love my wife, and my daughters. But sometimes, just sometimes... I feel like I've betrayed my first love."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:484
+#: A_New_Order/scenarios/20_Okladia.cfg:485
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:591
 msgid "Well, she is my oldest daughter. From her youth she always wanted to be a great fighter, and she always tried to be the best."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:485
+#: A_New_Order/scenarios/20_Okladia.cfg:486
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:592
 msgid "I'm kind of surprised that she is not here with us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:486
+#: A_New_Order/scenarios/20_Okladia.cfg:487
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:593
 msgid "I ordered Karl to tie her up and lock her room. I think that gave us enough time to escape. This journey is really too dangerous for her. I hope she will remain safe in Freetown."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:491
-#: A_New_Order/scenarios/20_Okladia.cfg:495
+#: A_New_Order/scenarios/20_Okladia.cfg:492
+#: A_New_Order/scenarios/20_Okladia.cfg:496
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:597
 msgid "Hey Reme, what's going on?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:492
+#: A_New_Order/scenarios/20_Okladia.cfg:493
 msgid "An alliance with a mage is a disturbing concept, my lord. But I shall try to adjust."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:493
+#: A_New_Order/scenarios/20_Okladia.cfg:494
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:600
 msgid "Nice to hear that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:496
+#: A_New_Order/scenarios/20_Okladia.cfg:497
 msgid "I'm not quite sure. Many people, are starting to hail you as the messiah. You could become king of all Wesnoth and the religious leader of our people."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:497
+#: A_New_Order/scenarios/20_Okladia.cfg:498
 msgid "Don't worry about that. You will always be my friend."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:500
+#: A_New_Order/scenarios/20_Okladia.cfg:501
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:603
 msgid "Mother, what's going on?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:503
+#: A_New_Order/scenarios/20_Okladia.cfg:504
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:605
 msgid "Mother? I thought you said I was not your real mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:504
+#: A_New_Order/scenarios/20_Okladia.cfg:505
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:606
 msgid "I'm sorry. I was really angry."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:509
+#: A_New_Order/scenarios/20_Okladia.cfg:510
 #: A_New_Order/scenarios/13_Scouting.cfg:828
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:612
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:620
@@ -4012,18 +4014,18 @@ msgid "Mother, can I have a word with you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:510
+#: A_New_Order/scenarios/20_Okladia.cfg:511
 msgid "Why do you want to kill Deorien?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:511
+#: A_New_Order/scenarios/20_Okladia.cfg:512
 msgid "Why have you been so upset recently?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:512
-#: A_New_Order/scenarios/20_Okladia.cfg:529
+#: A_New_Order/scenarios/20_Okladia.cfg:513
+#: A_New_Order/scenarios/20_Okladia.cfg:530
 #: A_New_Order/scenarios/13_Scouting.cfg:824
 #: A_New_Order/scenarios/13_Scouting.cfg:832
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:616
@@ -4032,73 +4034,73 @@ msgid "Never mind"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:516
+#: A_New_Order/scenarios/20_Okladia.cfg:517
 msgid "Deorien is a mage. Mages deserve to be killed. It is that simple."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:518
+#: A_New_Order/scenarios/20_Okladia.cfg:519
 msgid "Please, do not ask. I am starting to regret something I have done. Sometimes I am so happy about it... and yet I know I should have no hope, but still, sometimes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:519
+#: A_New_Order/scenarios/20_Okladia.cfg:520
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
 msgid "I don't understand."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:520
+#: A_New_Order/scenarios/20_Okladia.cfg:521
 msgid "Neither do I, Gawen. Neither do I."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:525
+#: A_New_Order/scenarios/20_Okladia.cfg:526
 msgid "Deorien, can I have a word with you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:526
+#: A_New_Order/scenarios/20_Okladia.cfg:527
 msgid "Why did you wait until I came to you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:527
+#: A_New_Order/scenarios/20_Okladia.cfg:528
 msgid "What are your plans for the future?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:528
+#: A_New_Order/scenarios/20_Okladia.cfg:529
 msgid "If Oracle is so respected by Akladians, why does not she simply declare Akladians should love Wesnothians?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:532
+#: A_New_Order/scenarios/20_Okladia.cfg:533
 msgid "Why did you and the Oracle wait until I came to Weldyn? Why didn't you declare me messiah before?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:533
+#: A_New_Order/scenarios/20_Okladia.cfg:534
 msgid "Because I wasn't sure whether you were the right person. I had to see you in person to decide. Besides, you had to make a name for yourself on your own. You had to become well-known amongst both Akladians and Wesnothians. A year ago you were a boy without a name; now that name has been earned with your own sword."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:535
+#: A_New_Order/scenarios/20_Okladia.cfg:536
 msgid "We will declare you king of Wesnoth and Vakladia, and messiah. As the messiah you will become ruler of all Akladians. I hope both Akladians and Wesnothians will back you. Then we will defeat the orcs and any Akladians who still oppose you. Finally, we will stop Grekulak's invasion."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:537
+#: A_New_Order/scenarios/20_Okladia.cfg:538
 msgid "Because some things may be spoken only when listener is prepared to listen. You see, young king, I don't know why Akladians respect and listen to Oracle. But I think it may be because what she says does not openly contradict their beliefs. I believe they would quickly declare her a tool of false God once they would stop to like what she tells them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:538
+#: A_New_Order/scenarios/20_Okladia.cfg:539
 msgid "Then why do you think they won't ignore what she tells them now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:539
+#: A_New_Order/scenarios/20_Okladia.cfg:540
 msgid "Because Akladians are in a desperate position. I think most of them, deep in their hearts, want changes --- but at the same time, they seem to be unable to admit that. Mind you, I may be wrong; but I think they simply need someone to tell them they must change."
 msgstr ""
 
@@ -4325,7 +4327,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/25_The_Awakening.cfg:752
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:392
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:403
 #: A_New_Order/scenarios/23_Trapped.cfg:909
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:476
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:200
@@ -4350,7 +4352,7 @@ msgstr ""
 #. this string is both the usual "time over" message, and a fakeout here in S22:
 #: A_New_Order/scenarios/25_The_Awakening.cfg:869
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:952
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:536
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:547
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:856
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:929
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
@@ -6520,7 +6522,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:44
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:79
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:565
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:576
 msgid "Now, tell me..."
 msgstr ""
 
@@ -7764,179 +7766,183 @@ msgstr ""
 msgid "Abducted Bride"
 msgstr ""
 
+#. [side]: id=Bark O Skagrrak, type=Akladian Lord
 #. [scenario]: id=21a_Abducted_Bride
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:190
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:13
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:39
+msgid "Bark O Skagrrak"
+msgstr ""
+
+#. [scenario]: id=21a_Abducted_Bride
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:17
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:47
 msgid "Wait, do not die yet! I want you to answer a few questions first!"
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:14
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:40
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:18
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:48
 msgid "You have defeated me, so I will grant you your wish. What do you want to know?"
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:18
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:22
 msgid "Why you have kidnapped this poor girl?"
 msgstr ""
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:567
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:19
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:45
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:578
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:23
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:53
 msgid "What are the plans of king Buffin?"
 msgstr ""
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:568
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:20
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:46
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:579
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:24
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:54
 msgid "What do you know about the situation in Vakladia?"
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:29
 msgid "Because I wanted to. "
 msgstr ""
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:579
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:590
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:29
 msgid "I don't have to explain myself to anyone."
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:27
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:31
 msgid "Why should I tell you? This is confidential and even though you gave me a good fight and an honourable death, I can't tell you."
 msgstr ""
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:585
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:29
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:596
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:33
 msgid "Vakladia is finished. The whole country is in chaos. I think Bor Cryne, one of their lords, wants to declare himself king, but not many Akladians living there will recognise him. Only Hagarthens can be kings."
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:31
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:35
 msgid "I don't know that name."
 msgstr ""
 
+#. [side]: id=Rurk Skagrrae, type=Akladian Lord
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:44
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:127
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:43
+msgid "Rurk Skagrrae"
+msgstr ""
+
+#. [scenario]: id=21a_Abducted_Bride
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:52
 msgid "Where is your lord keeping the kidnapped girl?"
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:51
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:59
 msgid "North of his castle, in small cage."
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:53
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:61
 msgid "I don't know. Only the king would know what his plans are."
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:55
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:63
 msgid "Their king is dead, orcs are ravaging though their land, their country is in chaos... These are hard times for worthy people. Easkladia lies in ruins, and now Vakladia is falling too... we all await the messiah who will end these grueling times."
 msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:57
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:65
 msgid "I've never heard of that name."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:69
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:77
 msgid "The peasants told Gawen that the lord of the neighbouring territory, Bark O Skagrrak, had kidnapped a young girl and was trying to force her to marry him. The decision to save the poor girl came naturally for Gawen."
-msgstr ""
-
-#. [side]: id=Rurk Skagrrae, type=Akladian Lord
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:119
-msgid "Rurk Skagrrae"
-msgstr ""
-
-#. [side]: id=Bark O Skagrrak, type=Akladian Lord
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:182
-msgid "Bark O Skagrrak"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:316
-msgid "Rurk, report about your preparations."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:317
-msgid "We are ready, my lord. Where will we be going? Is the gossip I've heard about the hordes on our eastern border true?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:318
-msgid "What gossip? Ghosts invading the castles? Rurk, I thought you were a reasonable man. Ghosts and undead are stories for Wesnothians. I think king Buffin is planting such gossip himself to scare Wesnothians and to distract them from thinking about rebelling again."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:319
-msgid "So why are we preparing our army?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:320
-msgid "You don't need to know. You need only to fulfill my orders."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:321
-msgid "They are keeping that poor girl somewhere north of their castle. We have to release her and help her return to her father."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:322
-msgid "...and of course we should kill the cretins who kidnapped her."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:323
-msgid "That isn't necessary."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:324
+msgid "Rurk, report about your preparations."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:325
+msgid "We are ready, my lord. Where will we be going? Is the gossip I've heard about the hordes on our eastern border true?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:326
+msgid "What gossip? Ghosts invading the castles? Rurk, I thought you were a reasonable man. Ghosts and undead are stories for Wesnothians. I think king Buffin is planting such gossip himself to scare Wesnothians and to distract them from thinking about rebelling again."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:327
+msgid "So why are we preparing our army?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:328
+msgid "You don't need to know. You need only to fulfill my orders."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:329
+msgid "They are keeping that poor girl somewhere north of their castle. We have to release her and help her return to her father."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:330
+msgid "...and of course we should kill the cretins who kidnapped her."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:331
+msgid "That isn't necessary."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:332
 msgid "I know."
 msgstr ""
 
 #. [event]
 #. slightly different from the generic Avenger string, to make it easier to tell which branch is being taken (also Elorain may still be a Ranger):
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:328
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:337
 msgid "My Lord, this seems to be an ideal task for an Elf who can ambush like I can. I can sneak right up to the cage and free that girl!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty; Gawen's request is reason for Elorain getting new abilities:
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:331
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:340
 msgid "Okay, but you had best be quick about it; we don't have much time here."
 msgstr ""
 
 #. [event]
 #. EASY difficulty; "hurry" means "get new abilities" here:
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:333
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:343
 msgid "Indeed, I shall hurry on this mission!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:365
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:376
 msgid "My Lord, this seems to be an ideal task for an Elvish Avenger. I can sneak right up to the cage and free that girl!"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:372
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:401
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:383
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:412
 #: A_New_Order/scenarios/23_Trapped.cfg:897
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:464
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
@@ -7945,155 +7951,159 @@ msgid "Kill all enemy leaders OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:376
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:405
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:387
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:416
 msgid "Release the peasant girl being kept in a cage and move her to the northern edge of the map."
 msgstr ""
 
 #. [unit]: id=Euridica, type=Peasant girl
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:439
+#. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:450
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:460
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:473
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:501
 msgid "Euridica"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:449
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:460
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:282
 msgid "Thank you! Thank you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:450
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:461
 msgid "Don't thank me, it's not over yet. You have to escape. I think we can escape to the north."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:451
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:462
 msgid "Move the peasant girl to the northern edge of the map."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:462
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:473
 msgid "Thank you once again! Now I can go to my village, to my family and fiance!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:469
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:480
 msgid "Our task here is finished. Should we withdraw now, my lord?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:492
 msgid "Understood. We shall continue to fight any remnants of her captors' forces until it is completely safe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:490
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:501
 msgid "Father! Father! Everything is going dark!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:491
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:502
 msgid "Oh no! We have failed our mission!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:544
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:555
 msgid "The poor girl is saved and we may now continue our quest."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:545
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:556
 msgid "Yes - Gawen Hagarthen, a great destiny waits for you. Do not permit it to wait for too long."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:555
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:566
 msgid "Welcome, noble Bark O Skagrrak. My name is Lorin of Gallorae. Some call me the She-wolf of Haeltin. Have you heard about me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:556
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:567
 msgid "Yes... I've heard about you. You're the hag wife of Hagarthen, the drab harlot from Vattin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:557
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:568
 msgid "Such a funny man you are, Bark. So willing to mock and flout. I wonder whether you will be equally ready to die."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:558
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:569
 msgid "Mother, please..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:559
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:570
 msgid "You've heard what he called me! Bark O Skagrrak, my name is Lady Lorin of the Gallorae clan. And my knife is called Truth-sayer. Say hello to it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:560
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:571
 msgid "You think I will be... AAAARGH!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:566
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:577
 msgid "Why have you kidnapped this poor girl?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:574
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:585
 msgid "She is so beautiful... I want her as a wife and slave, for all eternity."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:575
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:586
 msgid "Besides, our women are under an unknown curse; they give birth to few children and many of them are born sick. A Wesnothian woman could give me a son!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:576
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:587
 msgid "A slave cannot give a son to a Akladian lord!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:577
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:588
 msgid "I don't care! If she would give a life to my son, I would free her, I would made her my first wife, just as she would be of worthy people!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:578
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:589
 msgid "You are making me angry. What if she would give a life to a daughter?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:581
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:592
 msgid "Why should I tell you? This is a secret of my king."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:582
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:593
 msgid "Secret? I love secrets! I'm a woman, you know. Please share it with me. Preeeetty pleaaaase!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:583
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:594
 msgid "Aaargh! Stop it! I will tell you! King Buffin is preparing to invade Vakladia and claim the throne in Vattin. It is empty and it seems that no one will oppose Buffin. The two brothers in Guilcorta are now too busy, so it's a perfect opportunity. The army is ready already."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:587
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:598
 msgid "I don't know who that is!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:634
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:645
 msgid "Curses! They are more dangerous that I thought! Bring the reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:639
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:650
 msgid "We must do likewise! Bring our own reinforcements!"
 msgstr ""
 
