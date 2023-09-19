@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-07 09:26 UTC\n"
+"POT-Creation-Date: 2023-09-07 10:35 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgstr ""
 #. [unit_type]: id=Oracle, race=human
 #. [unit]: type=Oracle, id=Oracle
 #: A_New_Order/units/others/Oracle.cfg:6
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1830
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1834
 msgid "Oracle"
 msgstr ""
 
@@ -10533,6 +10533,7 @@ msgstr ""
 
 #. [scenario]: id=19c_The_Oracle
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:3
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1818
 msgid "The Oracle"
 msgstr ""
 
@@ -10548,7 +10549,11 @@ msgid "When we arrived, we found the city of the Oracle besieged. Four different
 msgstr ""
 
 #. [side]: id=Matthias Ramon, type=General
+#. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:68
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1613
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1643
 msgid "Matthias Ramon"
 msgstr ""
 
@@ -10650,7 +10655,9 @@ msgid "Oracle's Guard"
 msgstr ""
 
 #. [side]: id=Baruk Urk, type=Orcish Warlord
+#. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:592
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Baruk Urk"
 msgstr ""
 
@@ -10678,7 +10685,9 @@ msgid "Orc"
 msgstr ""
 
 #. [side]: id=Fat Bart, type=Fugitive
+#. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:818
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
 msgid "Fat Bart"
 msgstr ""
 
@@ -10706,7 +10715,9 @@ msgid "Outlaw"
 msgstr ""
 
 #. [side]: id=Burke Barien, type=Akladian Lord
+#. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1048
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
 msgid "Burke Barien"
 msgstr ""
 
@@ -10753,7 +10764,10 @@ msgid "Buren"
 msgstr ""
 
 #. [side]: id=Boren Rebarnon, type=Akladian Lord
+#. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1267
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1541
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
 msgid "Boren Rebarnon"
 msgstr ""
 
@@ -10860,99 +10874,99 @@ msgstr ""
 #. [event]
 #. The "o" in "oracle" is intentionally lowercase here so that Ruvio can correct Gawen in the line after this.
 #. (I'm not sure how Ruvio can tell case when they're supposed to be speaking aloud, but let's ignore that for now)
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1823
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1827
 msgid "We've won! At last. Now, where is that famous oracle?"
 msgstr ""
 
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify that
 #. 'The Oracle' is special, like a unique honoriffic (if you language has those) or something:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1826
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1830
 msgid "You pronounce that 'The Oracle'... all she needs is a great big 'The' in front and a capital O. But indeed, where is she?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1844
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1848
 msgid "Here I am. My voice speaks to those willing to listen. I know why you are here. I know who all of you are. Ask your questions and receive the answers, for I can see everything which may be."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1845
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1849
 msgid "Everything, huh? Then how come you were besieged and almost captured? Why didn't you escape or call on someone to help you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1846
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1850
 msgid "The answer to this question is the answer to your doubts. Why haven't I escaped? Why didn't I call someone for help?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1847
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1851
 msgid "Lady, we are searching for the great mage, Deorien. Maybe you know..."
 msgstr ""
 
 #. [event]
 #. Note to translators: This is archaic English, 'thee' and 'thou' are the singular familiar forms of 'you' - 'crieth' and 'recalleth' are old English for 'cries' and 'recalls'... 'e'en' is a poetic way of saying 'even'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1850
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1854
 msgid "Search for Deorien in the ruins of the great city, where e'en the wind crieth when it recalleth the memories of a marvelous past. He shall give unto thee answers, some of which thou mayest find unwelcome."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1852
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1856
 msgid "Ruins of the great city? What kind of answer is this? Which city? Why can't you give me straight answers?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1853
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1857
 msgid "I am an Oracle. Why should I give straight answers? Why do you think my answer is insufficient for you? Why do you think I should tell you more?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1854
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
 msgid "Oracle... I..."
 msgstr ""
 
 #. [event]
 #. If you are translating the Oracle's answers, and if you are not sure what Lorin's questions were, contact the campaign creator. The answers might not involve "to be" in some languages.
 #. Note to translators: This sentence incorporates quite a bit of archaic English. 'Yea' is old English for yes and 'thou' is the familiar/intimate form of a singular 'you'... 'ye' in the third answer is the old English familliar, plural form of 'you' - and 'nay' is old English for 'no.'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1862
 msgid "I already know your questions, Lorin from Gallorae, the clan which has long had more gold in the hair of their daughters than in their treasuries. The first answer is: yea, thou art. The second is: yea, he shall. The third is: nay, ye never shall."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1860
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1864
 msgid "No! No!  There has to be a better answer!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1861
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1865
 msgid "As the Oracle, I have nothing more to say to thee... As a woman, I can advise this: There is only one man in the world who may change your future. I think you know his name. Go and find him. Beg him for forgiveness if you have to. Stay with him as long as you can."
 msgstr ""
 
 #. [event]
 #. FIXME: this wording could be improved:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1863
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
 msgid "Is that all you wanted to tell me? Then know that I've heard, that the She-wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She will not hear the counsel woman whom is merely God's tool."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1864
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1868
 msgid "Let's go, Gawen. We're finished here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1865
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1869
 msgid "I didn't catch the meaning of the discussion between you, and I know it was important. But why?"
 msgstr ""
 
 #. [event]
 #. 'import' is an older English term for 'Importance'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1868
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1872
 msgid "You shall understand the full import of it one day, young king, and I daresay sooner than you think. I wish you luck in your quest. I will give one of my sergeants into your service. He will serve you loyally."
 msgstr ""
 
 #. [unit]: type=Sergeant, id=John Fasthood
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1875
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1879
 msgid "John Fasthood"
 msgstr ""
 
