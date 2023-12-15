@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-07 10:35 UTC\n"
+"POT-Creation-Date: 2023-12-15 04:51 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgstr ""
 #. [unit_type]: id=Oracle, race=human
 #. [unit]: type=Oracle, id=Oracle
 #: A_New_Order/units/others/Oracle.cfg:6
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1834
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1836
 msgid "Oracle"
 msgstr ""
 
@@ -595,13 +595,13 @@ msgid "Young Saurian"
 msgstr ""
 
 #. [unit_type]: id=Young Saurian, race=lizard
-#: A_New_Order/units/saurians/Young.cfg:19
+#: A_New_Order/units/saurians/Young.cfg:23
 msgid "Young Saurians are the workers for their race."
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/saurians/Young.cfg:40
-#: A_New_Order/units/saurians/Young.cfg:49
+#: A_New_Order/units/saurians/Young.cfg:44
+#: A_New_Order/units/saurians/Young.cfg:53
 msgid "pick"
 msgstr ""
 
@@ -1174,7 +1174,7 @@ msgstr ""
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
-#. trailing space is intentional here:
+#. trailing space is intentional here, since further text is supposed to be spliced on at the end:
 #: A_New_Order/macros/ano_macros.cfg:878
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
@@ -1640,12 +1640,12 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:480
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:196
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:221
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1572
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1574
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:499
 #: A_New_Order/scenarios/27_Orannon.cfg:746
 #: A_New_Order/scenarios/27_Orannon.cfg:1146
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:343
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:535
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:538
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:257
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:418
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:249
@@ -1658,7 +1658,7 @@ msgstr ""
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:345
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:347
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:539
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:542
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:261
 msgid "Death of Reme Carrenemoe"
 msgstr ""
@@ -2951,7 +2951,7 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:180
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:192
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:217
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1568
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1570
 #: A_New_Order/scenarios/27_Orannon.cfg:754
 #: A_New_Order/scenarios/27_Orannon.cfg:1154
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:224
@@ -2974,14 +2974,14 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:176
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:188
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:213
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1564
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1566
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:495
 #: A_New_Order/scenarios/27_Orannon.cfg:742
 #: A_New_Order/scenarios/27_Orannon.cfg:1142
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:216
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:208
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:339
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:531
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
 msgid "Death of Gawen Hagarthen"
 msgstr ""
 
@@ -3362,7 +3362,7 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:299
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:62
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:63
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:121
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:124
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:100
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:45
 msgid "Gawen Hagarthen"
@@ -4315,7 +4315,7 @@ msgstr ""
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:92
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:184
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:209
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1556
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1558
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:491
 #: A_New_Order/scenarios/27_Orannon.cfg:738
 #: A_New_Order/scenarios/27_Orannon.cfg:1138
@@ -4357,7 +4357,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:929
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:304
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1811
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1813
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:583
 msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
@@ -7575,7 +7575,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:24
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1297
 #: A_New_Order/scenarios/06_Separation.cfg:59
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:133
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:136
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:32
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:59
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:118
@@ -8497,7 +8497,7 @@ msgstr ""
 #: A_New_Order/scenarios/23_Trapped.cfg:895
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:175
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:166
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1584
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1586
 msgid "There are no interrogations in this scenario."
 msgstr ""
 
@@ -10533,7 +10533,7 @@ msgstr ""
 
 #. [scenario]: id=19c_The_Oracle
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:3
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1818
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1820
 msgid "The Oracle"
 msgstr ""
 
@@ -10551,9 +10551,9 @@ msgstr ""
 #. [side]: id=Matthias Ramon, type=General
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:68
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1613
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1643
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1548
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1615
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1645
 msgid "Matthias Ramon"
 msgstr ""
 
@@ -10657,7 +10657,7 @@ msgstr ""
 #. [side]: id=Baruk Urk, type=Orcish Warlord
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:592
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
 msgid "Baruk Urk"
 msgstr ""
 
@@ -10687,7 +10687,7 @@ msgstr ""
 #. [side]: id=Fat Bart, type=Fugitive
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:818
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
 msgid "Fat Bart"
 msgstr ""
 
@@ -10717,7 +10717,7 @@ msgstr ""
 #. [side]: id=Burke Barien, type=Akladian Lord
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1048
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Burke Barien"
 msgstr ""
 
@@ -10766,8 +10766,8 @@ msgstr ""
 #. [side]: id=Boren Rebarnon, type=Akladian Lord
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1267
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1541
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1547
 msgid "Boren Rebarnon"
 msgstr ""
 
@@ -10795,178 +10795,178 @@ msgid "Askarial"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1541
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
 msgid "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne wants to have her untouched."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Bor Cryne may desire whatever he wants. But the holy Oracle will be a 'guest' of the noble lord Uri van Roe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1543
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
 msgid "You two can settle that later. Everything else inside the city will belong to us!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
 msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1547
 msgid "Wait, I think someone is trying to help the besieged."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1548
 msgid "The Oracle was right, as always! Relief is coming! Fight harder, men, we must hold out long enough for relief to arrive!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1560
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1562
 msgid "Any enemy unit reaches the keep of the Oracle."
 msgstr ""
 
 #. [objectives]
 #. EASY difficulty, so be more explicit about how things work:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1578
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1580
 msgid "The scenario will continue even if Matthias Ramon dies. It is the keep upon which he stands that requires greater protection."
 msgstr ""
 
 #. [objectives]
 #. NORMAL, HARD, or NIGHTMARE difficulty, so this should just be a description of mechanics instead of having any sort of hint-like qualities:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1581
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1583
 msgid "The scenario will continue even if Matthias Ramon dies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1601
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1603
 msgid "Yikes, this Oracle is better defended than we expected! Let's get some gold together for some more reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1613
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1615
 msgid "I am under attack! To me, men! We must protect the Oracle together!"
 msgstr ""
 
 #. [message]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1620
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1622
 msgid "On our way, sir!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1643
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1645
 msgid "The attackers have slain me! Hurry, to my keep, men! You must protect the Oracle for me in my stead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1658
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1660
 msgid "I found her! I found her! The Oracle!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1659
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1661
 msgid "All is lost! They captured the Oracle!"
 msgstr ""
 
 #. [event]
 #. The "o" in "oracle" is intentionally lowercase here so that Ruvio can correct Gawen in the line after this.
 #. (I'm not sure how Ruvio can tell case when they're supposed to be speaking aloud, but let's ignore that for now)
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1827
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1829
 msgid "We've won! At last. Now, where is that famous oracle?"
 msgstr ""
 
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify that
 #. 'The Oracle' is special, like a unique honoriffic (if you language has those) or something:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1830
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1832
 msgid "You pronounce that 'The Oracle'... all she needs is a great big 'The' in front and a capital O. But indeed, where is she?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1848
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1850
 msgid "Here I am. My voice speaks to those willing to listen. I know why you are here. I know who all of you are. Ask your questions and receive the answers, for I can see everything which may be."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1849
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1851
 msgid "Everything, huh? Then how come you were besieged and almost captured? Why didn't you escape or call on someone to help you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1850
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1852
 msgid "The answer to this question is the answer to your doubts. Why haven't I escaped? Why didn't I call someone for help?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1851
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1853
 msgid "Lady, we are searching for the great mage, Deorien. Maybe you know..."
 msgstr ""
 
 #. [event]
 #. Note to translators: This is archaic English, 'thee' and 'thou' are the singular familiar forms of 'you' - 'crieth' and 'recalleth' are old English for 'cries' and 'recalls'... 'e'en' is a poetic way of saying 'even'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1854
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1856
 msgid "Search for Deorien in the ruins of the great city, where e'en the wind crieth when it recalleth the memories of a marvelous past. He shall give unto thee answers, some of which thou mayest find unwelcome."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1856
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
 msgid "Ruins of the great city? What kind of answer is this? Which city? Why can't you give me straight answers?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1857
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1859
 msgid "I am an Oracle. Why should I give straight answers? Why do you think my answer is insufficient for you? Why do you think I should tell you more?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1860
 msgid "Oracle... I..."
 msgstr ""
 
 #. [event]
 #. If you are translating the Oracle's answers, and if you are not sure what Lorin's questions were, contact the campaign creator. The answers might not involve "to be" in some languages.
 #. Note to translators: This sentence incorporates quite a bit of archaic English. 'Yea' is old English for yes and 'thou' is the familiar/intimate form of a singular 'you'... 'ye' in the third answer is the old English familliar, plural form of 'you' - and 'nay' is old English for 'no.'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1862
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1864
 msgid "I already know your questions, Lorin from Gallorae, the clan which has long had more gold in the hair of their daughters than in their treasuries. The first answer is: yea, thou art. The second is: yea, he shall. The third is: nay, ye never shall."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1864
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1866
 msgid "No! No!  There has to be a better answer!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1865
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
 msgid "As the Oracle, I have nothing more to say to thee... As a woman, I can advise this: There is only one man in the world who may change your future. I think you know his name. Go and find him. Beg him for forgiveness if you have to. Stay with him as long as you can."
 msgstr ""
 
 #. [event]
 #. FIXME: this wording could be improved:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1869
 msgid "Is that all you wanted to tell me? Then know that I've heard, that the She-wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She will not hear the counsel woman whom is merely God's tool."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1868
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1870
 msgid "Let's go, Gawen. We're finished here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1869
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1871
 msgid "I didn't catch the meaning of the discussion between you, and I know it was important. But why?"
 msgstr ""
 
 #. [event]
 #. 'import' is an older English term for 'Importance'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1872
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1874
 msgid "You shall understand the full import of it one day, young king, and I daresay sooner than you think. I wish you luck in your quest. I will give one of my sergeants into your service. He will serve you loyally."
 msgstr ""
 
 #. [unit]: type=Sergeant, id=John Fasthood
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1879
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1881
 msgid "John Fasthood"
 msgstr ""
 
@@ -15587,8 +15587,8 @@ msgstr ""
 #. [side]: id=Assassin
 #. [unit]: id=Assassin
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:619
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:426
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:569
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:429
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
 msgid "Assassin"
 msgstr ""
 
@@ -15802,303 +15802,308 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:28
+msgid "Content Note: This campaign contains mature themes, some of which may be unsuitable for children. Player discretion advised."
+msgstr ""
+
+#. [part]
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:31
 msgid "Moments slowly lengthen into hours. Hope is slipping through my fingers..."
 msgstr ""
 
 #. [part]
 #. Lorin speaking to Gawen:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:34
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:37
 msgid "Do you hear me, my son? I am losing hope, you must awaken... it was supposed to be just a routine show of force; kill a few rebels, scare the rest. Now your father is slain and you are lying here, not stirring, for... how many days now? I don't even know if you can hear me or if you care. It's so strange to call a man who is just few years younger 'son.' I wish I knew your real mother; at least then I would know with whom I am competing."
 msgstr ""
 
 #. [part]
 #. "Our people" = the Akladians:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:39
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:42
 msgid "Our people came here from the eastern lands long before my birth. Our people's destiny is to rule the world."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:52
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:55
 msgid "Your grandfather smashed the underling armies in the field and stormed their castles. They were weak while we were strong. Divided, while we were unified. God gave us our destiny; they foolishly trusted mages to alter theirs. They were truly destined to be our slaves."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:77
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:80
 msgid "We burned their palaces, towns, and castles; there was nothing worthy there. They told us that they put their legends and wisdom on paper, it was as though they thought they could imprison history in their books. We burned them all. Their poetry, wisdom, and history - their entire culture - burned to ashes. And with them, that most irritating underling quality - hope."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:100
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:103
 msgid "I was only five when your grandfather died and divided his kingdom among his sons, six when your father quelled the first rebellion. I never understood why he chose your mother... was it pure physical attraction, or an attempt to appease the conquered by marrying a woman of their nobility? If it was indeed the latter that he intended, he failed miserably; the underlings' hatred for us only increased, and our own people were uneasy with having such a queen."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:104
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:107
 msgid "When your mother died, I was chosen from the Gallorae Clan as your father's next wife. I am not certain whether or not this was an act to appease the Clans, but he must have wanted an heir whom our people would not question. My duty was to bear him that son, and I failed. Our people strayed from the old ways, and God turned his back on us as we had to him. Glutted upon land, money, and slaves, the weaker Akladian lords lost their armies and lands in combat with the underlings."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:108
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:111
 msgid "And now you lie here, defenseless and vulnerable. Your father's death has shown me how tenuous my position is, and how despised you are. Behind your back they call you a mixling, a bastard, a creature not fit to live, let alone to sit on the throne. And as for me... if you die, I would be just the wife of a despised king, stepmother of a hated heir; my death will be all but assured. Had I given birth, I would be your mortal enemy, but I have not. I know there is no love between us, but only together is there any hope..."
 msgstr ""
 
 #. [unit]: id=Reme Carrenemoe, type=Akladian Chieftain
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:150
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:153
 msgid "Reme Carrenemoe"
 msgstr ""
 
 #. [unit]: id=Eol Areon, type=Akladian Protector, type=Akladian Shieldguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:168
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:171
 msgid "Eol Areon"
 msgstr ""
 
 #. [unit]: id=Iree Rothe, type={ON_DIFFICULTY4 (Akladian Fastfoot) (Akladian Light Infantry) (Akladian Warrior) (Akladian Clansman)}
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:187
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:190
 msgid "Iree Rothe"
 msgstr ""
 
 #. [unit]: id=Reuke Rothe, type=Akladian Pikeneer, type=Akladian Light Infantry
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:202
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:205
 msgid "Reuke Rothe"
 msgstr ""
 
 #. [unit]: id=Strome Ohavenort, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:221
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:224
 msgid "Strome Ohavenort"
 msgstr ""
 
 #. [unit]: id=Reonee, type=Akladian Homeguard, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:236
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:239
 msgid "Reonee"
 msgstr ""
 
 #. [unit]: id=Raoke, type=Akladian Warrior, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:255
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:258
 msgid "Raoke"
 msgstr ""
 
 #. [unit]: id=Oyre, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:281
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:284
 msgid "Oyre"
 msgstr ""
 
 #. [unit]: id=Aueree, type=Akladian Homeguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:300
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:303
 msgid "Aueree"
 msgstr ""
 
 #. [side]: id=Rebel, type=City Militia, type=Lieutenant
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:315
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:318
 msgid "Heinric the Redbeard"
 msgstr ""
 
 #. [unit]: id=Militiaman, type=City Militia
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:344
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:347
 msgid "Militiaman"
 msgstr ""
 
 #. [unit]: id=Militiaman, type=Swordsman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:362
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:365
 msgid "Swords-wielding Militiaman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:495
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:498
 msgid "He has regained consciousness, my lady!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:496
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:499
 msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:497
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:500
 msgid "I feel weak... sick... (<i>pause</i>) ...I can't remember anything... nothing. Who am I?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:498
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:501
 msgid "I fear the blade which wounded him was poisoned, my lady.  We must wait here and pray that our God shows him mercy. <small>(<i>Whispering</i>) And then we shall bury him with all ceremonies.</small>"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:499
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
 msgid "No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:500
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
 msgid "He will not make it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:501
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
 msgid "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even sacrifice so much as a mouse ever again! Do you hear me, God? Do you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
 msgid "Gawen, get up!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
 msgid "Yes... But... I can't remember anything... Who am I?! Who are you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:507
 msgid "I am Lorin, your mother, the only person whom you can trust. These are your few loyal soldiers, who remained when everyone else deserted us. You are Gawen Hagarthen, the rightful king of Vakladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
 msgid "My mother? You seem... a bit young."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
 msgid "I am only your step-mother, but there is no time for more talk. We have to reach the town and find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
 msgid "Look, Akladians! To arms! Their king is dead; it's time to kill them all and be done with our slavery!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty; Reme's hints should be helpful:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
 msgid "My lord, if you can't remember anything, then permit me a few suggestions. While our troops are not the armoured types the Wesnothians have, they are far more resistant to pain and faster than the craven underlings. Remember to seek advantageous terrain; it's good to defend on the hills or in villages or forests. Do not charge blindly into the enemy; we have no means to replenish our army here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:512
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:515
 msgid "I see two good defensive positions here. One is to the north, near the village; the second is on the hills to the east of us. Use your troops to cover your back. Clansmen are not experienced enough to control terrain next to them, so you must put them adjacent to one another to block the enemy."
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty; bare minimum of hints:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:516
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:519
 msgid "My lord, if you can't remember anything, then permit me a few suggestions. Let's try to find our way to a village. And remember to keep yourself surrounded with your own troops so that the enemy can't slip in."
 msgstr ""
 
 #. [event]
 #. HARD difficulty; I'm being a bit tongue-in-cheek with the text here to mock how the easier 2 difficulties had hints here:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:520
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
 msgid "My lord, if you can't remember anything, then, well, I guess... I don't know what to tell you."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:527
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:530
 msgid "Gawen Hagarthen reaches the enemy keep"
 msgstr ""
 
 #. [objectives]
 #. this description of mechanics is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:545
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:548
 msgid "You cannot recruit new units in this scenario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:604
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:607
 msgid "These ashes are still warm... he has to be somewhere nearby..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:617
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:620
 msgid "I feel so sick, like poison is burning inside me..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:618
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:621
 msgid "Try to resist for just a bit longer, my son!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:625
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:628
 msgid "He will not make it!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:626
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:629
 msgid "My son! Please, don't give up!"
 msgstr ""
 
 #. [unit]: id=Medic, type=Mage
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:667
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:670
 msgid "Medic"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:679
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:682
 msgid "My lady, we have found a medic!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:680
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:683
 msgid "Underling! My son is dying. If you heal him, I will spare your life. If not, I will burn you and your family alive, do you understand?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:682
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:685
 msgid "Don't try to intimidate me. I am too old to be afraid of death, I have no family. I will try to heal your son because of my vows as a healer, not because of your threats, Akladian lady."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:683
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:686
 msgid "Your motives are of no concern to me, just do it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:723
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:726
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:772
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:775
 msgid "I can't see... it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:773
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:776
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:789
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:792
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:790
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:793
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so have Reme give an additional hint:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:793
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:796
 msgid "Do not forget to withdraw wounded units to villages, where they can rest and regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:806
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:809
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:818
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:821
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:831
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:834
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:839
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:842
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
