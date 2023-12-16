@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-16 20:39 UTC\n"
+"POT-Creation-Date: 2023-12-16 20:46 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3271,6 +3271,21 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:126
 #: A_New_Order/scenarios/27_Orannon.cfg:377
 msgid "Grekulak"
+msgstr ""
+
+#. [case]
+#: A_New_Order/macros/conversations_support.cfg:13
+msgid "Sorry, but "
+msgstr ""
+
+#. [case]
+#: A_New_Order/macros/conversations_support.cfg:13
+msgid " and "
+msgstr ""
+
+#. [case]
+#: A_New_Order/macros/conversations_support.cfg:13
+msgid " haven't built up enough support to have a support conversation yet."
 msgstr ""
 
 #. [scenario]: id=20_Okladia
