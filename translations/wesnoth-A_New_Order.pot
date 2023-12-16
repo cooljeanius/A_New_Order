@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-16 03:20 UTC\n"
+"POT-Creation-Date: 2023-12-16 20:39 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -341,7 +341,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Protector, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:4
-#: A_New_Order/_main.cfg:56
+#: A_New_Order/_main.cfg:59
 msgid "Akladian Protector"
 msgstr ""
 
@@ -399,7 +399,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/_main.cfg:53
+#: A_New_Order/_main.cfg:56
 msgid "Akladian Clansman"
 msgstr ""
 
@@ -438,7 +438,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:4
-#: A_New_Order/_main.cfg:54
+#: A_New_Order/_main.cfg:57
 msgid "Akladian Warrior"
 msgstr ""
 
@@ -555,7 +555,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Shieldguard, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:4
-#: A_New_Order/_main.cfg:55
+#: A_New_Order/_main.cfg:58
 msgid "Akladian Shieldguard"
 msgstr ""
 
@@ -729,11 +729,13 @@ msgid "Now, I will meet the best marksman... Death never misses."
 msgstr ""
 
 #. [message]: speaker=Elorain
+#. See scenarios/11_Council_in_Freetown for where these randomly-chosen phrases come from:
 #: A_New_Order/macros/elvish_macros.cfg:51
 msgid "Ha! $ano_elorain_$random "
 msgstr ""
 
 #. [message]: speaker=Milildur
+#. See scenarios/11_Council_in_Freetown for where the randomly-chosen phrases come from:
 #: A_New_Order/macros/elvish_macros.cfg:64
 msgid "Ha! $ano_milildur_$random "
 msgstr ""
@@ -1162,28 +1164,28 @@ msgstr ""
 msgid "Stingy bastard."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:464
+#: A_New_Order/macros/ano_macros.cfg:502
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:468
+#: A_New_Order/macros/ano_macros.cfg:506
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:906
+#: A_New_Order/macros/ano_macros.cfg:947
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
 #. trailing space is intentional here, since further text is supposed to be spliced on at the end:
-#: A_New_Order/macros/ano_macros.cfg:915
+#: A_New_Order/macros/ano_macros.cfg:957
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1066
+#: A_New_Order/macros/ano_macros.cfg:1114
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1072
+#: A_New_Order/macros/ano_macros.cfg:1122
 msgid "Scenario notes:"
 msgstr ""
 
@@ -11588,17 +11590,17 @@ msgid "yet she is still alive"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2328
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2327
 msgid "This underling has incredible luck!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2329
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2328
 msgid "What do you mean, Bor?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2330
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2329
 msgid "I don't know how to explain this. But... For example, I was so sure our warriors will kill that $tmp, $tmpg|!"
 msgstr ""
 
@@ -17560,27 +17562,27 @@ msgid "ANO"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:53
+#: A_New_Order/_main.cfg:56
 msgid "Trivial"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:54
+#: A_New_Order/_main.cfg:57
 msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:55
+#: A_New_Order/_main.cfg:58
 msgid "Difficult"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:56
+#: A_New_Order/_main.cfg:59
 msgid "Impossible"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:62
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying barbarians are on the brink of civil war, the seeds of Wesnothian rebellion are kept alive by old legends, while bandits and Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these disparate factions against a common foe?\n"
 "\n"
