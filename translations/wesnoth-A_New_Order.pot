@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-16 20:46 UTC\n"
+"POT-Creation-Date: 2023-12-22 06:09 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -808,7 +808,7 @@ msgstr ""
 #. [then]
 #: A_New_Order/macros/elvish_macros.cfg:134
 #: A_New_Order/macros/elvish_macros.cfg:255
-#: A_New_Order/macros/conversations.cfg:45
+#: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:668
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:688
 msgid "What?"
@@ -1257,99 +1257,65 @@ msgstr ""
 msgid "Okladia was one of four kingdoms founded by Gawen's grandfather's sons after his death. Okladia was ruled by Buffin Hagarthen, an old, suspicious, and very conservative king. He had been easily able to crush a recent Wesnothian rebellion in his country - for the fourth time in his reign - and had the reputation of being a very careful and skillful ruler."
 msgstr ""
 
-#. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/macros/conversations.cfg:41
-#: A_New_Order/macros/conversations.cfg:45
-#: A_New_Order/macros/conversations.cfg:48
-#: A_New_Order/macros/conversations.cfg:61
-#: A_New_Order/macros/conversations.cfg:77
-#: A_New_Order/macros/messages.cfg:15
-#: A_New_Order/macros/messages.cfg:19
-#: A_New_Order/macros/messages.cfg:23
-#: A_New_Order/macros/messages.cfg:27
-#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
-msgid "Gawen"
-msgstr ""
-
-#: A_New_Order/macros/conversations.cfg:42
 msgid "It's strange, but I have a premonition of success, the likes of which I have had never before. Our soldiers are really the best of their kind; the true elite. It's been more than a month since we left Raedwood, and we have already routed forces larger than ours."
 msgstr ""
 
-#. [event]
-#. [scenario]: id=28_Lorin
-#: A_New_Order/macros/conversations.cfg:43
-#: A_New_Order/macros/conversations.cfg:46
-#: A_New_Order/macros/conversations.cfg:49
-#: A_New_Order/macros/messages.cfg:78
-#: A_New_Order/macros/messages.cfg:82
-#: A_New_Order/macros/messages.cfg:86
-#: A_New_Order/scenarios/20_Okladia.cfg:439
-#: A_New_Order/scenarios/20_Okladia.cfg:448
-#: A_New_Order/scenarios/20_Okladia.cfg:458
-#: A_New_Order/scenarios/20_Okladia.cfg:465
-#: A_New_Order/scenarios/13_Scouting.cfg:717
-#: A_New_Order/scenarios/13_Scouting.cfg:726
-#: A_New_Order/scenarios/28_Lorin.cfg:3
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
-msgid "Lorin"
-msgstr ""
-
-#: A_New_Order/macros/conversations.cfg:44
+#: A_New_Order/macros/conversations.cfg:42
 msgid "A month? Are you sure it's been more than a month?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:47
+#: A_New_Order/macros/conversations.cfg:44
 msgid "Yes... Yes it is... more than a month... oh Gawen, I... I've done something really terrible... I... I... I don't know how to tell you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/conversations.cfg:48
+#: A_New_Order/macros/conversations.cfg:45
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:254
 msgid "What?!?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:50
+#: A_New_Order/macros/conversations.cfg:46
 msgid "No, nothing. It doesn't matter. I... I'm sorry, but I can't... I will join you later."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:60
+#: A_New_Order/macros/conversations.cfg:56
 msgid "Gawen, I've never seen your step-mother like this before. I think she is sick. Very sick. I saw her vomiting yesterday."
 msgstr ""
 
 #. Gawen is reacting to Ruvio informing him that he saw Lorin vomiting yesterday; the way he intended
 #. to complete the "Is she..." sentence at the end is left intentionally ambiguous so that Ruvio can complete
 #. it with his own assumption that Gawen meant "...poisoned?" to complete it.
-#: A_New_Order/macros/conversations.cfg:65
+#: A_New_Order/macros/conversations.cfg:60
 msgid "But... What happened? Why? Is she..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:66
+#: A_New_Order/macros/conversations.cfg:61
 msgid "Poisoned? It's not impossible. We have Akladians in our army, don't we?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:68
+#: A_New_Order/macros/conversations.cfg:62
 msgid "My lord, I do not wish to disturb you, but our scouts have reported about the enemy forces."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:70
+#: A_New_Order/macros/conversations.cfg:63
 msgid "Hmm... It seems we will have to fight this army to continue our journey. It should be easy."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:73
-#: A_New_Order/macros/conversations.cfg:75
+#: A_New_Order/macros/conversations.cfg:65
+#: A_New_Order/macros/conversations.cfg:67
 msgid "My lord, our scouts also told us that we are being followed by a very large army of Akladians. Someone has noticed us. Maybe our successes have been too much. We have to win quickly, or we will be crushed by another foe."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:77
+#: A_New_Order/macros/conversations.cfg:69
 msgid "It will be have to be a quick and decisive victory, then."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:81
+#: A_New_Order/macros/conversations.cfg:73
 msgid "Now that we have quit Raedwood forest, we should find Deorien. We know he is somewhere in Okladia, another kingdom that was founded by Akladians, and is ruled by your cousins from the Hagarthen line. But where Deorien is exactly... well, we have no idea."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:82
+#: A_New_Order/macros/conversations.cfg:74
 msgid "That's why I suggest we visit the Oracle, who, being a mage herself, may know where Deorien is."
 msgstr ""
 
@@ -3183,6 +3149,15 @@ msgstr ""
 msgid "+$experience_gained| exp"
 msgstr ""
 
+#. [message]: speaker=Gawen Hagarthen
+#: A_New_Order/macros/messages.cfg:15
+#: A_New_Order/macros/messages.cfg:19
+#: A_New_Order/macros/messages.cfg:23
+#: A_New_Order/macros/messages.cfg:27
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:290
+msgid "Gawen"
+msgstr ""
+
 #: A_New_Order/macros/messages.cfg:31
 msgid "Graeme"
 msgstr ""
@@ -3246,6 +3221,23 @@ msgstr ""
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:66
 msgid "Huon Ryedric"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=28_Lorin
+#: A_New_Order/macros/messages.cfg:78
+#: A_New_Order/macros/messages.cfg:82
+#: A_New_Order/macros/messages.cfg:86
+#: A_New_Order/scenarios/20_Okladia.cfg:439
+#: A_New_Order/scenarios/20_Okladia.cfg:448
+#: A_New_Order/scenarios/20_Okladia.cfg:458
+#: A_New_Order/scenarios/20_Okladia.cfg:465
+#: A_New_Order/scenarios/13_Scouting.cfg:717
+#: A_New_Order/scenarios/13_Scouting.cfg:726
+#: A_New_Order/scenarios/28_Lorin.cfg:3
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
+msgid "Lorin"
 msgstr ""
 
 #. [event]
