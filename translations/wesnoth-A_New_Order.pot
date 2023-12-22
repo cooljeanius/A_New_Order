@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-22 06:44 UTC\n"
+"POT-Creation-Date: 2023-12-22 10:13 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -797,6 +797,11 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:148
 #: A_New_Order/macros/messages.cfg:151
 #: A_New_Order/macros/messages.cfg:161
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:320
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:327
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:332
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
@@ -1335,7 +1340,10 @@ msgstr ""
 #. [event]
 #. [unit]: id=Karl Regven, type=Duelist
 #: A_New_Order/macros/deaths.cfg:33
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:209
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:610
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
+#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:77
 msgid "Karl Regven"
 msgstr ""
 
@@ -5937,7 +5945,13 @@ msgid "Velkon Elch"
 msgstr ""
 
 #. [side]: id=Quësel, type=Elvish Avenger, type=Elvish Ranger
+#. [event]
+#. [then]
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:144
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:193
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:315
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:653
+#: A_New_Order/scenarios/15c_Raedwood_East.cfg:665
 msgid "Quësel"
 msgstr ""
 
@@ -10026,17 +10040,17 @@ msgstr ""
 
 #. [else]
 #. threateningly:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:328
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:329
 msgid "Do you REALLY feel like trying your luck, human?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:329
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:330
 msgid "...you're right, never mind."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:331
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:332
 msgid "Hm, I feel as though I may have missed out on something... oh well."
 msgstr ""
 
