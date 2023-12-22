@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-22 06:09 UTC\n"
+"POT-Creation-Date: 2023-12-22 06:44 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -915,7 +915,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:331
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:412
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:420
 #: A_New_Order/scenarios/23_Trapped.cfg:28
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:603
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:150
@@ -1599,7 +1599,7 @@ msgstr ""
 #: A_New_Order/macros/ano-01_06macros.cfg:262
 #: A_New_Order/macros/ano-14macros.cfg:18
 #: A_New_Order/scenarios/25_The_Awakening.cfg:748
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:588
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:596
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:246
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:341
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:399
@@ -2273,8 +2273,8 @@ msgstr ""
 #: A_New_Order/scenarios/20_Okladia.cfg:409
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1190
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1218
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:49
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:57
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:92
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:581
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:26
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:56
@@ -2910,7 +2910,7 @@ msgstr ""
 #: A_New_Order/macros/ano-14macros.cfg:4
 #: A_New_Order/scenarios/25_The_Awakening.cfg:744
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:220
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:584
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:592
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:354
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:395
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:424
@@ -2931,7 +2931,7 @@ msgstr ""
 #: A_New_Order/macros/ano-14macros.cfg:8
 #: A_New_Order/scenarios/25_The_Awakening.cfg:740
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:224
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:580
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:588
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:391
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:420
@@ -3339,9 +3339,9 @@ msgstr ""
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:32
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:35
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:46
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:151
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:747
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:770
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:159
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:755
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:778
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:58
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:67
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:112
@@ -4360,7 +4360,7 @@ msgstr ""
 #. [event]
 #. this string is both the usual "time over" message, and a fakeout here in S22:
 #: A_New_Order/scenarios/25_The_Awakening.cfg:869
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:952
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:960
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:547
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:856
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:929
@@ -6465,680 +6465,684 @@ msgstr ""
 msgid "Sneaking out of Raedwood"
 msgstr ""
 
+#. [side]: id=Raban Harnen, type=Akladian Lord
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:15
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:294
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:13
+msgid "Raban Harnen"
+msgstr ""
+
+#. [scenario]: id=17_Sneaking_out_of_Raedwood
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:19
 msgid "MY KING! Forgive me, no... kill me now, how could I fight against you? I know now that I am a worthless traitor."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:16
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:20
 msgid "Gawen, I thought I told you to keep your identity a secret."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:17
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:21
 msgid "It is for advisors to advise, and the leader to choose whether to follow that advice. Raban, there can be no treachery in ignorance. If you didn't know it was me, you are no traitor."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:20
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:24
 msgid "I've heard that name... a new, skilled underling leader. My honor is intact, even in defeat."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #. [message]: speaker=Lady Lorin
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:22
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:26
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:276
 msgid "And now..."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:23
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:27
 msgid "I will spare your life."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:24
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:28
 msgid "Go to your ancestors."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:27
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:31
 msgid "I will order my people to try to cure your wounds. And then I will release you."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:30
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:34
 msgid "Prepare to meet your ancestors, brave warrior; I cannot leave you alive."
 msgstr ""
 
+#. [side]: id=Bar O Raednon, type=Akladian Lord
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:35
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:179
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:39
+msgid "Bar O Raednon"
+msgstr ""
+
+#. [scenario]: id=17_Sneaking_out_of_Raedwood
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:43
 msgid "You can still hear me, can't you? I have some questions."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:36
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:44
 msgid "Then ask someone else... who might know the answers."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:37
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:45
 msgid "Wait! Don't die yet! Curses, he's already lost consciousness."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:44
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:79
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:52
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:87
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:576
 msgid "Now, tell me..."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:45
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:80
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:53
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:88
 msgid "Why is Bor Cryne allied with orcs?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:46
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:81
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:54
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:89
 msgid "What can you tell me about Grekulak?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:47
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:82
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:55
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:90
 msgid "Do you know where the great mage Deorien is?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:48
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:83
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:56
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:91
 msgid "Will you fight for us?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:54
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:62
 msgid "Mage? Then he is surely burning in hell!"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:56
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:64
 msgid "I don't know. He leads the orcs, but he is not an orc. I am not sure who he is. There is gossip that a new messiah will come to lead us to conquer the world, and he might just be that new messiah, I think."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:57
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:65
 msgid "New messiah?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:58
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:66
 msgid "Yes. The new messiah will show us how to renew our covenant with God, and he will reveal to us the new traditions and ways that this covenant will require. He won't be Akladian - at least not fully Akladian - the rumors are not totally clear about that."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:61
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:69
 msgid "It's because we need allies against the usurper mixling, Gawen Hagarthen."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:62
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:70
 msgid "And what are his plans for future?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:63
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:71
 msgid "I think Bor wants to be king. He wants to try to unite all of the Akladian kingdoms and complete the conquest of Wesnoth. On the way, he will purify our race by killing every Akladian unworthy of the name."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:64
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:72
 msgid "Unworthy? What do you mean by that?"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:65
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:73
 msgid "Those who have offended our God by marrying Wesnothian women. Those who allowed their daughters to live when they chose another husband or married an underling. Those with underling friends. All of them will be sacrificed to God."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:69
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:77
 msgid "Never in my life or afterlife!"
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:89
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:97
 msgid "I don't know who that is. If he is a mage, then he is an enemy of our God and as such, has no right to life."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:91
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:99
 msgid "I do not know that name."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:93
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:101
 msgid "I do not know why. I've heard they came here to purify the world before the new messiah comes, but right now it just seems like they are pillaging and murdering many good people, Akladian and Wesnothian alike."
 msgstr ""
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:96
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:104
 msgid "I can't; your blow almost chopped my arm off. If you allow me to live, all I want is to return to my wife and children."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:133
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:141
 msgid "Gawen's soldiers left Freetown and swiftly entered the woods. They marched from dawn to dusk, until they found themselves at the border of Raedwood forest."
 msgstr ""
 
-#. [side]: id=Bar O Raednon, type=Akladian Lord
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:171
-msgid "Bar O Raednon"
-msgstr ""
-
 #. [side]: id=Quivre O Raednon, type=Akladian Lord
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:229
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:237
 msgid "Quivre O Raednon"
-msgstr ""
-
-#. [side]: id=Raban Harnen, type=Akladian Lord
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:286
-msgid "Raban Harnen"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:368
-msgid "I hate this forest. I REALLY hate it. Passionately."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:369
-msgid "Shut up, Bar. Over the last year I've heard more than enough of your whining about trees, woods, branches and so on."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:370
-msgid "It's the wind. And the noise... as if the green devils are whispering in the leaves. I really hate this forest."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:375
-msgid "Hold your tongue! Green devils... I've heard they appeared recently in Raedwood. My friend told me there were THOUSANDS of them. I wish I were somewhere else."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:376
-msgid "Like... in bed with your underling so-called 'wife'?"
+msgid "I hate this forest. I REALLY hate it. Passionately."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:377
-msgid "I've told you not to call her that! What's wrong with marrying Wesnothian women anyway? If our old king could do it, why not us lesser men?"
+msgid "Shut up, Bar. Over the last year I've heard more than enough of your whining about trees, woods, branches and so on."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:378
+msgid "It's the wind. And the noise... as if the green devils are whispering in the leaves. I really hate this forest."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:383
+msgid "Hold your tongue! Green devils... I've heard they appeared recently in Raedwood. My friend told me there were THOUSANDS of them. I wish I were somewhere else."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:384
+msgid "Like... in bed with your underling so-called 'wife'?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:385
+msgid "I've told you not to call her that! What's wrong with marrying Wesnothian women anyway? If our old king could do it, why not us lesser men?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:386
 msgid "The King is dead. I think God punished him for mixing our holy blood with that of the underlings. And Raban, you should really get rid of your, um, wife-thing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:379
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:387
 msgid "Why? At least Wesnothian woman guarantee healthy children."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:380
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:388
 msgid "There is a gossip that this unknown curse put on our women will end. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:380
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:388
 msgid "Everyone who has forsaken our old ways and is too underling-friendly will soon be as dead as our old king. Or as that mixling, ten-days king, Gawen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:381
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:389
 msgid "Cousin, do not utter that name! I've heard he was seen walking the face of the earth... as if... he had come back from the grave... or perhaps undead..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:382
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:390
 msgid "We have to get past these guards. Akladians set up a line of guards around the forest some time ago, when our rebellion was more visible and having some success."
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:386
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:394
 msgid "I want to avoid fighting. I only have eighteen seasoned troops, and in this neigborhood I can recruit only peasants. I won't be able to find replacements for any of my veterans, and this is just the beginning of our quest."
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty:
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:390
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:398
 msgid "I want to avoid fighting. I only have fifteen seasoned troops, and in this neigborhood I can recruit only peasants. I won't be able to find replacements for any of my veterans, and this is just the beginning of our quest."
 msgstr ""
 
 #. [event]
 #. HARD difficulty:
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:394
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:402
 msgid "I want to avoid fighting. I only have twelve seasoned troops, and in this neigborhood I can recruit only peasants. I won't be able to find replacements for any of my veterans, and this is just the beginning of our quest."
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:398
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:406
 msgid "I want to avoid fighting. I barely have any seasoned troops, and in this neigborhood I can recruit only peasants. I won't be able to find replacements for any of my veterans, and this is just the beginning of our quest."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:400
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:408
 msgid "If so, then it is up to you to figure out a strategy which will avoid any losses. While we will have to pass near the guards, and may skirmish with them, there is no need to get into a stand-up fight with them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:401
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:409
 msgid "How typical for an underling, trying to avoid conflict. My son, let's just slaughter them all! More enemies, more honor!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:402
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:410
 msgid "With that kind of attitude, how have you managed to survive this long? We'll want to manage our resources, too - my guess is that we should have at least 250 golden coins at the end of this battle."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:403
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:411
 msgid "Hm, there are certainly many decisions to be made here..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:405
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:413
 msgid "Well, Gawen, which path will you take? The stealthy route proposed by Ruvio, or the violent route proposed by your stepmother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:408
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:416
 msgid "Well, Gawen, which path will you take? The stealthy route proposed by the underling, or the violent route proposed by the 'She-Wolf of Haeltin'?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:410
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:418
 msgid "Well, Gawen, which path will you take? The stealthy route I proposed, or the violent route proposed by your stepmother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:413
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:421
 msgid "I think I'll take the stealthy strategy"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:414
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:422
 msgid "I think I'll take the violent strategy"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:415
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:423
 msgid "I think I'll forge my own path"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:417
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:425
 msgid "Since you have chosen the stealthy strategy, for this scenario only, your units will be more stealthy than normal."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:470
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:478
 msgid "Since you have chosen the violent strategy, for this scenario only, your units will be more violent than normal."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:566
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:574
 msgid "By choosing neither Ruvio's path nor Lorin's path, you are choosing to leave your units in an unmodified state, as would have been the case before this choice existed."
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:570
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:578
 msgid "You can interrogate enemy leaders in this scenario with Gawen, Ruvio, Reme, or Lorin, but the effects may - or may not - be different, depending on the enemy leader and interrogating hero."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:572
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:580
 msgid "Move Gawen to south-eastern signpost OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:576
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:584
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:212
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:241
 msgid "Kill all enemy leaders."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:601
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:609
 msgid "Wait, Karl, why aren't you guarding Karen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:602
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:610
 msgid "You asked me to come with you, remember?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:603
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:611
 msgid "Right, I did... I'm sure she'll be fine..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:626
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:634
 msgid "Eeek! The green devils!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:627
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:635
 msgid "Kill them! Kill them all! Hurry! There are thousands of them, everywhere!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:646
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:654
 msgid "You are from the Raednon clan? So, the Raednons are also supporting the treachery of Bor Cryne. Why I am not surprised? I know you are all pig-eaters and swine..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:647
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:655
 msgid "Cease your insults, witch. I know you: you are Lorin, the shrew from the Gallorae clan. You soon will be the last of your clan; how does it feel?"
 msgstr ""
 
 #. [event]
 #. Note to translators: A gelding is an animal that has been castrated.
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:649
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:657
 msgid "And you will be soon a gelding. How does IT feel?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:656
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:701
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:664
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:709
 msgid "He had some gold in his castle."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:658
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:666
 msgid "You receive $bar_gold_amt golden pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:668
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:682
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:676
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:690
 msgid "You were a worthy opponent, Quivre of the Raednons. It was good fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:669
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:683
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:677
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:691
 msgid "Yes, it was."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:670
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:684
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:678
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:692
 msgid "If you were as delighted as I was with the fight, please answer a few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:675
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:683
 msgid "Another self-important Akladian sent to his barbarian hell. How does it feel, mighty Akladian lord? To be killed by a mere underling?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:676
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:684
 msgid "You wouldn't have been able to do this if not for the magical support of that witch, Lorin. It was she who gave you courage, that traitor to her own race."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:677
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:685
 msgid "Hmm... Should I feel complimented, or offended?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:689
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:697
 msgid "Speak quickly, and I will allow you to go to your ancestors in one piece."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:690
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:698
 msgid "Do you think I am afraid of you, witch?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:691
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:699
 msgid "No, of course not. You are a brave warrior. I just thought the notion that you will enter heaven without hands, legs, or head might make you a little bit uneasy."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:692
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:700
 msgid "Stop it, witch. You can't scare me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:693
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:701
 msgid "Perhaps not, but I think I am going to enjoy trying anyway. Let's start with this little knife you see here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:703
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:711
 msgid "You receive $quivre_gold_amt golden pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:731
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:739
 msgid "I killed this one, my lord."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:732
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:740
 msgid "A shame we didn't get a chance to interrogate him... oh well."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:738
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:746
 msgid "It was honor to fight such an excellent duel. Thank you. You should know, I have no ill feelings towards you. I will not damage your body after you die, so you will enter the afterlife in one piece."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:739
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:747
 msgid "Thank you, noble lord. I do not know your name, or how you could be allied with green devils and Wesnothians."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:740
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:748
 msgid "My name is Reme Carrenemoe. I think it answers both of your questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:741
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:749
 msgid "Yes, it does."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:743
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:751
 msgid "Gawen, my lord, I think he is still alive. What should we do with him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:744
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:752
 msgid "Kill him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:745
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:753
 msgid "What? Did I hear correctly? What is your name?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:746
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:769
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:754
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:777
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:298
 msgid "My name is..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:748
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:771
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:756
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:779
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:300
 msgid "Gaumhaldric"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:754
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:762
 msgid "Another Akladian lord losing to an aged underling. How do you explain that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:755
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:763
 msgid "My wife is Wesnothian, so I know many Wesnothians. Save your irony for another."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:756
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:764
 msgid "Fair enough. You will now answer a few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:758
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:766
 msgid "You may now rest in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:759
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:767
 msgid "You won't finish me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:760
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:768
 msgid "No. If you're able to survive your wounds, you will be allowed to live."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:765
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:773
 msgid "Your face is familiar in some strange way... could it be..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:766
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:774
 msgid "If you will answer my questions, I will answer yours."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:768
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:776
 msgid "Now, please tell me... Who are you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:776
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:784
 msgid "Mother, do NOT harm this man."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:777
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:785
 msgid "But why, my son? He would have gladly harmed me, if given the chance."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:779
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:787
 msgid "Hm... you are still alive? There is strong spirit inside of your body. Stand and accept the final blow, but know that I won't damage your body further."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:808
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:816
 msgid "Where do we go from here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:809
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:817
 msgid "I say to hell with that mage. Let's go to Vattin and announce that the king has returned..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:810
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:818
 msgid "I strongly suggest we go to the Oracle."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:811
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:819
 msgid "...and the FIRST thing we will do in Vattin will be to kill all those who interrupt me when I speak."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:812
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:820
 msgid "Mother, Ruvio, could you please just TRY to pretend you like each other?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:813
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:821
 msgid "Not really."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:814
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:822
 msgid "Who or what is the Oracle anyway?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:815
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:823
 msgid "She's a woman, a mage with prophetic abilities. She was the only mage left in Vakladia by Akladians; I have no idea why. When one oracle dies, she is replaced by one of her apprentices. She may be able to sense where Deorien is, because she is also a mage."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:816
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:824
 msgid "The Oracle is not a mage, do not listen to him, my son. This worthless underling does not know God, that's why he is mistaken, as usual. If the Oracle knows the future, she is the voice of God on earth. If not, she is a tool of evil."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:817
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:825
 msgid "Stop calling him an underling. STOP using that word."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:818
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:826
 msgid "But what SHOULD I call him? He IS an underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:819
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:827
 msgid "And stop calling me your son. You are not my mother. My mother was an underling, wasn't she, Lorin? Poisoned by oh-so-noble Akladians, all full of their own hubris."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:820
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:828
 msgid "But why... why you are so angry at me? I... I... then what should I call you? My king? My lord?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:821
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:829
 msgid "At this point, I don't care."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:822
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:830
 msgid "Then maybe just... Gawen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:823
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:831
 msgid "I told you, I don't care."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:824
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:832
 msgid "(<i>to herself</i>) But I... I think I care."
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:966
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:974
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:981
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:982
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:989
 msgid "This is not some skirmish! I think this is a situation which calls for using emergency reserves of gold."
 msgstr ""
 
