@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-22 10:13 UTC\n"
+"POT-Creation-Date: 2023-12-23 06:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -743,7 +743,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:78
-#: A_New_Order/macros/messages.cfg:134
+#: A_New_Order/macros/messages.cfg:138
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
 msgstr ""
@@ -758,7 +758,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
-#: A_New_Order/macros/messages.cfg:131
+#: A_New_Order/macros/messages.cfg:135
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
@@ -794,9 +794,9 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:307
 #: A_New_Order/macros/elvish_macros.cfg:310
 #: A_New_Order/macros/elvish_macros.cfg:320
-#: A_New_Order/macros/messages.cfg:148
-#: A_New_Order/macros/messages.cfg:151
-#: A_New_Order/macros/messages.cfg:161
+#: A_New_Order/macros/messages.cfg:152
+#: A_New_Order/macros/messages.cfg:155
+#: A_New_Order/macros/messages.cfg:165
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:320
@@ -3273,6 +3273,14 @@ msgstr ""
 msgid "Grekulak"
 msgstr ""
 
+#. [unit]: id=Mithrandil, type=Elvish Lord
+#: A_New_Order/macros/messages.cfg:130
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:53
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:63
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:50
+msgid "Mithrandil"
+msgstr ""
+
 #. [case]
 #: A_New_Order/macros/conversations_support.cfg:13
 msgid "Sorry, but "
@@ -5667,13 +5675,6 @@ msgstr ""
 msgid "Gwidle Turlin"
 msgstr ""
 
-#. [unit]: id=Mithrandil, type=Elvish Lord
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:53
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:63
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:50
-msgid "Mithrandil"
-msgstr ""
-
 #. [event]
 #. EASY difficulty, use most explicit/obvious version of wording for players like me who don't pay attention:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:156
@@ -5896,36 +5897,36 @@ msgid "I shall remain with her, just in case it is something serious."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:296
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:292
 msgid "Karen, you will stay here, with your mother and sisters. It's too dangerous for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:297
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:293
 msgid "Of courrrrrse."
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:306
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:302
 msgid "So, let's choose our eighteen very best, most experienced troops."
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:310
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:306
 msgid "So, let's choose our fifteen best troops."
 msgstr ""
 
 #. [event]
 #. HARD difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:314
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:310
 msgid "So, let's choose twelve troops."
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:318
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:314
 msgid "So, nine troops."
 msgstr ""
 
