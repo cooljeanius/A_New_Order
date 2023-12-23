@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-23 06:00 UTC\n"
+"POT-Creation-Date: 2023-12-23 06:11 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -743,7 +743,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:78
-#: A_New_Order/macros/messages.cfg:138
+#: A_New_Order/macros/messages.cfg:143
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
 msgstr ""
@@ -758,7 +758,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
-#: A_New_Order/macros/messages.cfg:135
+#: A_New_Order/macros/messages.cfg:140
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
@@ -794,9 +794,9 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:307
 #: A_New_Order/macros/elvish_macros.cfg:310
 #: A_New_Order/macros/elvish_macros.cfg:320
-#: A_New_Order/macros/messages.cfg:152
-#: A_New_Order/macros/messages.cfg:155
-#: A_New_Order/macros/messages.cfg:165
+#: A_New_Order/macros/messages.cfg:157
+#: A_New_Order/macros/messages.cfg:160
+#: A_New_Order/macros/messages.cfg:170
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:320
@@ -3273,8 +3273,16 @@ msgstr ""
 msgid "Grekulak"
 msgstr ""
 
+#. [side]: type=Saurian Ambusher, id=The Swamp Things
+#. [side]: type=Saurian Ambusher, id=Burass
+#: A_New_Order/macros/messages.cfg:131
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:92
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:58
+msgid "Burass"
+msgstr ""
+
 #. [unit]: id=Mithrandil, type=Elvish Lord
-#: A_New_Order/macros/messages.cfg:130
+#: A_New_Order/macros/messages.cfg:135
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:53
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:63
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:50
@@ -13987,13 +13995,6 @@ msgstr ""
 #. [part]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:56
 msgid "Ruvio complained that nothing good could be found in the Saorduc Swamps, but that didn't stop Gawen. He reasoned that in the winter the swamps would be frozen and the lizards would be much easier to defeat."
-msgstr ""
-
-#. [side]: type=Saurian Ambusher, id=The Swamp Things
-#. [side]: type=Saurian Ambusher, id=Burass
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:92
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:58
-msgid "Burass"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Ussuh
