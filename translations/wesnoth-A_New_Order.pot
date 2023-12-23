@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-23 06:11 UTC\n"
+"POT-Creation-Date: 2023-12-23 06:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2982,173 +2982,174 @@ msgid "Scored!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:40
+#. FIXME: the word "again" doesn't make sense if this is the first kill of the competition, or if the competition ended in the previous scenario without anyone killing anyone (resulting in there being no dialogue about it):
+#: A_New_Order/macros/ano-14macros.cfg:39
 msgid "Don't start again, kid. I won't play that game this time."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:46
+#: A_New_Order/macros/ano-14macros.cfg:44
 msgid "Hey, Lorin, or whatever your name is, did you see that? Now you know why underlings give weapons to 'children'!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:50
+#: A_New_Order/macros/ano-14macros.cfg:47
 msgid "Ha! Gawen, did you see that? I've already killed two enemies, and your step-grand-mother hasn't killed a single one!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:52
+#: A_New_Order/macros/ano-14macros.cfg:49
 msgid "Ha! Scored two!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:54
+#: A_New_Order/macros/ano-14macros.cfg:50
 msgid "You think it is some kind of competition?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:59
+#: A_New_Order/macros/ano-14macros.cfg:54
 msgid "Hey, Gawen. That she-wolf of yours is pathetic. I've scored three and she hasn't killed a single enemy!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:62
-#: A_New_Order/macros/ano-14macros.cfg:66
+#: A_New_Order/macros/ano-14macros.cfg:57
+#: A_New_Order/macros/ano-14macros.cfg:60
 msgid "Ha! Scored three!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:64
-#: A_New_Order/macros/ano-14macros.cfg:74
+#: A_New_Order/macros/ano-14macros.cfg:58
+#: A_New_Order/macros/ano-14macros.cfg:67
 msgid "So what? I am winning!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:67
+#: A_New_Order/macros/ano-14macros.cfg:61
 msgid "So what?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:72
+#: A_New_Order/macros/ano-14macros.cfg:66
 msgid "Ha! Another one!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:77
+#: A_New_Order/macros/ano-14macros.cfg:69
 msgid "I'm a killing machine! Lorin should just go back and hide in Haeltin!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:79
+#: A_New_Order/macros/ano-14macros.cfg:71
 msgid "Ha! I'm winning!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:81
+#: A_New_Order/macros/ano-14macros.cfg:72
 msgid "Impertinent heathen underling child, the day has not yet ended!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:99
+#: A_New_Order/macros/ano-14macros.cfg:90
 msgid "First kill today!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:101
+#: A_New_Order/macros/ano-14macros.cfg:91
 msgid "Oh no, the mighty Lorin is coming! Children and little furry animals, run for your life!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:105
+#: A_New_Order/macros/ano-14macros.cfg:94
 msgid "My son, send little Karen back home. She is useless. I've killed two enemies already, and what has she done?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:109
+#: A_New_Order/macros/ano-14macros.cfg:97
 msgid "Scored! Now I'm in the lead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:111
+#: A_New_Order/macros/ano-14macros.cfg:98
 msgid "And I thought you weren't competing with me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:113
+#: A_New_Order/macros/ano-14macros.cfg:99
 msgid "I am not competing with you, silly child."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:116
+#: A_New_Order/macros/ano-14macros.cfg:101
 msgid "Try a little harder, grand-mother. But not bad for your age."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:122
+#: A_New_Order/macros/ano-14macros.cfg:106
 msgid "Ha! She-wolf of Haeltin is coming! No underling child could be better than me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:124
+#: A_New_Order/macros/ano-14macros.cfg:107
 msgid "The She-wolf of Haeltin, don't get too excited; it will cause more wrinkles."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:126
+#: A_New_Order/macros/ano-14macros.cfg:109
 msgid "Three!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:127
+#: A_New_Order/macros/ano-14macros.cfg:110
 msgid "Pfff! Only three?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:132
+#: A_New_Order/macros/ano-14macros.cfg:114
 msgid "Who's the killing machine now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:135
+#: A_New_Order/macros/ano-14macros.cfg:116
 msgid "Not bad, but still you have to a lot to learn!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-14macros.cfg:137
+#: A_New_Order/macros/ano-14macros.cfg:117
 msgid "Do you think, little child, that I will honour you with an answer?"
 msgstr ""
 
 #. inside LORIN_KAREN_COMPV macro; this is the case where Lorin and Karen already did their killing competition in a previous scenario:
-#: A_New_Order/macros/ano-14macros.cfg:150
+#: A_New_Order/macros/ano-14macros.cfg:130
 msgid "Good thing Lorin and Karen seem to have stopped being so competitive with one another; hopefully they can start to get along now..."
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:157
+#: A_New_Order/macros/ano-14macros.cfg:136
 msgid "By the way, I won: I scored $ano_competition_l|."
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:159
-#: A_New_Order/macros/ano-14macros.cfg:164
+#: A_New_Order/macros/ano-14macros.cfg:137
+#: A_New_Order/macros/ano-14macros.cfg:140
 msgid "Girls, what do you exactly mean by 'scored'? Is it because you are slicing up your fallen foes?"
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:162
+#: A_New_Order/macros/ano-14macros.cfg:139
 msgid "By the way, I won: I scored $ano_competition_k|."
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:167
+#: A_New_Order/macros/ano-14macros.cfg:142
 msgid "Why such an angry look, Lorin?"
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:168
+#: A_New_Order/macros/ano-14macros.cfg:143
 msgid "She lost."
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:170
+#: A_New_Order/macros/ano-14macros.cfg:144
 msgid "I have not lost. I have not won."
 msgstr ""
 
-#: A_New_Order/macros/ano-14macros.cfg:172
+#: A_New_Order/macros/ano-14macros.cfg:145
 msgid "That's what I meant. You have not won, great super killing machine, so you have lost."
 msgstr ""
 
@@ -3497,7 +3498,7 @@ msgstr ""
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:233
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:441
 #: A_New_Order/scenarios/14b_Bontom.cfg:463
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:498
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:486
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:150
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:174
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:198
@@ -3530,7 +3531,7 @@ msgstr ""
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:234
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:442
 #: A_New_Order/scenarios/14b_Bontom.cfg:464
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:499
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:487
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:151
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:175
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:199
@@ -5050,7 +5051,7 @@ msgstr ""
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:275
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:465
 #: A_New_Order/scenarios/14b_Bontom.cfg:648
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:417
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:421
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:457
 msgid "Why?"
@@ -6368,7 +6369,7 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:460
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:182
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:232
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:497
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:485
 msgid "My lord, are you sure you want to retreat?"
 msgstr ""
 
@@ -13998,320 +13999,310 @@ msgid "Ruvio complained that nothing good could be found in the Saorduc Swamps, 
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Ussuh
+#. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:115
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:432
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:439
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:441
 msgid "Ussuh"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Rassum
+#. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:138
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:380
 msgid "Rassum"
 msgstr ""
 
 #. [side]: type=Saurian Flanker, id=Bussur
+#. [scenario]: id=14e_Saorduc_Swamps
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:161
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:266
 msgid "Bussur"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:269
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:273
 msgid "...bitterly I fought, yessss, and I was heavily wounded. A woman wassss amongsst thossse humansss, a crazy one."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:270
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:274
 msgid "Be calm, you are amongsst friendss, no humanss here..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:272
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:276
 msgid "Lizards!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:273
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:277
 msgid "Oh no!!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:274
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:278
 msgid "Prepare to be exterminated!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:275
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:279
 msgid "Oh, that was cute. Where did she learn to talk like that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:277
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:281
 msgid "Oh, I hate lizards."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:278
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:282
 msgid "They will be good practice for our soldiers. And maybe they know something."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:281
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:285
 msgid "So, what now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:282
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:286
 msgid "Well, the plan is simple: ask their leaders about orcs, kill them all."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:283
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:287
 msgid "Wow, it couldn't get any simpler. Gawen, you are military genius. The simplicity of your brilliant plan is breathtaking."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:285
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:289
 msgid "Much of the swamp is frozen over; that increases our chances considerably."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:286
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:290
 msgid "We can withdraw at any moment, remember that."
 msgstr ""
 
 #. [event]
 #. EASY difficulty; reference to event that only exists at this difficulty:
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:289
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:293
 msgid "I doubt we'll need to do so; since lizards are cold-blooded, they should be weaker this time of year."
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:291
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:295
 msgid "All right, Gawen, if you're sure about this, let's go ahead... I was only reminding you of the option to withdraw just in case..."
 msgstr ""
 
 #. [then]
 #. EASY difficulty:
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:355
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:359
 msgid "See! The lizards have become sluggish from the cold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:375
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:379
 msgid "Lizard thing... Uh... So... What do you know about orcs?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:376
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:380
 msgid "Orcsss? They are big and bad and they are going around sssslaughtering humansss, which isss a good thing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:377
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:381
 msgid "Ugh, you smell awful... do you not wash yourself on purpose, to scare away enemies? I can't think of any more questions in such a stench... so die, lizard thing..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:384
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:388
 msgid "You could simply have chosen not to kill him and allow us to ask him few questions instead; did such a revolutionary idea enter your mind?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:385
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:389
 msgid "I think the ideas are too affraid of Lorin's mind to enter it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:391
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:395
 msgid "Lizard, do you like your tail? If so, tell me everything you know about why orcs are in Vakladia, and do it fast."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:392
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:396
 msgid "Orcss creaturesss? They were invited here, by ssssome Akladian lordsss, that's all I know!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:393
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:397
 msgid "Think faster about something more, if you want to go to your lizard heaven in one piece!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:394
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:398
 msgid "Lizard heaven? We do not have sssuch thing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:395
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:399
 msgid "Of course you don't, I know you are going straight to hell; that was a metaphor."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:396
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:400
 msgid "No, no, I mean that our philosssophical sysstem doesn't employ such vague ideas as 'heaven' or 'hell'. Our thinking about the world, sssomething you call religion, isss much more ssssophissssticated. For example..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:402
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:406
 msgid "Off with your head! Surely he looks much less sophisticated without his head, doesn't he?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:403
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:407
 msgid "Ah, I like tough girls. Tell me, Lorin, do you sleep with your sword, too?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:409
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:413
 msgid "Do we know each other?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:410
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:414
 msgid "We met before, lady thing... I wass wounded but I sssurvived. It wasss a hope I had I wouldn't see your feissssse again..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:411
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:415
 msgid "My what? Anyway, whatever, you will tell me everything you know about orcs."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:413
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:417
 msgid "You will tell me everything you know about orcs."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:416
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:420
 msgid "And I thought this day sssstarted ssssuch beautifully... What orcs? They have two legssss, two handsss, what'sss more do you want to know? Being Akladian you ssshould know them better..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:418
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:422
 msgid "Aren't you allied now? Which issss quite natural for you, isssn't it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:419
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:423
 msgid "We? No, not really. I guess you don't know nothing really important. Go to your ancestors, lizard!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:420
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:424
 msgid "Thank you! Ssso you will sssave my life?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:421
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:425
 msgid "Uh, what?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:422
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:426
 msgid "You are allowing me to leave, so I could go to my ancestors... some of them live quite near thisss place..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:423
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:427
 msgid "I think you are confused... But all of a sudden I have lost my natural urge to cut your head off. Maybe I am confused, but go away now before I change my mind."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:428
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:432
 msgid "You will allow me to live! And you will be sspared!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:429
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:433
 msgid "Uh, what? I think your command of human language is quite limited. How on earth do you think you will sssspare me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:431
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:435
 msgid "Maybe he was thinking about about some other word. Uhmmm, for example..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:432
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:436
 msgid "Majid, do you really want to explore the depths of my patience?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:433
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:437
 msgid "Majid! So you are familiar enough with me now to remember my first name!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:435
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:439
 msgid "Iff you will kill me, other lizardss will find you and sssslain you and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:436
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:440
 msgid "Then again, again, maybe he was thinking about another word, for example..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:437
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:441
 msgid "Aaaaaargh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:443
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:447
 msgid "I hate empty threats."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:451
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:455
 msgid "Ha! We're off to an easy start! See, I told you that lizards are much less dangerous in the winter. This will be a nice occasion to train our troops."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:502
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:490
 msgid "Fighting with lizards here is waste of time. Retreat!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:518
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:535
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:552
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:569
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:510
 msgid "Ha! The lizards were hiding some gold here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:519
-msgid "You have received $gold_amt_1 gold pieces."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:536
-msgid "You have received $gold_amt_2 gold pieces."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:553
-msgid "You have received $gold_amt_3 gold pieces."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:570
-msgid "You have received $gold_amt_4 gold pieces."
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:511
+msgid "You have received $gold_amt_s14e gold pieces."
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:586
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:533
 msgid "There appears to be a path through the snow here!"
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty; condition to trigger is a bit harder than the one from EASY:
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:605
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:552
 msgid "My fight with that lizard revealed a path through the snow here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:778
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:708
 msgid "Oh no! New reinforcements have arrived to help our enemies, now we have no chance to defeat them!"
 msgstr ""
 
