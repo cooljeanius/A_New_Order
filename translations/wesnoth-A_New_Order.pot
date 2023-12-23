@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-23 06:49 UTC\n"
+"POT-Creation-Date: 2023-12-23 07:10 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8663,7 +8663,11 @@ msgid "Uruk Lug"
 msgstr ""
 
 #. [side]: id=Baruk Gar, type=Orcish Warlord
+#. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:78
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:212
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:214
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:216
 msgid "Baruk Gar"
 msgstr ""
 
@@ -8870,7 +8874,9 @@ msgid "Paul the Small"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Quick Herman
+#. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:347
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:357
 msgid "Quick Herman"
 msgstr ""
 
@@ -8891,7 +8897,9 @@ msgid "Owaec"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Fast Robin
+#. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:397
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:407
 msgid "Fast Robin"
 msgstr ""
 
