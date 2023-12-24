@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-24 03:31 UTC\n"
+"POT-Creation-Date: 2023-12-24 03:46 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3286,6 +3286,12 @@ msgstr ""
 msgid "Mithrandil"
 msgstr ""
 
+#. [unit]: type=Peasant, id=Matthew Eagles-Eye
+#: A_New_Order/macros/messages.cfg:178
+#: A_New_Order/scenarios/13_Scouting.cfg:894
+msgid "Matthew Eagle's-Eye"
+msgstr ""
+
 #. [case]
 #: A_New_Order/macros/conversations_support.cfg:14
 msgid "Sorry, but "
@@ -5727,11 +5733,6 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:882
 msgid "So, should we take on the orcs?"
-msgstr ""
-
-#. [unit]: type=Peasant, id=Matthews Eagle Eye
-#: A_New_Order/scenarios/13_Scouting.cfg:894
-msgid "Matthews Eagle Eye"
 msgstr ""
 
 #. [event]
