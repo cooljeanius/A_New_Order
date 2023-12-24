@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-24 04:37 UTC\n"
+"POT-Creation-Date: 2023-12-24 05:01 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -745,6 +745,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:78
 #: A_New_Order/macros/messages.cfg:147
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:371
 msgid "Milildur"
 msgstr ""
 
@@ -761,7 +762,9 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:144
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:330
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:372
 msgid "Elorain"
 msgstr ""
 
@@ -3651,7 +3654,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:915
 #: A_New_Order/scenarios/13_Scouting.cfg:946
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:266
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:465
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:463
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:183
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
@@ -3686,7 +3689,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:916
 #: A_New_Order/scenarios/13_Scouting.cfg:947
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:267
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:466
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:464
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:482
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:184
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:201
@@ -6324,87 +6327,87 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:294
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:312
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:310
 msgid "Dear God! Everything is lost! Run for your life!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:302
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:318
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:300
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:316
 msgid "Hey, wait, what about our fight?! Coward!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:303
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:319
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:301
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:317
 msgid "He ran away! But I will meet him again one day, and next time I will make sure he has no chance to flee..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:333
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:331
 msgid "Wait a minute, I know you! You were one of those young chieftains who visited Vattin back in the day..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:334
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:332
 msgid "Yes! Yes! That could be! I was at Vattin once!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:335
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:333
 msgid "God be praised!  I'm glad! I'm really, really glad to meet you again! What is your name, man?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:336
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:334
 msgid "Kariv, my lady, yes, Kariv."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:337
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:335
 msgid "Do you remember that bawdy ballad you were singing outside my windows while you were drunk?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:338
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:336
 msgid "That was you? Oh no!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:339
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:337
 msgid "I promised myself that I would take revenge one day. And indeed, God has favored me, because he has let me find you and kill you! Or... maybe you know something about the orcs - why they are here and all?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:340
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:361
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:382
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:338
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:359
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:380
 msgid "Orcs? Yes, yes, orcs! They are helping us! They are, uhm, our allies or something!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:341
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:367
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:339
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:365
 msgid "He doesn't know anything. Let him go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:342
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:340
 msgid "Put down that knife!  You can't - Aaargh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:343
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:341
 msgid "Mother!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:344
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:342
 msgid "What? You should have heard what he sang he wanted to do to me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:345
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:343
 msgid "But I had some questions of my own that I wanted to ask him..."
 msgstr ""
 
@@ -6412,80 +6415,80 @@ msgstr ""
 #. Konrad2 says "Understand?" should be "Understood?" but I think it is fine as is. Likewise with the question: "what do you know" applies
 #. to both halves of the sentence, i.e. "what do you know about the orcs?" and "what do you know about why they are here?" so there is
 #. no need to rewrite the second part of it into its own separate question as "why are they here?" in this line:
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:360
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:358
 msgid "Listen, if you'll answer me a few questions I'll let you go. Understand? Now, what do you know about the orcs and why they are here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:363
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:361
 msgid "One last question. What about Reme Carrenemoe, do you know anything about his fate?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:364
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:386
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:362
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:384
 msgid "Yes! His clan settlements were attacked by outlaws. They captured him and they are keeping him in some place called Bontom. They will sell him to Bor Cryne, I think."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:381
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:379
 msgid "Listen, if you will answer my questions I will let you go. Understand? Now, what do you know about orcs and why they are here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:383
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:381
 msgid "He knows nothing. Let him go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:385
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:383
 msgid "Wait, one last question. What about Reme Carrenemoe, do you know anything about his fate?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:389
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:387
 msgid "Oh well..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:411
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:409
 msgid "Wait! I wanted to interrogate him..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:419
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:417
 msgid "Hey orc! Can you still hear me? Are you okay?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:420
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:418
 msgid "Mother earth, a human woman is trying to save me? Such care for a fallen enemy is so rarely found!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:421
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:419
 msgid "Trying to save you? Well, not exactly. I want to... wait, I must think of the correct term... terrorize you, yes, that's more what I have on my mind. Let's start with the basics. This is a knife. When a knife is put into human - or, in this case, orcish - flesh, it hurts."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:422
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:420
 msgid "Mother! Stop it! This is disgusting and I will not allow it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:423
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:421
 msgid "Hmm... You know what, orc? Let's make a deal... If you will tell me why are you here, allied with Akladians, then I will let you die peacefully. If not, despite my son's cries I will demonstrate to you other fascinating aspects on the topic of what suffering can be induced by a simple knife in hands of an able woman."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:424
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:422
 msgid "No, I won't let you! Orc, tell us everything you know and I will let you live."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:425
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:436
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:448
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:423
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:434
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:446
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:263
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:298
 #: A_New_Order/scenarios/14b_Bontom.cfg:703
@@ -6494,9 +6497,9 @@ msgid "I don't know much - only that this was the wish of our guide, Grekulak. H
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:426
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:437
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:449
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:424
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:435
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:447
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:228
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:264
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:299
@@ -6507,9 +6510,9 @@ msgid "Grekulak! I know that name. We should go back to Freetown and report that
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:427
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:438
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:450
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:425
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:436
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:448
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:265
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:300
 #: A_New_Order/scenarios/14b_Bontom.cfg:684
@@ -6519,25 +6522,25 @@ msgid "Grekulak? That's something to report. We should go back to Freetown then.
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:434
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:446
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:432
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:444
 msgid "Orc, do not die, yet! Can you still hear me? I will ask you a few questions, and if you will answer them, I will order someone to bind your wounds and I will let you live."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:435
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:447
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:433
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:445
 msgid "Listen, that won't work! I am well-acquainted with the job of interrogating prisoners. What you're doing isn't even a decent amateur job... this is..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:439
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:451
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:437
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:449
 msgid "Amazing. Simply, amazing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:464
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:462
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:182
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:232
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:485
@@ -6545,17 +6548,17 @@ msgid "My lord, are you sure you want to retreat?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:579
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:577
 msgid "Oh no! New reinforcements have arrived to help our enemies, now we cannot win!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:593
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:591
 msgid "Ha! The orcs were hiding some gold here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:594
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:592
 msgid "You have received $orc_gold_amt gold pieces."
 msgstr ""
 
