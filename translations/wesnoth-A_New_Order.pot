@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-24 03:58 UTC\n"
+"POT-Creation-Date: 2023-12-24 04:06 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3654,8 +3654,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:461
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:183
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:243
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:278
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:282
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:200
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:191
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:233
@@ -6473,8 +6473,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:421
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:432
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:444
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:259
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:294
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:263
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:298
 #: A_New_Order/scenarios/14b_Bontom.cfg:695
 #: A_New_Order/scenarios/14b_Bontom.cfg:711
 msgid "I don't know much - only that this was the wish of our guide, Grekulak. He wished Akladians to be allied with us."
@@ -6484,9 +6484,9 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:422
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:433
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:445
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:224
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:260
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:295
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:228
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:264
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:299
 #: A_New_Order/scenarios/14b_Bontom.cfg:675
 #: A_New_Order/scenarios/14b_Bontom.cfg:701
 #: A_New_Order/scenarios/14b_Bontom.cfg:717
@@ -6497,8 +6497,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:423
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:434
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:446
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:261
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:296
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:265
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:300
 #: A_New_Order/scenarios/14b_Bontom.cfg:676
 #: A_New_Order/scenarios/14b_Bontom.cfg:702
 #: A_New_Order/scenarios/14b_Bontom.cfg:718
@@ -8162,8 +8162,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:460
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:282
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:251
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:286
 msgid "Thank you! Thank you!"
 msgstr ""
 
@@ -8808,11 +8808,9 @@ msgid "Inside of the burned village of Ruen, Gawen's soldiers found massacred bo
 msgstr ""
 
 #. [side]: id=Baruk Gar, type=Orcish Warlord
-#. [event]
+#. [scenario]: id=14d_Avenging_Ruen
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:78
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:212
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:214
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:216
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:210
 msgid "Baruk Gar"
 msgstr ""
 
@@ -8868,134 +8866,134 @@ msgid "Hey, hey, don't die so fast, I haven't finished asking you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:211
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:215
 msgid "I don't want to waste too much time, so answer me now: There is an alliance between traitors from the Akladian race and Orcs. Why?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:212
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:216
 msgid "And why should I tell you, stupid woman?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:213
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:217
 msgid "THAT is for calling me stupid woman. And THAT is gratis. Speak!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:214
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:218
 msgid "Don't... We were ordered by Grekulak to listen to the Akladians... why he ordered us to ally with them I do not know.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:215
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:219
 msgid "Who is Grekulak? Why he allied with Akladian traitors?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:216
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:220
 msgid "Grekulak... is... our... guide... he..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:217
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:221
 msgid "He? He what? Answer me, come on!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:223
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:227
 msgid "Lady Lorin, stop it. He is dead. He can't tell us anything more."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:225
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:229
 msgid "This is what you wanted, right? To know who is behind this alliance? Now you know, it is 'Grekulak' - who or whatever that is."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:226
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:230
 msgid "Maybe you are right. We should go back to Freetown then."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:232
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:267
-msgid "I will let you live, if you will tell me few things."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:233
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:268
-msgid "Yes, yes, I will answer, yummie... liver. What kind of liver it would be?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:234
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:269
-msgid "What??"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:235
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:270
-msgid "What kind of liver it will be? Human liver, uhmm, or delicious liver of Elvish woman?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:236
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:271
-msgid "No, no, you did not understand me. I will LET you LIVE, not GET you LIVER. Why are you here, allied with Akladians?"
+msgid "I will let you live, if you will tell me few things."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:237
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:272
-msgid "My boss would know. I know nothing, I am great warrior, not great thinker."
+msgid "Yes, yes, I will answer, yummie... liver. What kind of liver it would be?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:238
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:273
+msgid "What??"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:239
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:274
+msgid "What kind of liver it will be? Human liver, uhmm, or delicious liver of Elvish woman?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:240
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:275
+msgid "No, no, you did not understand me. I will LET you LIVE, not GET you LIVER. Why are you here, allied with Akladians?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:241
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:276
+msgid "My boss would know. I know nothing, I am great warrior, not great thinker."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:243
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:278
 msgid "My lord! Do not let him go! He was beating and killing my friends and family members! If you won't kill him, I will!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:242
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:277
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:246
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:281
 msgid "Should I spare him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:244
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:279
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:248
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:283
 msgid "No."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:249
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:284
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:253
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:288
 msgid "Aaaargh!!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:256
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:291
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:260
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:295
 #: A_New_Order/scenarios/14b_Bontom.cfg:692
 #: A_New_Order/scenarios/14b_Bontom.cfg:708
 msgid "I will allow you to live, if you will tell me few things."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:257
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:292
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:261
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:296
 #: A_New_Order/scenarios/14b_Bontom.cfg:693
 #: A_New_Order/scenarios/14b_Bontom.cfg:709
 msgid "Ask then, human."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:258
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:293
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:262
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:297
 #: A_New_Order/scenarios/14b_Bontom.cfg:569
 #: A_New_Order/scenarios/14b_Bontom.cfg:619
 #: A_New_Order/scenarios/14b_Bontom.cfg:694
@@ -9004,52 +9002,52 @@ msgid "Why are you allied with Akladians?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:306
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:310
 msgid "That's what waits for all orcs that fall into my hands!!"
 msgstr ""
 
 #. [unit]: type=Peasant, id=John the Smith
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:320
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:324
 msgid "John the Smith"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Paul the Small
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:333
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:337
 msgid "Paul the Small"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Quick Herman
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:347
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:357
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:351
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:361
 msgid "Quick Herman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:357
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:407
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:361
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:411
 msgid "Hurray! We are free! Now, death to the orcs!"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Gonzales the Steelhand
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:371
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:375
 msgid "Gonzales the Steelhand"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Owaec
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:384
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:388
 msgid "Owaec"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Fast Robin
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:397
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:407
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:401
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:411
 msgid "Fast Robin"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:481
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:485
 #: A_New_Order/scenarios/14b_Bontom.cfg:894
 msgid "Oh no! New reinforcements have arrived to help our enemies, now we have no chances to defeat them!"
 msgstr ""
