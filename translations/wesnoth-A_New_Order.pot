@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-24 08:59 UTC\n"
+"POT-Creation-Date: 2023-12-24 09:13 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3302,6 +3302,16 @@ msgstr ""
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:52
 #: A_New_Order/scenarios/14b_Bontom.cfg:213
 msgid "Uruk Lug"
+msgstr ""
+
+#. [unit]: id=Assassin, type={ON_DIFFICULTY4 (Thief) (Rogue) (Assassin) (Assassin)}
+#. [side]: id=Assassin
+#. [unit]: id=Assassin
+#: A_New_Order/macros/messages.cfg:186
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:619
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:429
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
+msgid "Assassin"
 msgstr ""
 
 #. [case]
@@ -7522,12 +7532,17 @@ msgid "I do not mean he was old. He just seemed like he had seen a lot in his li
 msgstr ""
 
 #. [side]: id=Moerre Crynenoj, type=Akladian Chieftain
+#. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:112
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:339
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:341
 msgid "Moerre Crynenoj"
 msgstr ""
 
 #. [unit]: id=Ore Cruveno, type=Akladian Light Infantry
+#. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:134
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:340
 msgid "Ore Cruveno"
 msgstr ""
 
@@ -15765,15 +15780,6 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:545
 msgid " Hurkkh..."
-msgstr ""
-
-#. [unit]: id=Assassin, type={ON_DIFFICULTY4 (Thief) (Rogue) (Assassin) (Assassin)}
-#. [side]: id=Assassin
-#. [unit]: id=Assassin
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:619
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:429
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
-msgid "Assassin"
 msgstr ""
 
 #. [then]
