@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-23 07:10 UTC\n"
+"POT-Creation-Date: 2023-12-24 03:31 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,9 +117,9 @@ msgstr ""
 #. [event]
 #. [unit]: id=Ruvio, type=Ruvio
 #: A_New_Order/units/others/Ruvio.cfg:4
-#: A_New_Order/macros/messages.cfg:98
 #: A_New_Order/macros/messages.cfg:102
-#: A_New_Order/macros/messages.cfg:109
+#: A_New_Order/macros/messages.cfg:106
+#: A_New_Order/macros/messages.cfg:113
 #: A_New_Order/scenarios/20_Okladia.cfg:437
 #: A_New_Order/scenarios/20_Okladia.cfg:446
 #: A_New_Order/scenarios/20_Okladia.cfg:456
@@ -743,7 +743,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:78
-#: A_New_Order/macros/messages.cfg:143
+#: A_New_Order/macros/messages.cfg:147
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 msgid "Milildur"
 msgstr ""
@@ -758,7 +758,7 @@ msgstr ""
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:97
-#: A_New_Order/macros/messages.cfg:140
+#: A_New_Order/macros/messages.cfg:144
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
@@ -794,9 +794,9 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:307
 #: A_New_Order/macros/elvish_macros.cfg:310
 #: A_New_Order/macros/elvish_macros.cfg:320
-#: A_New_Order/macros/messages.cfg:157
-#: A_New_Order/macros/messages.cfg:160
-#: A_New_Order/macros/messages.cfg:170
+#: A_New_Order/macros/messages.cfg:161
+#: A_New_Order/macros/messages.cfg:164
+#: A_New_Order/macros/messages.cfg:174
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:320
@@ -1327,7 +1327,7 @@ msgstr ""
 #. [event]
 #. Reme's "last breath" message:
 #: A_New_Order/macros/deaths.cfg:12
-#: A_New_Order/macros/deaths.cfg:107
+#: A_New_Order/macros/deaths.cfg:106
 msgid "I can't hold my sword anymore... I can't..."
 msgstr ""
 
@@ -1338,25 +1338,15 @@ msgid "My ancestors, I am coming to you! I hope I have not failed you..."
 msgstr ""
 
 #. [event]
-#. [unit]: id=Karl Regven, type=Duelist
-#: A_New_Order/macros/deaths.cfg:33
-#: A_New_Order/scenarios/15c_Raedwood_East.cfg:209
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:610
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
-#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:77
-msgid "Karl Regven"
-msgstr ""
-
-#. [event]
 #. Karl Regven's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:35
+#: A_New_Order/macros/deaths.cfg:34
 msgid "I'm not afraid... I would just want to smoke a little longer..."
 msgstr ""
 
 #. [event]
 #. "last breath" message shared by multiple Dunefolk
 #. (both Majid Yahyazad campaign-wide, and Arsham Mahouri in S23, "Trapped")
-#: A_New_Order/macros/deaths.cfg:47
+#: A_New_Order/macros/deaths.cfg:46
 #: A_New_Order/scenarios/23_Trapped.cfg:605
 #: A_New_Order/scenarios/23_Trapped.cfg:618
 msgid "Dunefolk die without fear!"
@@ -1364,26 +1354,26 @@ msgstr ""
 
 #. [event]
 #. Gawen's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:67
+#: A_New_Order/macros/deaths.cfg:66
 msgid "No! It's impossible! I have just started!"
 msgstr ""
 
 #. [event]
 #. Lorin's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:87
+#: A_New_Order/macros/deaths.cfg:86
 msgid "That's not fair!"
 msgstr ""
 
 #. [event]
 #. unsure how to complete this sentence... "life" seems the most obvious, but "sight" and "blood" also work
 #. (plus my mind can't stop completing it with "virginity" even though that makes no sense)
-#: A_New_Order/macros/deaths.cfg:128
+#: A_New_Order/macros/deaths.cfg:127
 msgid "Father! Father! I am losing my..."
 msgstr ""
 
 #. [event]
 #. Ruvio's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:148
+#: A_New_Order/macros/deaths.cfg:147
 msgid "No! I have still so much to do!"
 msgstr ""
 
@@ -1834,7 +1824,7 @@ msgstr ""
 #. [unit]: id=Deorien, type=Mage of Light
 #. [side]: id=Deorien, type=Mage of Light
 #: A_New_Order/macros/ano-20macros.cfg:37
-#: A_New_Order/macros/messages.cfg:122
+#: A_New_Order/macros/messages.cfg:126
 #: A_New_Order/scenarios/20_Okladia.cfg:97
 #: A_New_Order/scenarios/20_Okladia.cfg:440
 #: A_New_Order/scenarios/20_Okladia.cfg:457
@@ -3232,11 +3222,17 @@ msgstr ""
 msgid "Huon Ryedric"
 msgstr ""
 
+#. [unit]: id=Karl Regven, type=Duelist
+#: A_New_Order/macros/messages.cfg:78
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
+msgid "Karl Regven"
+msgstr ""
+
 #. [event]
 #. [scenario]: id=28_Lorin
-#: A_New_Order/macros/messages.cfg:78
 #: A_New_Order/macros/messages.cfg:82
 #: A_New_Order/macros/messages.cfg:86
+#: A_New_Order/macros/messages.cfg:90
 #: A_New_Order/scenarios/20_Okladia.cfg:439
 #: A_New_Order/scenarios/20_Okladia.cfg:448
 #: A_New_Order/scenarios/20_Okladia.cfg:458
@@ -3250,8 +3246,8 @@ msgid "Lorin"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/messages.cfg:90
 #: A_New_Order/macros/messages.cfg:94
+#: A_New_Order/macros/messages.cfg:98
 #: A_New_Order/scenarios/20_Okladia.cfg:438
 #: A_New_Order/scenarios/20_Okladia.cfg:447
 #: A_New_Order/scenarios/13_Scouting.cfg:716
@@ -3261,29 +3257,29 @@ msgid "Reme"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/messages.cfg:113
-#: A_New_Order/macros/messages.cfg:118
+#: A_New_Order/macros/messages.cfg:117
+#: A_New_Order/macros/messages.cfg:122
 #: A_New_Order/scenarios/13_Scouting.cfg:718
 #: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid "Yahyazad"
 msgstr ""
 
 #. [side]: id=Grekulak, type=Ancient Lich
-#: A_New_Order/macros/messages.cfg:126
+#: A_New_Order/macros/messages.cfg:130
 #: A_New_Order/scenarios/27_Orannon.cfg:377
 msgid "Grekulak"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=The Swamp Things
 #. [side]: type=Saurian Ambusher, id=Burass
-#: A_New_Order/macros/messages.cfg:131
+#: A_New_Order/macros/messages.cfg:135
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:92
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:58
 msgid "Burass"
 msgstr ""
 
 #. [unit]: id=Mithrandil, type=Elvish Lord
-#: A_New_Order/macros/messages.cfg:135
+#: A_New_Order/macros/messages.cfg:139
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:53
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:63
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:50
@@ -3291,18 +3287,172 @@ msgid "Mithrandil"
 msgstr ""
 
 #. [case]
-#: A_New_Order/macros/conversations_support.cfg:13
+#: A_New_Order/macros/conversations_support.cfg:14
 msgid "Sorry, but "
 msgstr ""
 
 #. [case]
-#: A_New_Order/macros/conversations_support.cfg:13
+#: A_New_Order/macros/conversations_support.cfg:14
 msgid " and "
 msgstr ""
 
 #. [case]
-#: A_New_Order/macros/conversations_support.cfg:13
+#: A_New_Order/macros/conversations_support.cfg:14
 msgid " haven't built up enough support to have a support conversation yet."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:66
+msgid "Hey Mr. Yahyazad, so you like Lorin, right? Just what do you see in her, anyways?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:67
+msgid "You don't have to call me “mister”; just “Majid” is fine."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:68
+msgid "All right, <i>Majid</i>, just what do you see in Lorin, anyways?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:69
+msgid "Oho, jealous, are we?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:70
+msgid "What? No, ew. I mean... well, I'm not jealous of <i>YOU</i> liking her, at least."
+msgstr ""
+
+#. "wound" is present tense, in the sense of "harm"; it's the pronunciation that rhymes with "mooned":
+#: A_New_Order/macros/conversations_support.cfg:72
+msgid "(<i>fake gasps</i>) You wound me, Karen!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:73
+msgid "Oh come on! Look, you know what--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:74
+msgid "Aha, just kidding, young Karen. No, you're right, I'll answer your question: I find her intriguing, mainly."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:75
+msgid "...“intriguing”?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:76
+msgid "You see, young Karen--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:78
+msgid "All right, you see, just-Karen..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:79
+msgid "Grrrr..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:80
+msgid "What? You did the same thing with our good friend Gaumhaldric!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:81
+msgid "Look, are you going to get to your answer or what?!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:83
+msgid "...so you see her as more of a challenge, then, is what you're saying?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:84
+msgid "In a manner of speaking, yes. Now why did you want to know?"
+msgstr ""
+
+#. intentional lack of spaces between her last few words to indicate speaking quickly:
+#: A_New_Order/macros/conversations_support.cfg:86
+msgid "Oh, um, no particular reason! Hey, is that an orc over there? Sorry, gottagobye!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:87
+msgid "Ah, youth... Poor Gawen, he doesn't even realize what he's doing to the poor girl..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:90
+msgid "Hi, Majid..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:91
+msgid "Hello, Karen... why so down? Is it Gawen?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:92
+msgid "It's that obvious, is it?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:93
+msgid "Darling, a saurian who Lorin had gouged the eyes out from could see the effect that that young man is having on you."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:96
+msgid "There go Gawen and Lorin again..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:97
+msgid "It must be weird having a stepmother so close in age to you..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:98
+msgid "They're not <i>that</i> close in age! She's gotta be way older than him!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:99
+msgid "Really? I assumed that she was just <> years older than him."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:102
+msgid "You know, Majid, we're actually pretty similar, both being rejected by members of the royal family like this..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:103
+msgid "Hey, don't take that defeatist attitude! This is merely a temporary setback!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:104
+msgid "No, you know what, it's fine. I've accepted it. And besides, I've found someone else I'm more interested in now, anyways."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:105
+msgid "You have? Pray tell, just who is this lucky fellow, anyways?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:106
+msgid "Oh, don't be stupid, it's you, Majid!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:107
+msgid "...M-me?! Karen, I--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:108
+msgid "<etc. etc.> ...Majid Yahyazad, of the Dunefolk... will you marry me?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:109
+msgid "Oh, so in Wesnothian society, the woman proposes marriage to the man? Very interesting, you see, in Dunefolk society, we have this tradition where--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:110
+msgid "Oh, forget about tradition! We don't have time for that!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:116
+msgid "Hey Karl, can you please stop following me so closely?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:117
+msgid "It is my duty to guard you, Miss Karen."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:118
+msgid "Sure, but, like, can't you at least guard me from over <i>THERE</i> instead?"
 msgstr ""
 
 #. [scenario]: id=20_Okladia
