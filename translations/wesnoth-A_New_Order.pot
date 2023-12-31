@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-29 08:42 UTC\n"
+"POT-Creation-Date: 2023-12-31 05:20 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -375,7 +375,6 @@ msgid "Akladian Fastfoot"
 msgstr ""
 
 #. [unit_type]: id=Akladian Fastfoot, race=akladian
-#. FIXME: maybe the plural of "Fastfoot" should be "Fastfeet" instead of "Fastfoots"? I dunno; it's a made-up term, so, whatever...
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:18
 msgid "Akladian Fastfoots are members of the personal armies of Akladian lords. They are almost professional soldiers, being equipped by their masters. Having light armour, they put all their hope into the mastering of the sword."
 msgstr ""
@@ -817,7 +816,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:134
 #: A_New_Order/macros/elvish_macros.cfg:255
 #: A_New_Order/macros/conversations.cfg:43
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:668
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:674
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:688
 msgid "What?"
 msgstr ""
@@ -2914,7 +2913,7 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:744
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:220
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:592
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:354
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:360
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:395
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:424
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:189
@@ -2935,7 +2934,7 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:740
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:224
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:588
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:356
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:391
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:420
 #: A_New_Order/scenarios/23_Trapped.cfg:905
@@ -2959,7 +2958,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-14macros.cfg:12
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:228
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:358
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:364
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:104
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:220
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:221
@@ -3229,7 +3228,7 @@ msgstr ""
 
 #. [unit]: id=Karl Regven, type=Duelist
 #: A_New_Order/macros/messages.cfg:78
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:325
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:331
 msgid "Karl Regven"
 msgstr ""
 
@@ -7534,260 +7533,260 @@ msgstr ""
 #. [side]: id=Moerre Crynenoj, type=Akladian Chieftain
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:112
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:339
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:341
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:345
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
 msgid "Moerre Crynenoj"
 msgstr ""
 
 #. [unit]: id=Ore Cruveno, type=Akladian Light Infantry
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:134
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:340
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:346
 msgid "Ore Cruveno"
 msgstr ""
 
 #. [side]: id=Rebel
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:269
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:275
 msgid "Rebel"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:298
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:304
 msgid "Finally, you awaken. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:299
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:305
 msgid "Am I alive? Who are you? Where am I?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:300
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:306
 msgid "Be not worried. You are amongst friends, Haldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:301
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:307
 msgid "But, how... wait, what did you call me? Haldric?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:302
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:308
 msgid "That's what your mother named you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:303
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:309
 msgid "My mother never... wait, you are talking about my REAL mother, aren't you? You knew my mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:304
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:310
 msgid "Yes, I was her... courtier. I was close to her when she was dying. I promised her that I would watch over you. You have her eyes... I played with you when you were a child, don't you remember me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:305
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:311
 msgid "I remember nothing. But, how..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:306
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:312
 msgid "I have friends in Barnon. One told me you were walking into a trap. I feared I had come too late when I found you; I thought you were dead. Fortunately, you were only unconscious. I took you here and cared for you these past three days."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:316
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:322
 msgid "What are you doing here?!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:336
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:342
 msgid "My lord, I was not able to stop her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:337
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:343
 msgid "Don't be too hard on him, father. He really tried. So, this is little Haldric whom you told us about? He looks quite normal, not Akladian at all."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:338
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:344
 msgid "Gawen Hagarthen, meet my daughter, Karen. Imagine, I have three more daughters, all with their mother's red hair, at home! I'm afraid, though, that unlike her sisters, Karen inherited my temperment, not my wife's - she absolutely refuses to stay at home!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:339
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:345
 msgid "I can't believe my own eyes! Isn't that Gawen, the little so-called king?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:340
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:346
 msgid "Are we gonna kill him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:341
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
 msgid "No, our forces are too weak. More Underlings may arrive soon. We should carry word to Bor Cryne immediately; he will reward us well and arrive here with more than enough men to crush them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:342
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:348
 msgid "My lord, we can't let anyone know that you live. No enemy should leave this battlefield alive. There aren't many of them; this should be easy."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:346
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:352
 msgid "Kill the enemy leader and all enemy units. Don't allow any enemy unit to reach the north-western signpost, or the village nearby."
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:362
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:368
 msgid "Any enemy unit reaches north-western signpost"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:394
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:400
 msgid "I will carry the message to Bor Cryne. He will reward me in gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:395
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:401
 msgid "It's the end for us. We have no chance to escape now, for Bor Cryne will send his army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:507
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:513
 msgid "No! The Akladian reinforcements have arrived! We are surrounded!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:549
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:555
 msgid "Wow."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:550
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:556
 msgid "What? Young women like me have to learn to defend ourselves."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:565
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:571
 msgid "Isn't that the legendary Ruvio? It's a honour fighting for you! Command!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:566
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:572
 msgid "Today you won't be commanded by me, but by this young man. I will only be his advisor."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:567
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:573
 msgid "And who is he? Why should we fight under his command?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:568
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:574
 msgid "Because I ask you to. Isn't my word enough?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:569
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:575
 msgid "Well then, Ruvio. We'll listen to his orders. We hope you are not mistaken and this young boy can lead us to victory over the Akladian beasts."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:592
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:598
 msgid "Peasants and brawlers? How on earth am I supposed to win battle with those?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:593
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:599
 msgid "You forgot about me!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:594
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:600
 msgid "He didn't. He mentioned brawlers already."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:595
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:601
 msgid "True, they are not the best warriors, but you can recruit a lot of them, and they learn quickly. Our opponents are not numerous, and here they can't really recruit more soldiers. It'll be easy, believe me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:603
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:609
 msgid "See, I told you it would be easy."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:604
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:610
 msgid "Yes, but only because they had limited soldiers and a fool for a commander. Where to go now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:605
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:611
 msgid "No one is left to inform Bor Cryne and his ilk that you survived the battle. We should go to Freetown next. The Akladians are all around us; we will have to cross the forests of Raedwood, and hope that the bandits living there won't attack us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:606
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:612
 msgid "It's a shame there weren't more Akladians to kill."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:607
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:613
 msgid "There is one more left."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:608
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:614
 msgid "Where?!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:609
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:615
 msgid "I am Akladian. Do you want to kill me? Go ahead, I won't stop you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:610
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:616
 msgid "Stop it, kids! We've no time for fighting over poorly-chosen words. We have to reach Freetown as soon as possible. Haldric, Freetown is a rallying point for our people, where we are organizing our army. You'll meet the rest of my family there."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:611
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:617
 msgid "Ruvio, call me 'Gawen.' I am not used to being called 'Haldric'. I've never heard about Freetown."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:612
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:618
 msgid "It's hidden deep within the forests. Its location is our greatest secret. And, get used to being called 'Haldric'. I want everyone to swear they won't tell anyone that this man is the rightful king of Vakladia, Gawen Hagarthen. He is just 'Haldric' now. It'll be far better for you, Haldric, believe me. Much safer."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:613
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:619
 msgid "Why? If Freetown's location is so secret, even if Akladian lords knew that I was still alive, they wouldn't be able to find me, right?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:614
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:620
 msgid "I am thinking more about your safety amongst the Wesnothians inside of Freetown. Hagarthens were never really popular there. Let's go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:667
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:673
 msgid "(<i>low whistle</i>)"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:669
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:675
 msgid "It's just a... you really know how to handle a blade."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:670
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:676
 msgid "If you want, I'll teach you a few things."
 msgstr ""
 
