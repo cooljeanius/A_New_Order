@@ -2,13 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-31 05:20 UTC\n"
+"POT-Creation-Date: 2023-12-31 06:03 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. [terrain_type]: id=Table
+#: A_New_Order/terrains/terrain.cfg:6
+msgid "Table"
+msgstr ""
+
+#. [terrain_type]: id=Room_inside
+#: A_New_Order/terrains/terrain.cfg:14
+msgid "Room inside"
+msgstr ""
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -46,8 +56,8 @@ msgid "City militia is composed from citizens of Wesnothian towns. Their role is
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:38
-#: A_New_Order/units/others/Rancher.cfg:37
+#: A_New_Order/units/others/City_Militia.cfg:26
+#: A_New_Order/units/others/Rancher.cfg:25
 #: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:23
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:24
 msgid "spear"
@@ -341,7 +351,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Protector, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:4
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:60
 msgid "Akladian Protector"
 msgstr ""
 
@@ -398,7 +408,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/_main.cfg:56
+#: A_New_Order/_main.cfg:57
 msgid "Akladian Clansman"
 msgstr ""
 
@@ -437,7 +447,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:4
-#: A_New_Order/_main.cfg:57
+#: A_New_Order/_main.cfg:58
 msgid "Akladian Warrior"
 msgstr ""
 
@@ -554,7 +564,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Shieldguard, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:4
-#: A_New_Order/_main.cfg:58
+#: A_New_Order/_main.cfg:59
 msgid "Akladian Shieldguard"
 msgstr ""
 
@@ -599,8 +609,8 @@ msgid "Young Saurians are the workers for their race."
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/saurians/Young.cfg:44
-#: A_New_Order/units/saurians/Young.cfg:53
+#: A_New_Order/units/saurians/Young.cfg:31
+#: A_New_Order/units/saurians/Young.cfg:40
 msgid "pick"
 msgstr ""
 
@@ -1179,20 +1189,20 @@ msgstr ""
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:947
+#: A_New_Order/macros/ano_macros.cfg:945
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
 #. trailing space is intentional here, since further text is supposed to be spliced on at the end:
-#: A_New_Order/macros/ano_macros.cfg:957
+#: A_New_Order/macros/ano_macros.cfg:955
 msgid "This is a debug message. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1114
+#: A_New_Order/macros/ano_macros.cfg:1112
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1122
+#: A_New_Order/macros/ano_macros.cfg:1120
 msgid "Scenario notes:"
 msgstr ""
 
@@ -1601,7 +1611,7 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:748
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:596
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:246
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:341
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:349
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:399
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:428
 #: A_New_Order/scenarios/23_Trapped.cfg:913
@@ -1623,7 +1633,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:266
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:250
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:345
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:353
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:347
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:542
@@ -4520,7 +4530,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/25_The_Awakening.cfg:736
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:337
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:345
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:152
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:164
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:92
@@ -7810,12 +7820,16 @@ msgid "Lady Lorin"
 msgstr ""
 
 #. [side]: id=Uruk Maluf, type=Orcish Warrior
+#. [scenario]: id=05_Unexpected_Guests
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:178
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:257
 msgid "Uruk Maluf"
 msgstr ""
 
 #. [side]: id=Arlgor Maunarr, type=Orcish Warrior
+#. [scenario]: id=05_Unexpected_Guests
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:201
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:260
 msgid "Arlgor Maunarr"
 msgstr ""
 
@@ -7836,155 +7850,160 @@ msgstr ""
 
 #. [event]
 #. discussion between two orcs
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:284
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:292
 msgid "Humans! Kill them all!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:297
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:305
 msgid "No, no, no. We were told only to reconnoiter. We were given specific orders! We should withdraw to get the message back to headquarters. You know, da bosses."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:307
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:315
 msgid "Kill them all! Kill them all! Humans!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:313
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:321
 msgid "(<i>sigh</i>) Sometimes I feel I was born in the wrong time, wrong place, and wrong race."
 msgstr ""
 
 #. [event]
 #. This is a hint as to which orc Lorin should bother interrogating:
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:320
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:328
 msgid "It seems that the orc in the north is a bit more intelligent than the southern one."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:355
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:363
+msgid "Wesnothian Peasant"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:363
 msgid "We are liberated! Hurray! Wait a moment... those are Akladians. I never thought I would be glad to see them!"
 msgstr ""
 
 #. [event]
 #. some Akladian unit, possibly also Lorin
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:366
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:374
 msgid "My God! What happened here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:368
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:376
 msgid "One thing is for sure... we will find no shelter, no supplies, and none of Reme's friends here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:380
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:388
 msgid "You were a worthy opponent. My ancestors probably would decide to honour you by eating your heart. Now, die!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:387
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:395
 msgid "Wait! I hate when you kill people before I have chance to interrogate them. Again."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:388
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:396
 msgid "'Again?' What do you mean?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:389
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:397
 msgid "I had no time to play with that assassin sent to kill Gawen, don't you remember?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:392
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:400
 msgid "Wait! I hate when you kill people before I have chance to interrogate them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:404
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:412
 msgid "Before I kill you, I want you to tell me everything you know! Why are you here? How come we have not heard about any Orcs?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:405
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:413
 msgid "Kill the humans... good meat."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:416
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:424
 msgid "Sigh. We will get nothing more. The other one was far more intelligent."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:419
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:427
 msgid "Sigh. It seems we will get more from the second Orcish leader. This one is... I mean was... far less intelligent."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:433
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:441
 msgid "Do not kill him! Leave the final blow to me, I have to interrogate him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:443
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:451
 msgid "Before I kill you, I want to ask you a question. Do you prefer to die painlessly or do you want me to think up some nightmarish way for you to die?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:445
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:452
 msgid "Being killed by a human woman is already the most nightmarish way to die I can imagine."
 msgstr ""
 
 #. [event]
 #. Note to translators: A gelding is an animal that has been castrated.
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:448
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:455
 msgid "You are mistaken, my darling. I can prove it to you. I want you only to answer few questions. You said you are here to reconnoiter. Who sent you here? Answer now, or you will end your life as a miserable gelding!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:450
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:457
 msgid "Wait, I will tell you. There is a large army to the north, preparing an assault on your kingdom. We were sent here to find a good path, destroy Castle Raumair and escort an envoy to our headquarters."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:451
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:458
 msgid "Envoy? What envoy?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:452
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:459
 msgid "A human. He hasn't appeared, though, we were waiting for him here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:453
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:460
 msgid "Wait - you were expecting human envoy here? And how did you make your way here through the underling realms?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:454
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:461
 msgid "First question, yes, second, we weren't harassed. I don't know why. We were forbidden to pillage and attack anyone until we came into Vakladia. I know nothing more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:455
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:462
 msgid "Really? That's unfortunate for you. Reme, kill him quickly - I promised him a painless death if he would cooperate."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:463
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:470
 msgid "My lady, it seems that those orcs had some gold with them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:464
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:471
 msgid "So I am still 'my lady' to you? This gold is probably the spoils from the burned homes of your friends. Doesn't that disturb you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:465
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:472
 msgid "I will bury part of the gold within Castle Raumair, along with the heads of the slain orcs. That should be recompense enough for my friends' ghosts. Besides, you shall have more need of the rest than they."
 msgstr ""
 
@@ -17750,38 +17769,38 @@ msgstr ""
 
 #. [campaign]: id=A_New_Order
 #. [editor_group]: id=ano
-#: A_New_Order/_main.cfg:37
+#: A_New_Order/_main.cfg:38
 #: A_New_Order/_editor.cfg:14
 msgid "A New Order"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:38
+#: A_New_Order/_main.cfg:39
 msgid "ANO"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:56
+#: A_New_Order/_main.cfg:57
 msgid "Trivial"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:57
+#: A_New_Order/_main.cfg:58
 msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:58
+#: A_New_Order/_main.cfg:59
 msgid "Difficult"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:60
 msgid "Impossible"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:62
+#: A_New_Order/_main.cfg:63
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying barbarians are on the brink of civil war, the seeds of Wesnothian rebellion are kept alive by old legends, while bandits and Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these disparate factions against a common foe?\n"
 "\n"
@@ -17816,135 +17835,130 @@ msgstr ""
 msgid "Translations"
 msgstr ""
 
-#. [about]
-#: A_New_Order/about.cfg:118
-msgid "(from WesCamp-i18n)"
-msgstr ""
-
 #. [entry]
-#: A_New_Order/about.cfg:120
+#: A_New_Order/about.cfg:122
 msgid " British (en_gb) translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:123
+#: A_New_Order/about.cfg:125
 msgid "Catalonian translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:126
+#: A_New_Order/about.cfg:128
 msgid "Czech translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:129
+#: A_New_Order/about.cfg:131
 msgid "Danish translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:132
+#: A_New_Order/about.cfg:134
 msgid "French translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:135
+#: A_New_Order/about.cfg:137
 msgid "German translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:138
+#: A_New_Order/about.cfg:140
 msgid "Hungarian translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:141
+#: A_New_Order/about.cfg:143
 msgid "Italian translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:144
+#: A_New_Order/about.cfg:146
 msgid "Polish translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:147
+#: A_New_Order/about.cfg:149
 msgid "Russian translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:150
+#: A_New_Order/about.cfg:152
 msgid "Spanish translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:153
+#: A_New_Order/about.cfg:155
 msgid "Swedish translation:"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:156
+#: A_New_Order/about.cfg:158
 msgid "Turkish translation:"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:160
+#: A_New_Order/about.cfg:162
 msgid "Additional thanks to"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:210
+#: A_New_Order/about.cfg:212
 msgid "all others from the Wesnoth forums"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:215
+#: A_New_Order/about.cfg:217
 msgid "Campaign funding"
 msgstr ""
 
 #. [about]
 #. I had to shorten this to get it to fit:
-#: A_New_Order/about.cfg:241
+#: A_New_Order/about.cfg:243
 msgid "More info may be found within readme.txt file"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:243
+#: A_New_Order/about.cfg:245
 msgid "(as described previously)"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:248
+#: A_New_Order/about.cfg:250
 msgid "I can't believe you actually read this thing"
 msgstr ""
 
 #. [entry]
 #. I wanted to include "in BfW 1.16, now that Wesnoth has made changes to how it handles credits" in this string,
 #. but that got cut off for me... if your language can fit more info in less space, feel free to include that part:
-#: A_New_Order/about.cfg:252
+#: A_New_Order/about.cfg:254
 msgid "(although it's a bit more understandable now)"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:256
+#: A_New_Order/about.cfg:258
 msgid "Darth Vader"
 msgstr ""
 
 #. [entry]
 #. please translate Skywalker literally (as "person who walks the sky")
-#: A_New_Order/about.cfg:259
+#: A_New_Order/about.cfg:261
 msgid "Father of Luke Skywalker"
 msgstr ""
 
 #. [about]
 #. Żwirek i Muchomorek are fictional characters from a Czech movie for children. You are free to replace them with characters from a favourite foreign movie for children in your country:
-#: A_New_Order/about.cfg:264
+#: A_New_Order/about.cfg:266
 msgid "Żwirek i Muchomorek"
 msgstr ""
 
 #. [entry]
 #. this is based on the fact that in the Polish version of Shrek, there is a scene in which Lord Farquad learns that Żwirek flirts with Muchomorek.
 #. If you are changing the name of the characters for your localization, remember to change the name of the country that they're from here, too.
-#: A_New_Order/about.cfg:268
+#: A_New_Order/about.cfg:270
 msgid "Famous Czech gay actors"
 msgstr ""
 
@@ -17952,13 +17966,13 @@ msgstr ""
 #. Polish president (from 2010 to 2015), he can't spell. Famous for dozens of idiotic sentences and sayings. You are free to replace him with some politician from your country.
 #. A good way to test to see if a particular politician would fit here would be to google their name along with the word "gaffe" and see if people have made articles out of lists of said gaffes.
 #. Please only make fun of politicians for their gaffes here, and not their actual policies, as the Wesnoth add-on server has a policy against overly political or ideological content.
-#: A_New_Order/about.cfg:275
+#: A_New_Order/about.cfg:277
 msgid "Bronisław Komorowski"
 msgstr ""
 
 #. [entry]
 #. if your language's politician holds some other office, remember to replace the "president" part with the relevant title:
-#: A_New_Order/about.cfg:278
+#: A_New_Order/about.cfg:280
 msgid "The living proof that you may not know how to spell and still be president"
 msgstr ""
 
