@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-01 09:55 UTC\n"
+"POT-Creation-Date: 2024-01-01 10:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16561,6 +16561,8 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:670
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:685
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:687
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:703
 msgid "Medic"
 msgstr ""
 
@@ -16584,69 +16586,84 @@ msgstr ""
 msgid "Your motives are of no concern to me, just do it!"
 msgstr ""
 
+#. [then]
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:687
+msgid "Hold on a moment."
+msgstr ""
+
+#. [then]
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:703
+msgid "...and there you go."
+msgstr ""
+
+#. [then]
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:704
+msgid "Thanks. (*<i>faints</i>*)"
+msgstr ""
+
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:728
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:745
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:737
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:754
 msgid "Ah, a village..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:738
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:755
 msgid "A medic! Somebody find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:739
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:756
 msgid "Unfortunately, it seems that there are no medics here... we will most likely have to wait until we reach the enemy encampment before we can cure Gawen's poison..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:788
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:805
 msgid "I can't see... it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:789
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:806
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:805
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:822
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:806
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:823
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so have Reme give an additional hint:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:809
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:826
 msgid "Do not forget to withdraw wounded units to villages, where they can rest and regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:822
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:839
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:834
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:851
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:847
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:864
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:855
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:872
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
