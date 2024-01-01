@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-01 04:08 UTC\n"
+"POT-Creation-Date: 2024-01-01 06:29 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -616,7 +616,8 @@ msgstr ""
 msgid "pick"
 msgstr ""
 
-#: A_New_Order/units/_main.cfg:8
+#. Generator for male Akladian names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax:
+#: A_New_Order/units/_main.cfg:9
 msgid ""
 "\n"
 "main={long_firstn}|{short_firstn} {lastn}\n"
@@ -626,16 +627,17 @@ msgid ""
 "uplace=Gaeltin|Borraine|Barnone|Vattin|Haeltin|Raedbor|Raednon|Barron|Warhol|Skagrrak|Travil|Trimmen\n"
 "prefix={prefix_v}|{prefix_c}\n"
 "prefix_v=Re|Ao|Te|Ro|Eo|Lee|La|Ru|Theo|Ae|Rao|Ne|I|Ia|Ioe|Kro|Kre|Yeo|Que|Thu|Mari|Bo|Uri|Ri|Nai|Rau|Gra|Ree|Stro|Reo|Oy|Au|Oe|Mo|No|Rou|Moe|Mi|U|Li|Reu|Ra|Ee|E|Be|Bu|Wu|Dau|Co|Ai|Gau|Al|Odo|Gae|Gei|Eu|Oda|To|Beo|Ku|Tre|Ha|Lu\n"
-"prefix_c=Or|Kar|Sav|Raul|Ur|Bar|Er|Mar|Mir|Um|Quiv|Bur|Tel|As|Lar|Rav|Rum|Cim|At|Eur|Tot|Hun|Hil|Hild|En|Enk|Tam|Sky|Ar|Arg|Gen|Kub|Trev\n"
+"prefix_c=Or|Kar|Sav|Raul|Ur|Bar|Er|Mar|Mir|Um|Quiv|Bur|Tel|As|Lar|Rav|Rum|Cim|At|Eur|Tot|Hun|Hil|Hild|En|Enk|Tam|Sky|Ar|Arg|Gen|Kub|Trev|B|Zan\n"
 "midfix={midfix_v}|{midfix_c}|{midfix_v}{midfix_c}\n"
-"midfix_v=u|re|e|ue|le|no|eo|me|ke|o|i|ne|ri|ma|a|ra|li|ou|ru|lo|meo|he|ro|ea|lu|ka|do|se|see|va|de|wu|ki|thi|ba|gle|io|ee|oe|vo\n"
+"midfix_v=u|re|e|ue|le|no|eo|me|ke|o|i|ne|ri|ma|a|ra|li|ou|ru|lo|meo|he|ro|ea|lu|ka|do|se|see|va|de|wu|ki|thi|ba|gle|io|ee|oe|vo|zi\n"
 "midfix_c=en|uk|an|er|ster|reg|til|ar|ov|wul|id|um|bar|barg|bur|vor|ur\n"
 "suffix=ke|me|re|nor|rao|ree|oe|rien|noe|roe|the|en|rei|ri|ae|an|ain|nee|moe|neo|reo|lien|aye|mo|ele|eo|aen|mar|ric|eric|riec|riac|yen|bar|kee|li|eme|kin|in|noo|lin|le|lan|meo|ro|are|oto|to|ato|igi|riv|iv|ban|ge|len|ren|non|tan|rial|nan|ven|pel|per|la|ic|acer|iac|ila|fe|es|des|du|man|eu|ghis|lai|ien|kian|ian|ar\n"
 "suffix_c=rgh|rk|ck|nk|rg|n|r|c|v|l|s|k|gh|rs|cs\n"
 ""
 msgstr ""
 
-#: A_New_Order/units/_main.cfg:23
+#. Generator for female Akladian names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax:
+#: A_New_Order/units/_main.cfg:25
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{midfix}{suffix}\n"
@@ -646,7 +648,7 @@ msgid ""
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:33
+#: A_New_Order/units/_main.cfg:35
 msgid ""
 " The Akladians are wild barbarians. Hailing from the harsh east, they are born fighters. Stronger, more agile and quicker than normal people, they are a civilisation based entirely on war.\n"
 "\n"
@@ -658,29 +660,29 @@ msgid ""
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:40
+#: A_New_Order/units/_main.cfg:42
 msgid "race^Akladian"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:41
+#: A_New_Order/units/_main.cfg:43
 msgid "race+female^Akladian"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:42
+#: A_New_Order/units/_main.cfg:44
 msgid "race^Akladians"
 msgstr ""
 
 #. [race]: id=akladian
 #. Most of the new additions to this male_names list are just taken from names that were hardcoded elsewhere in the campaign:
-#: A_New_Order/units/_main.cfg:46
+#: A_New_Order/units/_main.cfg:48
 msgid "Reuke,Aorenor,Reme,Terao,Aoeree,Reeoe,Larao,Borien,Rouenoe,Eoleree,Leenore,Oreoke,Lauroe,Rumethe,Theorien,Rukeen,Aeorei,Raori,Neiae,Ien,Ian,Iain,Ioeneree,Karnee,Kromoe,Kreneo,Savireo,Raulien,Urenaye,Yeorgh,Yeorimo,Quenerien,Thurimarien,Mariaele,Orieo,Boraeo,Uriliaen,Eoremar,Rioulien,Naiyen,Barukee,Rauoli,Graeme,Graukin,Ruke,Urke,Erke,Reeanoo,Mareele,Eolan,Eolorien,Iree,Stromeoeo,Reonee,Raoke,Oyre,Auree,Aueree,Oeme,Moro,Moreo,Nome,Oeame,Roule,Moerro,Urheare,Mirro,Umeari,Rioto,Lioato,Moerre,Reuluigi,Raole,Quivre,Kariv,Rouke,Raban,Marlin,Burke,Barien,Eesterregge,Barbarbar,Burien,Telen,Dulen,Beren,Buren,Boren,Rebarnon,Wutan,Askarial,Bark,Rurk,Rauke,Dauri,Conan,Larkin,Aire,Raven,Rumpel,Cimper,Camper,Gauri,Attila,Alaric,Odoacer,Theodoric,Gaeseric,Geiseric,Genseeriec,Euriac,Odaovacer,Totila,Huneric,Hilderic,Beowuelfe,Atreides,Enkidu,Tamerlan,Timuree,Turanee,Kimeree,Skythike,Touman,Arglebargle,Aeioeeu,Aieoiu,Genghis,Kublai,Eeoeeu,Barburien,Trevoree,Burbarurkian,Har,Bors,Lucs"
 msgstr ""
 
 #. [race]: id=akladian
 #. I don't think this female_names list actually gets used anywhere (unless you're using debug mode); feel free to skip:
-#: A_New_Order/units/_main.cfg:48
+#: A_New_Order/units/_main.cfg:50
 msgid "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena,Nemaara,Xena,Ayla"
 msgstr ""
 
@@ -3650,86 +3652,90 @@ msgid "OK, I don't care about this Arsham Mahouri guy; I just care about you, an
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:151
-msgid "Oh, you'll absolutely love Raya!"
+msgid "Oh, you'll absolutely love Raya! She's a warrior like you are, although she specializes more in fiery weaponry... you could have a killing competition with her like you did with Lorin!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:157
-msgid "Hey Karl, can you please stop following me so closely?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:158
-msgid "It is my duty to guard you, Miss Karen."
+#: A_New_Order/macros/conversations_support.cfg:152
+msgid "As for Ni'wa... well, she's a bit more shy, and takes a bit longer to open up to people she's newly met, but I'm sure you'll grow to get along just fine with her as well! She spends most of her time training falcons to hunt for us..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:159
-msgid "Sure, but, like, can't you at least guard me from over <i>THERE</i> instead?"
+msgid "Hey Karl, can you please stop following me so closely?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:160
-msgid "Your father ordered me to keep a close eye on you, so keep a close eye on you I shall."
+msgid "It is my duty to guard you, Miss Karen."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:161
-msgid "I still don't think that keeping “a close eye” on me means it has to be <i>THAT</i> close, though..."
+msgid "Sure, but, like, can't you at least guard me from over <i>THERE</i> instead?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:162
-msgid "Your father pays me a fair sum of gold to keep you safe; it is not my place to go interpreting his orders in a way that could jeopardize my employment. He is no doubt already angry at me for letting you escape my watch so many times..."
+msgid "Your father ordered me to keep a close eye on you, so keep a close eye on you I shall."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:163
-msgid "Is he really, or are you just assuming that? I mean, he hasn't fired you yet, and it's been <i>HOW</i> many times now?"
+msgid "I still don't think that keeping “a close eye” on me means it has to be <i>THAT</i> close, though..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:164
-msgid "I've lost count, to be honest..."
+msgid "Your father pays me a fair sum of gold to keep you safe; it is not my place to go interpreting his orders in a way that could jeopardize my employment. He is no doubt already angry at me for letting you escape my watch so many times..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:165
-msgid "See? Exactly. I think Father actually kind of <i>likes</i> it when I come tagging along with him, personally..."
+msgid "Is he really, or are you just assuming that? I mean, he hasn't fired you yet, and it's been <i>HOW</i> many times now?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:166
-msgid "Perhaps, although he also would hate for any harm to come to you."
+msgid "I've lost count, to be honest..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:167
-msgid "I know, I know, but, I mean, no harm has come to me <i>YET</i>, has it? You really don't need to worry so much..."
+msgid "See? Exactly. I think Father actually kind of <i>likes</i> it when I come tagging along with him, personally..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:168
-msgid "People generally don't come to harm, until they do. It only takes once for disaster to occur..."
+msgid "Perhaps, although he also would hate for any harm to come to you."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:169
-msgid "Yeah, but, I mean, have you seen me in battle, though? I can handle myself perfectly fine!"
+msgid "I know, I know, but, I mean, no harm has come to me <i>YET</i>, has it? You really don't need to worry so much..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:170
-msgid "Nevertheless, I must fulfill my duty."
+msgid "People generally don't come to harm, until they do. It only takes once for disaster to occur..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:171
-msgid "OK, compromise: how about half the distance from the point I suggested you guard me from originally?"
+msgid "Yeah, but, I mean, have you seen me in battle, though? I can handle myself perfectly fine!"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:172
-msgid "One quarter the distance."
+msgid "Nevertheless, I must fulfill my duty."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:173
-msgid "One third."
+msgid "OK, compromise: how about half the distance from the point I suggested you guard me from originally?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:174
-msgid "You drive a hard bargain, Miss Karen! But all right, I guess that will be acceptable..."
+msgid "One quarter the distance."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:175
-msgid "Thanks, Karl! You won't regret this!"
+msgid "One third."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:176
+msgid "You drive a hard bargain, Miss Karen! But all right, I guess that will be acceptable..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:177
+msgid "Thanks, Karl! You won't regret this!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:178
 msgid "(<i>to himself</i>) The things I put up with for this job..."
 msgstr ""
 
