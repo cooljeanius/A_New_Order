@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-01 10:49 UTC\n"
+"POT-Creation-Date: 2024-01-01 11:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -409,7 +409,7 @@ msgstr ""
 #. [event]
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:914
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:924
 #: A_New_Order/_main.cfg:57
 msgid "Akladian Clansman"
 msgstr ""
@@ -831,7 +831,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:255
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:674
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:696
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:706
 msgid "What?"
 msgstr ""
 
@@ -1639,7 +1639,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:500
 #: A_New_Order/scenarios/27_Orannon.cfg:746
 #: A_New_Order/scenarios/27_Orannon.cfg:1146
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:347
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:351
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:538
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:262
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
@@ -1652,7 +1652,7 @@ msgstr ""
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:250
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:353
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:504
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:351
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:355
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:542
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:266
 msgid "Death of Reme Carrenemoe"
@@ -2977,7 +2977,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:1142
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:216
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:213
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:343
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:347
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
 msgid "Death of Gawen Hagarthen"
 msgstr ""
@@ -3334,7 +3334,7 @@ msgstr ""
 #. [side]: id=Assassin
 #. [unit]: id=Assassin
 #: A_New_Order/macros/messages.cfg:186
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:627
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:637
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:429
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
 msgid "Assassin"
@@ -8794,7 +8794,7 @@ msgstr ""
 #: A_New_Order/scenarios/23_Trapped.cfg:467
 #: A_New_Order/scenarios/23_Trapped.cfg:470
 #: A_New_Order/scenarios/23_Trapped.cfg:473
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:281
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:285
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:253
 msgid "Messenger"
 msgstr ""
@@ -13181,7 +13181,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:209
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:339
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:343
 msgid "Kill the enemy leader."
 msgstr ""
 
@@ -15854,7 +15854,7 @@ msgstr ""
 #. [side]: id=Raul O Gaeltin, type=Akladian Lord
 #. [scenario]: id=02_Fighting_for_Passage
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:80
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:535
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:545
 msgid "Raul O Gaeltin"
 msgstr ""
 
@@ -15894,335 +15894,335 @@ msgid "Loyal"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:260
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:264
 msgid "Skipping opening dialogue due to debug mode being on; restart this scenario with debug mode off to view the opening dialogue."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:262
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:266
 msgid "Skipping opening dialogue due to the DEBUG_MODE macro being defined; restart this scenario with debug mode off to view the opening dialogue."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:265
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
 msgid "Vattin, the capital of our kingdom, is just a few days from here. How do you feel, my son? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:266
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:270
 msgid "Much better. That medic did a commendable job. I wish to thank him at some time in future."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:267
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:271
 msgid "I'm afraid... that may be... impossible. What about your memory?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:268
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:272
 msgid "I think... sometimes I think I remember something, but then it passes. I remember a dark-haired woman. She is lying on a bed, sweating, pain in her beautiful green eyes. I don't know who she is, but it makes me want to weep every time I think about it. I think... I think I loved her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:273
 msgid "That could be your true mother, my lord. She was poisoned when you were still young."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:270
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:274
 msgid "...anyways, I've sent an envoy to Gaeltin Hyer, a city which lies along our way, to prepare rooms for us. I think, my lord, you might want to get some rest before continuing our journey."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:286
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:290
 msgid "Noble lords, with your permission... my lord, Raul O Gaeltin sent me here with a message. I beg for your forgiveness, remember I am just a messenger."
 msgstr ""
 
 #. [event]
 #. Lorin speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:288
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:292
 msgid "Speak."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:289
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:293
 msgid "These are the words of my lord; I was given a strict charge to repeat them exactly: 'Gaeltin's gates will never be opened for mixling bastards nor for the king's whores.' He also sends this..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:290
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:294
 msgid "You received 2 pieces of gold."
 msgstr ""
 
 #. [event]
 #. this is a continuation of the Messenger's previous message:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:296
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:300
 msgid "'...for you to start a new life.' This is what I was commanded to say. May I live - I mean - leave?"
 msgstr ""
 
 #. [event]
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:298
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:302
 msgid "We have a message for your lord too. Tell him we will bring him the message personally and he will have a lot of time to comprehend it fully. You may leave now."
 msgstr ""
 
 #. [event]
 #. Lorin speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:320
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:324
 msgid "I guess we will have to fight our way into Vattin. Gawen, many Akladians live nearby. They will fight for you. They are inexperienced but they are eager to show their loyalty. Let's use them."
 msgstr ""
 
 #. [event]
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:322
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:326
 msgid "Hmm, after some thought perhaps it is for the best that Raul is trying to oppose us. It's an occasion for you to exercise a little."
 msgstr ""
 
 #. [event]
 #. no hints for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:325
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:329
 msgid "Go and attack however you see fit; I highly doubt you need my advice."
 msgstr ""
 
 #. [event]
 #. all other difficulties; we can have hints on those:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:328
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:332
 msgid "Go and take the villages to earn more gold. Recruit as many Clansmen as you can. Many of them will probably die, but the survivors may become good fighters. Do not forget to recall our veteran soldiers, too. Be careful; do not needlessly hurry. To cure wounded units you may use wisemen or villages."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:335
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:339
 msgid "Reach the northern signpost with Gawen Hagarthen OR"
 msgstr ""
 
 #. [objectives]
 #. EASY difficulty, so this is more of a hint:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:357
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:361
 msgid "This scenario is designed for grinding gold and EXP. Your income will increase if you use Gawen for fighting instead of recruiting, so be sure to move him off your keep and into the action!"
 msgstr ""
 
 #. [objectives]
 #. NORMAL, HARD, or NIGHTMARE difficulty, so instead of being a hint, this should just be a pure description of mechanics:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:360
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:364
 msgid "Gawen's income depends on whether he is standing on his keep or not in this scenario."
 msgstr ""
 
 #. [animate_unit]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:401
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:411
 msgid "Hm..."
 msgstr ""
 
 #. [event]
 #. "this" refers to the gallows to which Lorin has just moved:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:408
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:418
 msgid "I suppose we will find some use for this in near future."
 msgstr ""
 
 #. [event]
 #. "this device" refers to the gallows to which the unit has just moved:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:436
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:446
 msgid "I have no wish to become any better-acquainted with this device."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:446
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:456
 msgid "So, how many days' journey from here to Vattin?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:447
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:457
 msgid "We should arrive in two or three days."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:454
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:464
 msgid "It's a shame we had no time to finish those traitors off."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:455
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:465
 msgid "There is no time for that now. Others should be able to manage that job without us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:479
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:489
 msgid "Death to the traitors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:487
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:497
 msgid "Yes, death to you!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty; I just wanted to put *something* here:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:495
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:505
 msgid "Hm, we're still alive. Good."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so we can have hints:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:498
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:508
 msgid "Seems to me it will be an easy battle. I guess it would be enough to have 250 gold pieces at the end of this fight; It is far more important, Gawen, to use this occassion to train our last loyal troops. We may need veteran units in future much more than gold."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:516
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:526
 msgid "This is the end which awaits all traitors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:527
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:537
 msgid "Before I kill you, you ought to know that this is not because of the message you delivered to us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:528
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:538
 msgid "I was just a messenger!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:529
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:539
 msgid "I just told you that I don't blame you for repeating words of your master."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:530
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:540
 msgid "So you will allow me to live?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:531
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:541
 msgid "Oh, I haven't said that. You see, I really don't like your face."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:550
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:560
 msgid "You are lucky that I don't have more time, or I would play with you more, honorless dog."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:551
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:561
 msgid "You are lucky that this underling whom you call your king does not know that..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:552
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:562
 msgid "Enough of that, go now to your ancestors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:553
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:563
 msgid " Hurkkh..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:652
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:662
 msgid "Where is he? He is starting to get on my nerves..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:695
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:705
 msgid "Oops."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:697
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:707
 msgid "It looks like he recruited a lot of units."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:698
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:708
 msgid "Yes indeed. This could be a bit harder than we expected."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:762
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:772
 msgid "My friends will arrive very soon! You are already doomed! Ha ha ha!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:765
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:775
 msgid "Let's try to move a little faster. This traitor's friends may appear at any moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:792
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:802
 msgid "Ha ha ha! You are doomed! I can hear the trumpets of my friends coming to aid me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:831
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:841
 msgid "No! More traitors are coming from every side! We cannot hope to deal with all them!"
 msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:916
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:926
 msgid "Run for your life! That milksop cannot possibly lead us to victory!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:930
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:940
 msgid "Poor fellow!"
 msgstr ""
 
 #. [event]
 #. be terser for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:939
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:949
 msgid "He dies an honorable death. You will have to get used to losing units."
 msgstr ""
 
 #. [event]
 #. all other difficulties; have this be more advice-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:942
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:952
 msgid "He dies an honorable death. You cannot let the fear of losing units paralyse you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:951
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:961
 msgid "But he was loyal to our cause though!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:952
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:962
 msgid "Well, I suppose you do have a point there. Feel free to be more careful with our most loyal supporters."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:977
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:987
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during the day, and at night they should be used carefully."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:985
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:995
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during full daylight. Although there may still be some daylight left, night is coming, and when it arrives, they should be used carefully."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:989
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:999
 msgid "Yes! Attack!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty, so don't have Reme say as much:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1004
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1014
 msgid "Ah, he is using Sturmknights. I expect we may have to fight many more of those in the future..."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so make it more hint-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1007
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1017
 msgid "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight at night as they are accustomed to darkness. Counter them by assailing them with Shieldguards during the day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1016
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1026
 msgid "The traitorous ones attack me! Rise up, clansmen of Gaeltin, and drive them back!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1038
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1048
 msgid "See how a true Akladian Lord fights!"
 msgstr ""
 
@@ -16562,7 +16562,7 @@ msgstr ""
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:670
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:685
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:687
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:703
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:722
 msgid "Medic"
 msgstr ""
 
@@ -16592,78 +16592,78 @@ msgid "Hold on a moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:703
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:722
 msgid "...and there you go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:704
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:723
 msgid "Thanks. (*<i>faints</i>*)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:745
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:768
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:754
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:777
 msgid "Ah, a village..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:755
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:778
 msgid "A medic! Somebody find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:756
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:779
 msgid "Unfortunately, it seems that there are no medics here... we will most likely have to wait until we reach the enemy encampment before we can cure Gawen's poison..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:805
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:828
 msgid "I can't see... it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:806
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:829
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:822
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:845
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:823
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:846
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so have Reme give an additional hint:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:826
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:849
 msgid "Do not forget to withdraw wounded units to villages, where they can rest and regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:839
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:862
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:851
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:874
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:864
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:887
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:872
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:895
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
