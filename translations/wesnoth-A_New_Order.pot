@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-31 08:13 UTC\n"
+"POT-Creation-Date: 2024-01-01 04:08 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3440,71 +3440,297 @@ msgid "It's that obvious, is it?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:93
-msgid "Darling, a saurian who Lorin had gouged the eyes out from could see the effect that that young man is having on you."
+msgid "Darling, a saurian who Lorin had disemopticated could see the effect that that young man is having on you."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:94
+msgid "...“Disemopticated”? Is that even a word?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:95
+msgid "You know, gouged the eyes out of...? What, isn't that how you Wesnothians make words, by connecting random syllables into a combination that means something?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:96
-msgid "There go Gawen and Lorin again..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:97
-msgid "It must be weird having a stepmother so close in age to you..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:98
-msgid "They're not <i>that</i> close in age! She's gotta be way older than him!"
+msgid "I don't know! I didn't invent our language!"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:99
-msgid "Really? I assumed that she was just <> years older than him."
+msgid "There go Gawen and Lorin again..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:102
-msgid "You know, Majid, we're actually pretty similar, both being rejected by members of the royal family like this..."
+#: A_New_Order/macros/conversations_support.cfg:100
+msgid "It must be weird having a stepmother so close in age to you..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:103
-msgid "Hey, don't take that defeatist attitude! This is merely a temporary setback!"
+#: A_New_Order/macros/conversations_support.cfg:101
+msgid "They're not <i>that</i> close in age! She's gotta be way older than him!"
 msgstr ""
 
+#. Yahyazad is in fact correct, but just because he's really good at guessing;
+#. see scenarios/Timeline.txt for their exact ages:
 #: A_New_Order/macros/conversations_support.cfg:104
-msgid "No, you know what, it's fine. I've accepted it. And besides, I've found someone else I'm more interested in now, anyways."
+msgid "Really? I assumed that she was just 8 years older than him."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:105
-msgid "You have? Pray tell, just who is this lucky fellow, anyways?"
+msgid "Like I said, way older than him! 8 years is a lot!"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:106
-msgid "Oh, don't be stupid, it's you, Majid!"
+msgid "Ah, sweet child, sometimes I forget about how my perspective on ages has changed as I myself have aged..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:107
-msgid "...M-me?! Karen, I--"
+msgid "Well, okay, <i>I</i> at least think it's a big difference."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:108
-msgid "<etc. etc.> ...Majid Yahyazad, of the Dunefolk... will you marry me?"
+msgid "It's not that much more a difference than the difference between you and Gawen, no? He's what, 6 years older than you, isn't he?"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:109
-msgid "Oh, so in Wesnothian society, the woman proposes marriage to the man? Very interesting, you see, in Dunefolk society, we have this tradition where--"
+msgid "Yeah, but that's different, because... (<i>blushes and falls silent without completing her thought</i>)"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:110
-msgid "Oh, forget about tradition! We don't have time for that!"
+msgid "...yes? Because why?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:116
-msgid "Hey Karl, can you please stop following me so closely?"
+#: A_New_Order/macros/conversations_support.cfg:111
+msgid "You know what? Never mind. Now that I think about it, Majid, maybe you're right... maybe age <i>is</i> just a number, and I've been making too big of a deal about it..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:112
+msgid "I mean, that's not--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:113
+msgid "Yeah, yeah, I know, you were the one who brought up ages in the first place, but, I mean... look, I'm sorry for calling you “old”, okay?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:114
+msgid "...you never actually called me “old”, though...? I mean... ah, never mind, she's run off... what a strange girl..."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:117
-msgid "It is my duty to guard you, Miss Karen."
+msgid "(<i>sighs</i>)"
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:118
+msgid "You know, Majid, we're actually pretty similar, both being rejected by members of the royal family like this..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:119
+msgid "Hey, don't take that defeatist attitude! This is merely a temporary setback!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:120
+msgid "No, you know what, it's fine. I've accepted it. And besides, I've found someone else I'm more interested in now, anyways."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:121
+msgid "You have? Pray tell, just who is this lucky fellow, anyways?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:122
+msgid "Oh, don't be stupid, it's you, Majid!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:123
+msgid "...M-me?! Karen, I... do you really mean me?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:124
+msgid "Yes, you! Why do you sound so surprised? You're handsome, you're educated, and you've always been there for me when I needed it."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:125
+msgid "Well, yes, but..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:126
+msgid "Hey, I wasn't done yet! In fact, I was actually about to turn to a question... Majid Yahyazad, of the Dunefolk... will you marry me?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:127
+msgid "Oh, so in Wesnothian society, the woman proposes marriage to the man? Very interesting, you see, in Dunefolk society, we have this tradition where--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:128
+msgid "Oh, forget about tradition! We don't have time for that! Majid, look, I love you. I may have loved Gawen, but now I see that his heart belongs solely to Lorin. And you know what? That's fine with me. If he's happier with her, then I'm happy, too. But, I mean, with the way the war is going at this point..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:129
+msgid "...you're worried that you might not have the time if you wait much longer?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:130
+msgid "Well, yes, but... well, look. I've asked you to marry me. Now are you going to say yes or not?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:131
+msgid "Look, Karen, you're a cute kid, ok? But, I mean, I'm old enough to be your father..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:132
+msgid "I thought we agreed previously that age was just a number, though?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:133
+msgid "That was just you misinterpreting something you thought I said, but..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:134
+msgid "“Misinterpreting”?! I thought--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:135
+msgid "Hey! I wasn't done yet. It may have originally been a misinterpretation that we never agreed to, but you know what, you're right. Age <i>is</i> just a number. And now that I think about it some more, I see that you've actually grown into a fine young woman while I wasn't paying attention."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:136
+msgid "See? I told you I had!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:137
+msgid "I mean... well, anyways, I don't want to spoil this moment any further. Karen, Ruvio's daughter, I will gladly accept, and take you as one of my wives."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:138
+msgid "Wait... “wives”?! You mean you're already married?! You never mentioned that before! Not to me, not to Lorin, not to anyone!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:139
+msgid "I didn't? My apologies if I misled you."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:140
+msgid "I mean, I just kind of assumed that you <i>HAD</i> to be single, what with the way you were pursuing Lorin..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:141
+msgid "Ah, I didn't realize that you weren't familiar with the Dunefolk practice of taking multiple wives. You see, it's actually quite the logical practice; since I can't be home with them all the time, they often need someone else to keep them entertained, and who better to do so than other women?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:142
+msgid "Wait. You mean they--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:143
+msgid "Oh yes, they have great fun with one another. In fact, I think you'll get along just smashingly with them, come to think of it."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:144
+msgid "B-but..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:145
+msgid "But what? You proposed marriage to me, did you not? And now I have accepted. So what precisely is the issue here?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:146
+msgid "I only wanted a husband out of my proposal, not any wives as well!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:147
+msgid "Well, it's up to you. If such an arrangement would be uncomfortable for you, I could just as easily decline instead. But, I think I'd really rather accept, though, now that I've thought about it some."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:148
+msgid "Well... ok, so just how many other wives do you have already?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:149
+msgid "Just the two so far, Raya and Ni'wa. You'd be the third. It really isn't that many if you compare that against the chieftains of some of the other Ostans, why just take that Arsham Mahouri for instance, he--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:150
+msgid "OK, I don't care about this Arsham Mahouri guy; I just care about you, and your... family that I'll be joining. Tell me more about this Raya and Ni'wa?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:151
+msgid "Oh, you'll absolutely love Raya!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:157
+msgid "Hey Karl, can you please stop following me so closely?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:158
+msgid "It is my duty to guard you, Miss Karen."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:159
 msgid "Sure, but, like, can't you at least guard me from over <i>THERE</i> instead?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:160
+msgid "Your father ordered me to keep a close eye on you, so keep a close eye on you I shall."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:161
+msgid "I still don't think that keeping “a close eye” on me means it has to be <i>THAT</i> close, though..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:162
+msgid "Your father pays me a fair sum of gold to keep you safe; it is not my place to go interpreting his orders in a way that could jeopardize my employment. He is no doubt already angry at me for letting you escape my watch so many times..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:163
+msgid "Is he really, or are you just assuming that? I mean, he hasn't fired you yet, and it's been <i>HOW</i> many times now?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:164
+msgid "I've lost count, to be honest..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:165
+msgid "See? Exactly. I think Father actually kind of <i>likes</i> it when I come tagging along with him, personally..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:166
+msgid "Perhaps, although he also would hate for any harm to come to you."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:167
+msgid "I know, I know, but, I mean, no harm has come to me <i>YET</i>, has it? You really don't need to worry so much..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:168
+msgid "People generally don't come to harm, until they do. It only takes once for disaster to occur..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:169
+msgid "Yeah, but, I mean, have you seen me in battle, though? I can handle myself perfectly fine!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:170
+msgid "Nevertheless, I must fulfill my duty."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:171
+msgid "OK, compromise: how about half the distance from the point I suggested you guard me from originally?"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:172
+msgid "One quarter the distance."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:173
+msgid "One third."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:174
+msgid "You drive a hard bargain, Miss Karen! But all right, I guess that will be acceptable..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:175
+msgid "Thanks, Karl! You won't regret this!"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:176
+msgid "(<i>to himself</i>) The things I put up with for this job..."
 msgstr ""
 
 #. [scenario]: id=20_Okladia
@@ -17815,7 +18041,7 @@ msgid "Impossible"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:63
+#: A_New_Order/_main.cfg:75
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying barbarians are on the brink of civil war, the seeds of Wesnothian rebellion are kept alive by old legends, while bandits and Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these disparate factions against a common foe?\n"
 "\n"
