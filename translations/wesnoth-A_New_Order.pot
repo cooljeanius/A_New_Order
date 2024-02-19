@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-27 07:02 UTC\n"
+"POT-Creation-Date: 2024-02-19 04:31 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. [event]
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:944
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:955
 #: A_New_Order/_main.cfg:57
 msgid "Akladian Clansman"
 msgstr ""
@@ -835,7 +835,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:255
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:674
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:726
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:736
 msgid "What?"
 msgstr ""
 
@@ -16167,107 +16167,108 @@ msgid "Where is he? He is starting to get on my nerves..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:725
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:735
 msgid "Oops."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:727
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:737
 msgid "It looks like he recruited a lot of units."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:728
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:738
 msgid "Yes indeed. This could be a bit harder than we expected."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:792
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:802
 msgid "My friends will arrive very soon! You are already doomed! Ha ha ha!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:795
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:805
 msgid "Let's try to move a little faster. This traitor's friends may appear at any moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:822
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:832
 msgid "Ha ha ha! You are doomed! I can hear the trumpets of my friends coming to aid me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:861
+#. the "traitors" to which she refers are Akladian Warriors on side 2:
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:872
 msgid "No! More traitors are coming from every side! We cannot hope to deal with all them!"
 msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:946
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:957
 msgid "Run for your life! That milksop cannot possibly lead us to victory!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:960
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:971
 msgid "Poor fellow!"
 msgstr ""
 
 #. [event]
 #. be terser for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:969
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:980
 msgid "He dies an honorable death. You will have to get used to losing units."
 msgstr ""
 
 #. [event]
 #. all other difficulties; have this be more advice-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:972
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:983
 msgid "He dies an honorable death. You cannot let the fear of losing units paralyse you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:983
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:994
 msgid "But he was loyal to our cause though!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:984
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:995
 msgid "Well, I suppose you do have a point there. Feel free to be more careful with our most loyal supporters."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1009
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1020
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during the day, and at night they should be used carefully."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1017
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1028
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during full daylight. Although there may still be some daylight left, night is coming, and when it arrives, they should be used carefully."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1021
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1032
 msgid "Yes! Attack!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty, so don't have Reme say as much:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1036
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1047
 msgid "Ah, he is using Sturmknights. I expect we may have to fight many more of those in the future..."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so make it more hint-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1039
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1050
 msgid "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight at night as they are accustomed to darkness. Counter them by assailing them with Shieldguards during the day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1048
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1059
 msgid "The traitorous ones attack me! Rise up, clansmen of Gaeltin, and drive them back!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1070
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1081
 msgid "See how a true Akladian Lord fights!"
 msgstr ""
 
