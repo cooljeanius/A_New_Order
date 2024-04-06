@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-02 12:18 UTC\n"
+"POT-Creation-Date: 2024-04-06 02:53 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10684,7 +10684,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:212
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:202
-msgid "We'd better get hurrying, Gawen! If we don't make it to the signpost in time, reinforcements could arrive and trap us!"
+msgid "We'd better get hurrying! If we don't make it to the signpost in time, reinforcements could arrive and trap us!"
 msgstr ""
 
 #. [event]
