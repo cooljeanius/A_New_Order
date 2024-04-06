@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-06 02:53 UTC\n"
+"POT-Creation-Date: 2024-04-06 03:02 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -935,6 +935,7 @@ msgstr ""
 #. [event]
 #. [scenario]: id=25_The_Awakening
 #. [scenario]: id=22_Leaving_Okladia
+#. [else]
 #. [scenario]: id=14e_Saorduc_Swamps
 #: A_New_Order/macros/elvish_macros.cfg:224
 #: A_New_Order/macros/ano-20macros.cfg:331
@@ -946,7 +947,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:150
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:158
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:173
-#: A_New_Order/scenarios/27_Orannon.cfg:1436
+#: A_New_Order/scenarios/27_Orannon.cfg:1446
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:16
 msgid "Well..."
 msgstr ""
@@ -4933,13 +4934,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1019
-#: A_New_Order/scenarios/27_Orannon.cfg:1612
+#: A_New_Order/scenarios/27_Orannon.cfg:1624
 msgid "My king, we could really use some help here."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1025
-#: A_New_Order/scenarios/27_Orannon.cfg:1618
+#: A_New_Order/scenarios/27_Orannon.cfg:1630
 msgid "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
 
@@ -12606,94 +12607,99 @@ msgstr ""
 msgid "Are you prepared for a little surprise? Get them boys!"
 msgstr ""
 
+#. [then]
+#: A_New_Order/scenarios/27_Orannon.cfg:1435
+msgid "Gawen, I'm going to destroy this bridge."
+msgstr ""
+
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1431
+#: A_New_Order/scenarios/27_Orannon.cfg:1441
 msgid "Milord, should I destroy this bridge?"
 msgstr ""
 
-#. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1437
+#. [else]
+#: A_New_Order/scenarios/27_Orannon.cfg:1447
 msgid "Yes!"
 msgstr ""
 
-#. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1438
+#. [else]
+#: A_New_Order/scenarios/27_Orannon.cfg:1448
 msgid "No, but I might want a bridge destroyed later..."
 msgstr ""
 
-#. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1439
+#. [else]
+#: A_New_Order/scenarios/27_Orannon.cfg:1449
 msgid "No, we won't be destroying any bridges today."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1498
+#: A_New_Order/scenarios/27_Orannon.cfg:1510
 msgid "Ha, take that!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1503
+#: A_New_Order/scenarios/27_Orannon.cfg:1515
 msgid "OK, I won't this time, but I really think we should destroy some bridges eventually, so I'll keep asking!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1509
+#: A_New_Order/scenarios/27_Orannon.cfg:1521
 msgid "In that case I shall cease asking to do so."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1525
+#: A_New_Order/scenarios/27_Orannon.cfg:1537
 msgid "Let me set up an outpost here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1550
+#: A_New_Order/scenarios/27_Orannon.cfg:1562
 msgid "I really can fight!"
 msgstr ""
 
 #. [event]
 #. "Note for translators: 'But what about IT?' refers to Lorin's child"
-#: A_New_Order/scenarios/27_Orannon.cfg:1552
+#: A_New_Order/scenarios/27_Orannon.cfg:1564
 msgid "Yes, you can fight. But what about IT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1553
+#: A_New_Order/scenarios/27_Orannon.cfg:1565
 msgid "IT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1572
+#: A_New_Order/scenarios/27_Orannon.cfg:1584
 msgid "Aaah! I can't handle this pain!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1573
+#: A_New_Order/scenarios/27_Orannon.cfg:1585
 msgid "What happened? What?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1574
+#: A_New_Order/scenarios/27_Orannon.cfg:1586
 msgid "I told you... she miscarried."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1575
+#: A_New_Order/scenarios/27_Orannon.cfg:1587
 msgid "She WHAT?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1576
+#: A_New_Order/scenarios/27_Orannon.cfg:1588
 msgid "Noooooo!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1581
+#: A_New_Order/scenarios/27_Orannon.cfg:1593
 msgid "I wish Lorin were still here to fight alongside us; we could use her help..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1582
+#: A_New_Order/scenarios/27_Orannon.cfg:1594
 msgid "Trust me, Gawen, it is for the better that she is in the castle right now."
 msgstr ""
 
