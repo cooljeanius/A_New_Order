@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-07 18:52 UTC\n"
+"POT-Creation-Date: 2024-04-07 19:39 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3305,7 +3305,7 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:162
 #: A_New_Order/scenarios/28_Lorin.cfg:227
 #: A_New_Order/scenarios/27_Orannon.cfg:95
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:71
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:72
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:59
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:75
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:66
@@ -3369,7 +3369,7 @@ msgstr ""
 #. [unit]: id=Mithrandil, type=Elvish Lord
 #: A_New_Order/macros/messages.cfg:139
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:53
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:63
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:64
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:50
 msgid "Mithrandil"
 msgstr ""
@@ -3807,7 +3807,7 @@ msgstr ""
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:71
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:29
 #: A_New_Order/scenarios/14b_Bontom.cfg:141
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:44
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:45
 #: A_New_Order/scenarios/30_Final.cfg:64
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:76
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:31
@@ -3906,7 +3906,6 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:884
 #: A_New_Order/scenarios/13_Scouting.cfg:916
 #: A_New_Order/scenarios/13_Scouting.cfg:947
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:266
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:463
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:183
@@ -3941,7 +3940,6 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:885
 #: A_New_Order/scenarios/13_Scouting.cfg:917
 #: A_New_Order/scenarios/13_Scouting.cfg:948
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:267
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:464
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:482
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:184
@@ -4498,7 +4496,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:520
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
 msgid "I don't understand."
 msgstr ""
 
@@ -5476,7 +5474,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:438
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:275
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:287
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:466
 #: A_New_Order/scenarios/14b_Bontom.cfg:656
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:421
@@ -6095,14 +6093,14 @@ msgstr ""
 
 #. [label]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:26
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:39
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:40
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:26
 msgid "Freetown"
 msgstr ""
 
 #. [side]: id=Gwidle Turlin, type=General
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:44
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:55
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:56
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:41
 msgid "Gwidle Turlin"
 msgstr ""
@@ -6304,61 +6302,107 @@ msgid "Spearman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:265
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:263
 msgid "My lord, we know an orcish group attacked a few villages north of here. Huon Ryedric was going to go there to defend the villages, but I thought you might want to use the occasion, you know, to check out our troops before you make any final decisions on which soldiers to choose for our quest."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:273
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:264
+msgid "Alternatively, we also know of an Elvish settlement to the east of here that has sent us a distress signal. It said something about the nearby forest being in danger of burning down. I don't know quite what the story is there, but it should also provide for an opportunity to get in some training as well."
+msgstr ""
+
+#. [event]
+#. a bit of dramatic irony here, for those who know what's to come:
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:266
+msgid "Don't worry too much about which one you choose, as I'm sure we'll be able to get someone else to handle these minor problems, if you can't do so yourself. The forces of Freetown are highly independent, and plenty capable of handling any situations in your absence."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:267
+msgid "Got it."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:269
+msgid "So, which way should we go?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:270
+msgid "Let's go north, to fight the orcs."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:271
+msgid "Let's go east, to help the elves."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:272
+msgid "Let's just stay here and pick our troops."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:279
+msgid "So, north to fight the orcs, then?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:281
+msgid "So, east to help the elves, then?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:285
 msgid "Yes, I think that's a great idea."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:274
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:286
 msgid "I have to stay here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:276
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:288
 msgid "It is the way of the woman. Don't ask."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:277
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:289
 msgid "I shall remain with her, just in case it is something serious."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:292
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:304
 msgid "Karen, you will stay here, with your mother and sisters. It's too dangerous for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:293
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:305
 msgid "Of courrrrrse."
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:302
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:318
 msgid "So, let's choose our eighteen very best, most experienced troops."
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:306
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:322
 msgid "So, let's choose our fifteen best troops."
 msgstr ""
 
 #. [event]
 #. HARD difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:310
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:326
 msgid "So, let's choose twelve troops."
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:314
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:330
 msgid "So, nine troops."
 msgstr ""
 
@@ -10138,7 +10182,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:780
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:158
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:159
 msgid "What do you mean by that?"
 msgstr ""
 
@@ -14012,167 +14056,168 @@ msgid "The winter was just ending when we returned to Freetown. Soldiers were si
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:19
+#. This is all just Gawen being clueless here; he's missing that they're actually still passive-aggressively exchanging stealth insults:
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:20
 msgid "Even Lorin and Karen seemed to finally be getting along. I thought they might have started to like each other. Karen had even promised to show Lorin a few easy exercises to help her to regain the slenderness of her youth."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:25
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:26
 msgid "Rob Roe disappeared one night and no one, not even the outlaws in my army, knew the reasons of Roe's sudden disappearance. Outlaws were startled by the event and many of them refused to follow my orders any more."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:30
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:31
 msgid "Ruvio insisted on leaving all Akladians in our army outside the city, in the forest, but I refused. Of course, the inhabitants of Freetown weren't eager to let Akladians into their city. But there were no serious incidents, much to Ruvio's surprise."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:33
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:34
 msgid "Huon and Mithrandil returned a few days after our arrival. When the time appointed for our next meeting came, nobody questioned my right to be there. Lorin also insisted on participating and, after a short quarrel, Gwidle, the most respected leader of the people of Freetown, agreed."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:147
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:148
 msgid "Greetings and wishes of long life and luck for everyone, even for those who were not invited here and who really should never have entered this city. Mithrandil, you were one who insisted on this gathering, so please, begin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:148
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:149
 msgid "Yes, indeed. The news brought here by Ruvio and this brave young man is quite important."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:149
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:150
 msgid "But why? All they brought back is a name: Grekulak.  What's so important about that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:150
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:151
 msgid "I think everyone here knows the legends about Wesnoth's past. When our kingdom was powerful and rich. You may also recall the old story about the invasion by evil forces from the east, led by the evil lich, Mal-Ravanal."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:151
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:152
 msgid "What? Of course not, that would be a legend from WESNOTHIAN culture.  Is this yet another fairy tale?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:152
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:153
 msgid "During this invasion, large parts of Wesnoth were turned into barren wasteland. The swamps of Saorduc were vast, fertile lands a mere three hundred years ago. But this was before a civil war that left Wesnoth divided."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:153
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:154
 msgid "Yes, we know this story. That's why the Akladians were able to conquer us... we were splintered. They could never have been succesful had we been united."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:154
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:155
 msgid "We won because this land was given to us by God. That's why he divided you and made you forget how to handle swords, why you became weak. When we came, mercenaries were doing all the fighting for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:155
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
 msgid "So, as I was saying before you were so kind as to interrupt me, some time ago a new leader appeared amongst the orcs. His name was Grekulak. He united orcish tribes, one by one, using treachery and gold.  Right now he rules more than a third of the orcish hordes."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:157
 msgid "Wait, wait. You were talking about Mal-Ravanal. What does he have to do with Grekulak?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:157
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:158
 msgid "We believe that Grekulak is one of the last surviving adepts of Mal-Ravanal. We suspected that he was behind the sudden alliance of orcs and Akladians. Now we are certain. We are also sure that this orcish invasion is just the beginning."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:159
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
 msgid "I mean you will face a full-scale invasion soon. An undead army, orcs, and who-knows-what else. You will need help from the mages."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:161
 msgid "Great. Akladians, orcs, zombies... and we need the help of the mages. I imagine that, being a wise elf and all, you know of course that no mages exist anymore. Maybe a few on the Isle of Alduin, or in besieged Elensefar, but not enough to help us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:161
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:162
 msgid "Actually, I'm pretty sure that Mithrandil is thinking about ONE specific mage. Am I correct?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:162
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:163
 msgid "Yes. Deorien. A white mage, living somewhere in eastern Wesnoth. You should go and find him. I will give you my soldiers and even gold, if you want. This should be all I need to tell you for now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:163
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:164
 msgid "Then this meeting is adjourned. Take the evening to ponder this counsel, and we will re-convene and discuss everything on the morrow."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:175
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:176
 msgid "Great. The green devils advise us to seek the help of those who are a blight on the face of God's world. The MAGES."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:176
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:177
 msgid "You often speak about something you call God, Lorin. Can you tell us more about your God?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:177
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:178
 msgid "He is the force behind the universe. He created the world and is our father. He gave us the world to rule. One of his angels tried to stop us from doing that, deceiving us and trying to imprison us in his garden, but a messiah came from the Hagarthen clan. He told us that God desired us to wait no more..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:178
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:179
 msgid "So we killed that evil angel and his minions to journey west. We fought our way through the deserts and the swamps, fighting with nightmarish creatures, not to mention lizards and green elves. I was raised hearing songs about this epic journey."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:179
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:180
 msgid "Finally, we reached Wesnoth, our people decimated but hardened because it was the wish of God that our weak should perish before we began our holy task. When we came from the east the underling armies were like dust before a wind. We conquered Wesnoth. Well, almost."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:180
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
 msgid "As for mages, they are the main adversaries of God in his fight for the good of the universe, attempting to usurp his powers for themselves. Elves are minions of the fallen angels. They are to be exterminated."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
 msgid "Oh my goodness. Wow. You are not joking, you actually believe all that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
 msgid "Anyway, if we are going to find that mage-trash, we need to know where he is. Any ideas where to find him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
 msgid "Well, we could ask the Oracle. Due to the prophetic nature of her abilities, she may know where to search for Deorien."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
 msgid "The Oracle? The Oracle is a hoax. She knows nothing. She once told me... she... she deceived me. Her prophecy has not been, and cannot be, fullfilled."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
 msgid "The Oracle never deceives anyone. She just looks into the sea of magic and sees everything that may happen. So, she is not saying what MUST, but what MAY happen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
 msgid "It means, if she tells you that you will be the best swimmer in the world, you will be a great swimmer if you put forth the effort. But the prophecy won't be fullfilled if you never get into the water, sit around, and wait. Also, sometimes people misinterpret her words."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:189
 msgid "No. No. That's not true. That's... leave me alone."
 msgstr ""
 
