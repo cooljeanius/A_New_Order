@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-07 19:39 UTC\n"
+"POT-Creation-Date: 2024-04-07 19:50 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6412,6 +6412,7 @@ msgid "Raedwood East"
 msgstr ""
 
 #. [part]
+#. TODO: rewrite (will need to form a smooth transition from the updated dialogue I added in S15a):
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:22
 msgid "And so Gawen and his party went to the eastern part of Raedwood."
 msgstr ""
