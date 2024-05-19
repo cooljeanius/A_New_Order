@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-05-15 03:01 UTC\n"
+"POT-Creation-Date: 2024-05-19 05:02 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1642,8 +1642,8 @@ msgstr ""
 #: A_New_Order/macros/ano-14macros.cfg:18
 #: A_New_Order/scenarios/25_The_Awakening.cfg:748
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:599
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:246
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:350
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:283
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:387
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:399
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:428
 #: A_New_Order/scenarios/23_Trapped.cfg:913
@@ -1656,7 +1656,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:1147
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:352
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:540
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:264
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:298
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:256
 msgid "Death of Lady Lorin"
@@ -1664,12 +1664,12 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:270
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:250
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:354
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:287
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:391
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:504
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:356
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:544
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:268
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:302
 msgid "Death of Reme Carrenemoe"
 msgstr ""
 
@@ -4760,7 +4760,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/25_The_Awakening.cfg:736
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:346
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:383
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:152
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:164
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:92
@@ -4772,7 +4772,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:1139
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:243
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:255
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:260
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:294
 msgid "Kill all enemy leaders"
 msgstr ""
 
@@ -8092,10 +8092,17 @@ msgstr ""
 msgid "Unexpected Guests"
 msgstr ""
 
+#. [unit]: id=Reme Carrenemoe, type=Akladian Chieftain
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:101
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:155
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:142
+msgid "Reme Carrenemoe"
+msgstr ""
+
 #. [side]: id=Lady Lorin, type=Akladian Lady
 #. [modify_side]
 #. [unit]: id=Lady Lorin, type=Akladian Lady
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:155
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:192
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:25
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1300
 #: A_New_Order/scenarios/06_Separation.cfg:59
@@ -8108,189 +8115,189 @@ msgstr ""
 
 #. [side]: id=Uruk Maluf, type=Orcish Warrior
 #. [scenario]: id=05_Unexpected_Guests
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:178
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:258
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:215
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:295
 msgid "Uruk Maluf"
 msgstr ""
 
 #. [side]: id=Arlgor Maunarr, type=Orcish Warrior
 #. [scenario]: id=05_Unexpected_Guests
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:201
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:261
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:238
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:298
 msgid "Arlgor Maunarr"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:225
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:262
 msgid "...anyway, this is the territory of my friend, who is loyal to Gawen Hagarthen. He will help us cure our wounded and provide us supplies to continue our journey."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:236
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:273
 msgid "I am not sure whether we have enough gold for this endeavour. I wish we'd gotten more in previous battles, at least 200."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:242
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:279
 msgid "Explore and try to find if Reme's friend is anywhere nearby"
 msgstr ""
 
 #. [event]
 #. discussion between two orcs
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:293
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:330
 msgid "Humans! Kill them all!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:306
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:343
 msgid "No, no, no. We were told only to reconnoiter. We were given specific orders! We should withdraw to get the message back to headquarters. You know, da bosses."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:316
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:353
 msgid "Kill them all! Kill them all! Humans!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:322
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:359
 msgid "(<i>sigh</i>) Sometimes I feel I was born in the wrong time, wrong place, and wrong race."
 msgstr ""
 
 #. [event]
 #. This is a hint as to which orc Lorin should bother interrogating:
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:329
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:366
 msgid "It seems that the orc in the north is a bit more intelligent than the southern one."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:365
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:402
 msgid "Wesnothian Peasant"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:365
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:402
 msgid "We are liberated! Hurray! Wait a moment... those are Akladians. I never thought I would be glad to see them!"
 msgstr ""
 
 #. [event]
 #. some Akladian unit, possibly also Lorin
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:376
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:413
 msgid "My God! What happened here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:378
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:415
 msgid "One thing is for sure... we will find no shelter, no supplies, and none of Reme's friends here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:390
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:427
 msgid "You were a worthy opponent. My ancestors probably would decide to honour you by eating your heart. Now, die!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:397
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:434
 msgid "Wait! I hate when you kill people before I have chance to interrogate them. Again."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:398
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:435
 msgid "'Again?' What do you mean?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:399
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:436
 msgid "I had no time to play with that assassin sent to kill Gawen, don't you remember?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:402
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:439
 msgid "Wait! I hate when you kill people before I have chance to interrogate them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:414
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:451
 msgid "Before I kill you, I want you to tell me everything you know! Why are you here? How come we have not heard about any Orcs?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:415
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:452
 msgid "Kill the humans... good meat."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:426
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:463
 msgid "Sigh. We will get nothing more. The other one was far more intelligent."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:429
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:466
 msgid "Sigh. It seems we will get more from the second Orcish leader. This one is... I mean was... far less intelligent."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:443
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:480
 msgid "Do not kill him! Leave the final blow to me, I have to interrogate him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:453
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:490
 msgid "Before I kill you, I want to ask you a question. Do you prefer to die painlessly or do you want me to think up some nightmarish way for you to die?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:454
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:491
 msgid "Being killed by a human woman is already the most nightmarish way to die I can imagine."
 msgstr ""
 
 #. [event]
 #. Note to translators: A gelding is an animal that has been castrated.
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:457
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:494
 msgid "You are mistaken, my darling. I can prove it to you. I want you only to answer few questions. You said you are here to reconnoiter. Who sent you here? Answer now, or you will end your life as a miserable gelding!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:459
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:496
 msgid "Wait, I will tell you. There is a large army to the north, preparing an assault on your kingdom. We were sent here to find a good path, destroy Castle Raumair and escort an envoy to our headquarters."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:460
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:497
 msgid "Envoy? What envoy?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:461
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:498
 msgid "A human. He hasn't appeared, though, we were waiting for him here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:462
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:499
 msgid "Wait - you were expecting human envoy here? And how did you make your way here through the underling realms?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:463
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:500
 msgid "First question, yes, second, we weren't harassed. I don't know why. We were forbidden to pillage and attack anyone until we came into Vakladia. I know nothing more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:464
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:501
 msgid "Really? That's unfortunate for you. Reme, kill him quickly - I promised him a painless death if he would cooperate."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:472
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:509
 msgid "My lady, it seems that those orcs had some gold with them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:473
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:510
 msgid "So I am still 'my lady' to you? This gold is probably the spoils from the burned homes of your friends. Doesn't that disturb you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:474
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:511
 msgid "I will bury part of the gold within Castle Raumair, along with the heads of the slain orcs. That should be recompense enough for my friends' ghosts. Besides, you shall have more need of the rest than they."
 msgstr ""
 
@@ -16336,11 +16343,6 @@ msgstr ""
 msgid "And now you lie here, defenseless and vulnerable. Your father's death has shown me how tenuous my position is, and how despised you are. Behind your back they call you a mixling, a bastard, a creature not fit to live, let alone to sit on the throne. And as for me... if you die, I would be just the wife of a despised king, stepmother of a hated heir; my death will be all but assured. Had I given birth, I would be your mortal enemy, but I have not. I know there is no love between us, but only together is there any hope..."
 msgstr ""
 
-#. [unit]: id=Reme Carrenemoe, type=Akladian Chieftain
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:155
-msgid "Reme Carrenemoe"
-msgstr ""
-
 #. [unit]: id=Eol Areon, type=Akladian Protector, type=Akladian Shieldguard
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:173
 msgid "Eol Areon"
@@ -16963,136 +16965,136 @@ msgstr ""
 #. [side]: type=Saurian Ambusher, id=Ssumar
 #. [scenario]: id=05_The_Swamp_Things
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:83
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:227
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:261
 msgid "Ssumar"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:234
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:268
 msgid "I have the strangest feeling, as though someone was watching us from the bushes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:235
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:269
 msgid "Humanssss! Leave thessse foressts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:236
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:270
 msgid "We can't! Our enemies are hot on our heels. We only wish to cross your swamp and then you will hear no more from us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:237
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:271
 msgid "Ssswampss you leave now! Hear about you no more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:238
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:272
 msgid "Reme, leave negotiations to me, I am far more experienced. Lizards! You are about to be exterminated! Prepare to meet your destiny!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:239
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:273
 msgid "(<i>To himself</i>) No wonder no one really liked her..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:254
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:288
 msgid "I am not sure whether we have enough gold for this endeavor. I wish we'd gotten more in previous battles, at least 200."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:282
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:324
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:316
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:358
 msgid "Wait! Ssspare my life, for I know sssomething..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:289
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:331
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:323
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:365
 msgid "Interesting. Speak, and maybe I will spare your worthless head, inhuman ungodly beast."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:290
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:332
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:324
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:366
 msgid "The orcss are coming in great numbersss... They are numerousss, they are hiding in the hillss waiting for the right moment to come..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:291
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:333
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:325
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:367
 msgid "What moment?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:292
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:334
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:326
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:368
 msgid "What moment I do not know, but I know that they are expecting a human envoy."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:293
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:335
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:327
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:369
 msgid "Human envoy? That's impossible."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:294
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:336
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:328
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:370
 msgid "If it isss impossssible, then they will wait a long time... will you let me live now?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:295
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:337
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:329
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:371
 msgid "Hide in your quagmire, lizard thing."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:302
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:344
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:336
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:378
 msgid "We already know everything we need to know. Your friend had told us about a great army of orcs, what else you could possibly know?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:303
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:345
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:337
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:379
 msgid "I know where we hide the gold. Humanss, you love gold, will you ssave my life if I show you?"
 msgstr ""
 
 #. [else]
 #. Lorin is mad that she is starting to pick up saurian speech patterns:
 #. Lorin is mad that she is starting to pick up saurian speech patterns:
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:305
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:347
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:339
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:381
 msgid "Seems a fair deal. Show usss... blast it... show us the gold and you may leave."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:311
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:353
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:345
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:387
 msgid "You have resssssieved $gold_amt gold piesssses."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:360
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:394
 msgid "My lady, we have found some gold Saurians were hiding. They probably earned it by robbing the humans living nearby."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:361
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:395
 msgid "Oh, so I am still 'my lady' to you? Good. We may have use for the gold in future."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:362
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:396
 msgid "I really don't know what 'we' you have in mind."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:368
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:402
 msgid "You have received $end_gold_amt gold pieces."
 msgstr ""
 
