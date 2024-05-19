@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-05-19 06:24 UTC\n"
+"POT-Creation-Date: 2024-05-19 06:53 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1684,42 +1684,42 @@ msgid "Cowardly escape of Gawen Hagarthen"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:402
+#: A_New_Order/macros/ano-01_06macros.cfg:414
 msgid "I can't just run away. I don't want to. I would prefer to die here, fighting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:423
+#: A_New_Order/macros/ano-01_06macros.cfg:435
 msgid "Reme, you have to take care of Lorin! She went the other way"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:426
+#: A_New_Order/macros/ano-01_06macros.cfg:438
 msgid "Take care, Reme Carrenemoe."
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:427
+#: A_New_Order/macros/ano-01_06macros.cfg:439
 msgid "Respect, my king. Follow us as soon as possible!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:428
+#: A_New_Order/macros/ano-01_06macros.cfg:440
 msgid "Yes... of course. I'm afraid that means... never."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:461
+#: A_New_Order/macros/ano-01_06macros.cfg:473
 msgid "Mother, you have to go the other way. Reme is waiting for you there!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:464
+#: A_New_Order/macros/ano-01_06macros.cfg:476
 msgid "No! I won't leave you! I don't want to! Let's die together!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:465
+#: A_New_Order/macros/ano-01_06macros.cfg:477
 msgid "Take her to safety, men!"
 msgstr ""
 
@@ -1984,7 +1984,7 @@ msgstr ""
 #: A_New_Order/scenarios/23_Trapped.cfg:667
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:679
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:346
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2235
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2261
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:370
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:468
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:617
@@ -8109,7 +8109,7 @@ msgstr ""
 #. [unit]: id=Lady Lorin, type=Akladian Lady
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:192
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:25
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1300
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1326
 #: A_New_Order/scenarios/06_Separation.cfg:59
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:138
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:32
@@ -11623,482 +11623,482 @@ msgstr ""
 
 #. [option]
 #. debug option; completes sentence starting with "Set scenario status to...":
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:537
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:543
 msgid "Uri personally attacking Barnon."
 msgstr ""
 
 #. [option]
 #. debug option; completes sentence starting with "Set scenario status to...":
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:547
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:559
 msgid "moving on to Unexpected Guests."
 msgstr ""
 
 #. [option]
 #. debug option; completes sentence starting with "Set scenario status to...":
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:571
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:590
 msgid "moving on to The Swamp Things."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:612
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:638
 msgid "It is a dark day indeed, to see Akladian lords siding with an underling bastard child. What will your ancestors say about this, Uri?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:613
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:639
 msgid "Hoyre, you have always been my friend. I would never fight against you. Rather, I join with you to kill that mixling!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:620
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:646
 msgid "I've never intended to fight against you, Hoyre. Let our swords instead cut that underling's head off! And slay that witch, his step-mother, as well!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:631
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:663
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1382
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2177
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:657
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:689
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1408
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2203
 msgid "Reach either the eastern or western signpost with both Lorin AND Reme. After that, hold on at least $ano_howmanyturns turns before the honorable death of Gawen Hagarthen."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:649
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:675
 msgid "We spent so many days drinking and fighting together. Now you come with an army against me? What about our plans, Bor?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:650
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:676
 msgid "Our plans haven't changed, Hoyre. You were and are my friend. I only came here with the underling so we could trap him. I am with you!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:655
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:681
 msgid "Noble Lords, count on me too! Death to that scraggy mixling, that witch and all the traitors who support them against our own kin! God with us! Kill them all, let us eat their hearts!"
 msgstr ""
 
 #. [print]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:712
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:738
 msgid "With this turn, you have met the survival requirement!"
 msgstr ""
 
 #. [print]
 #. FIXME: plurals; see: https://github.com/wesnoth/wesnoth/issues/1135
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:720
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:746
 msgid "Bonus for resisting $ano_tmp| turns above requirement"
 msgstr ""
 
 #. [print]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:730
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:756
 msgid "Resisted $ano_barnon_turns| turns."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:747
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:773
 msgid "Gawen, you really ought to be getting us out of here..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:751
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:777
 msgid "I thought I told my men to evacuate my step-mother, yet she remains on the battlefield... how stubborn..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:755
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:781
 msgid "Wait a second, something odd seems to be happening here..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:758
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:784
 msgid "At this moment, Gawen remembered what he was trying to do."
 msgstr ""
 
 #. [event]: id=Uri_gets_impatient
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:871
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:897
 msgid "This is taking too long. Men, gather me an escort, for I shall be taking this battle to the mixling myself!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:895
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:921
 msgid "To Barnon!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:898
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:924
 msgid "You can't stay holed up there forever, Gawen!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:933
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:959
 msgid "The mixling resists my attack! Men, join me!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1007
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1127
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1033
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1153
 msgid "You'd better watch out, Gawen, because I've got more where that came from!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1016
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1136
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1042
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1162
 msgid "I told you I had more guards!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1053
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1079
 msgid "Men, join me in my attack!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1165
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1191
 msgid "Your city has fallen, Gawen! Surrender now, and I promise you that we won't torture you <small>(as much)</small> before killing you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1166
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1192
 msgid "Never!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1178
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1204
 msgid "I tire of this. Men, the task now returns to you to kill that scraggy mixling!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1275
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1301
 msgid "I hope both Reme and Lorin have made it... Aaargh!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1285
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1311
 msgid "I think we killed him, my lord!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1287
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1313
 msgid "You 'think'!? Where is his body? Search for it, fools, I want to be sure!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1364
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1390
 msgid "...well, now that Gawen thinks he's won, there's no need to keep up this farce, is there, Bor?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1371
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2166
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1397
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2192
 msgid "Indeed, Uri, there isn't! Let our swords instead cut that underling's head off! And slay that witch, his step-mother, as well!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1387
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1413
 msgid "Using debug mode to kill all the enemies is cheating!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1389
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1415
 msgid "DEBUG_MODE is defined; that means you probably cheated to kill all the enemies!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1392
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1418
 msgid "Despite the incredible odds stacked against him, Gawen somehow managed to defeat all of his enemies at Barnon."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1393
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1419
 msgid "However, this meant that he never managed to unite the warring factions of Wesnoth..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1395
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1421
 msgid "This is an early end to the campaign. If you would like to see the rest of it, please replay this scenario and let Gawen be defeated as he is supposed to be."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1396
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1422
 msgid "For now, though, we shall skip ahead to the campaign wrap-up."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1439
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1465
 msgid "If this campaign were continuing normally from here, Lorin would receive a bonus of $bonus_amt|g per each turn above the minimum of $ano_howmanyturns extra turns: $ano_barnon_turns"
 msgstr ""
 
 #. [event]
 #. TODO: consider rewording to make it clearer what the last two variables are:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1442
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1468
 msgid "Gawen's sacrifice successfully bought Lorin more time to escape! Thus, she gets a bonus for his resistance: Lorin receives $bonus_amt|g per each turn above $ano_howmanyturns: $ano_barnon_turns"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1476
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1502
 msgid "Oh no! Fresh enemy reinforcements have arrived, Reme, and you have no chance to escape! I can't hold them!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1482
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1508
 msgid "Oh no! Fresh enemy reinforcements have arrived, Lorin, and you have no chance to escape! I can't hold them!"
 msgstr ""
 
 #. [event]
 #. This in fact should be EXTREMELY hard. In fact, it ought to be impossible, as the turn limit becomes unlimited after Reme and Lorin escape:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1488
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1514
 msgid "After the end of the day king's forces were defeated; however, no one could find the body of Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1555
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1576
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1581
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1602
 msgid "Argh! I am wounded!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1556
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1577
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1582
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1603
 msgid "They got Hoyre! My friend! You will be avenged!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1557
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1583
 msgid "I am alive, but I must run away! They try to kill me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1558
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1584
 msgid "Run away? You are an Akladian Lord, stay and fight!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1559
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1585
 msgid "Fortunately I have a hideout here..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1563
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1589
 msgid "Where is he? He must have hid somewhere!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1578
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1604
 msgid "No, he is not dead, he is just heavily wounded and has lost consciousness!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1579
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1605
 msgid "How did you manage to kill Hoyre? This shouldn't happen... Hoyre was supposed to run away when approached. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. Bor Cryne shouldn't die either way, whether debug mode is on or not, so the fact that we recognize debug mode specially here is just an easter egg:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1595
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1648
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1621
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1674
 msgid "Using debug mode to kill Bor Cryne is cheating!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1597
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1623
 msgid "It appears that debug mode either is on, or has been on in the past, so it's not clear if you're cheating to kill Bor Cryne or not... better restart just to be sure!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1600
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1626
 msgid "How did you manage to kill Bor Cryne? This shouldn't happen... it means the level is too easy. Stop what you are doing and contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. This ought to be impossible, but just in case:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1629
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1655
 msgid "How did Hoyre manage to kill Bor Cryne? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1650
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1676
 msgid "It appears that debug mode either is on, or has been on in the past, so it's not clear if you're cheating to cause Bor Cryne to die or not... better restart just to be sure!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1653
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1679
 msgid "How did Bor Cryne manage to die? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. Uri van Roe shouldn't die either way, whether debug mode is on or not, so the fact that we recognize debug mode specially here is just an easter egg:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1668
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1721
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1694
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1747
 msgid "Using debug mode to kill Uri van Roe is cheating!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1670
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1696
 msgid "It appears that debug mode either is on, or has been on in the past, so it's not clear if you're cheating to kill Uri van Roe or not... better restart just to be sure!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1673
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1699
 msgid "How did you manage to kill Uri van Roe? This shouldn't happen... it means the level is too easy. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. This ought to be impossible, but just in case:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1702
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1728
 msgid "How did Hoyre manage to kill Uri van Roe? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1723
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1749
 msgid "It appears that debug mode either is on, or has been on in the past, so it's not clear if you're cheating to cause Uri van Roe to die or not... better restart just to be sure!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1726
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1752
 msgid "How did Uri van Roe manage to die? This shouldn't happen... it means something went wrong. Contact the maintainers with your savegame and replay for review!"
 msgstr ""
 
 #. [event]
 #. unused:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1744
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1770
 msgid "Ah! He's coming for me! Time to use my reserves!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1799
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1825
 msgid "Ah! He's coming for me! What happened to my reserves?!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1808
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1974
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1834
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2000
 msgid "My lord, we really should try to escape, this battle is impossible to win!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1814
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1840
 msgid "Here are my reserves!"
 msgstr ""
 
 #. [event]
 #. unused:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1884
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1910
 msgid "Ha! Come and get some! I have some nasty surprises for you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1967
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1993
 msgid "Ha! Come and get some! I'm more than ready for you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1980
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2006
 msgid "Time for some nasty surprises for you!"
 msgstr ""
 
 #. [event]: id=Hoyre_escapes
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2079
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2105
 msgid "My faithful warriors, it's time to show your loyalty to the clan!"
 msgstr ""
 
 #. [event]: id=Hoyre_escapes
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2116
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2142
 msgid "Do not worry, I will soon be back, with reinforcements!"
 msgstr ""
 
 #. [event]: id=Hoyre_escapes
 #. I'm guessing Bor Cryne is wondering if Hoyre's mother was actually Wesnothian?
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2140
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2166
 msgid "This Hoyre... Sometimes I wonder whether his mother... It seems, Uri, that we will have to finish this on our own."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2159
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2185
 msgid "...well, now that Hoyre's no longer around, there's no need to keep up this farce, is there, Bor?"
 msgstr ""
 
 #. [event]: id=Hoyre_returns
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2208
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2234
 msgid "I'm back with the reinforcements, just as promised!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2234
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2260
 msgid "Ha! It seems Uri left behind some gold here after setting out from this encampment!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2240
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2266
 msgid "Now wait just a minute here! Men, look around and see if they dropped any of their own gold!"
 msgstr ""
 
 #. [event]
 #. Bor Cryne's response here assumes that Uri is still alive (which he ought to be) and said his line:
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2242
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2268
 msgid "Yes, gold for all true Akladians!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2243
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2269
 msgid "Bor Cryne and Uri van Roe have each received $gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2273
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2299
 msgid "yet he is still alive"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2276
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2302
 msgid "pikeneer"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2279
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2305
 msgid "protector"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2282
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2308
 msgid "clansman"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2285
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2311
 msgid "shieldguard"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2288
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2314
 msgid "homeguard"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2291
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2317
 msgid "raider"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2294
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2320
 msgid "light infantryman"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2297
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2324
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2323
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2350
 msgid "warrior"
 msgstr ""
 
 #. [event]
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2300
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2326
 msgid "fastfoot"
 msgstr ""
 
@@ -12106,9 +12106,9 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2303
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2306
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2309
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2329
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2332
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2335
 msgid "underling"
 msgstr ""
 
@@ -12116,31 +12116,31 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2312
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2316
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2320
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2338
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2342
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2346
 msgid "witch, his stepmother"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2313
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2317
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2321
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2339
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2343
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2347
 msgid "yet she is still alive"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2330
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2356
 msgid "This underling has incredible luck!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2331
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2357
 msgid "What do you mean, Bor?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2332
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2358
 msgid "I don't know how to explain this. But... For example, I was so sure our warriors will kill that $tmp, $tmpg|!"
 msgstr ""
 
