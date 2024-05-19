@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-05-19 05:02 UTC\n"
+"POT-Creation-Date: 2024-05-19 06:24 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. [event]
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:958
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:960
 #: A_New_Order/_main.cfg:57
 msgid "Akladian Clansman"
 msgstr ""
@@ -838,7 +838,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:264
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:676
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:739
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:741
 msgid "What?"
 msgstr ""
 
@@ -1578,67 +1578,72 @@ msgstr ""
 msgid "You fool! He is a mixling, he can't be our king!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:214
+#. [event]
+#: A_New_Order/macros/ano-01_06macros.cfg:220
+msgid "Please, feel free to use any villages I capture, my king! I have no plans for them myself!"
+msgstr ""
+
+#: A_New_Order/macros/ano-01_06macros.cfg:227
 msgid "No! That's impossible! You will pay for that, treacherous dogs! Your sons at Vattin are as good as dead!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:215
+#: A_New_Order/macros/ano-01_06macros.cfg:228
 msgid "You really thought I would send my son to Vattin? You are so easy to fool! That boy at Vattin is not of my blood. Now, prepare to go straight to hell."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:216
+#: A_New_Order/macros/ano-01_06macros.cfg:229
 msgid "This isn't a total surprise to me. My king, we have to escape."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:217
+#: A_New_Order/macros/ano-01_06macros.cfg:230
 msgid "How?"
 msgstr ""
 
 #. this was previously part of Reme's previous string, but I split it off to make the player pay more attention:
-#: A_New_Order/macros/ano-01_06macros.cfg:219
+#: A_New_Order/macros/ano-01_06macros.cfg:232
 msgid "We have two ways to out of this trap: there is one way to the west..."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:233
+#: A_New_Order/macros/ano-01_06macros.cfg:246
 msgid "...and another way to the east."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:247
+#: A_New_Order/macros/ano-01_06macros.cfg:260
 msgid "Which one is better?"
 msgstr ""
 
 #. the "silver saddle" here was golden previously, but I didn't want players getting confused with gold as in the currency, and plus "silver" gets us an alliteration:
-#: A_New_Order/macros/ano-01_06macros.cfg:249
+#: A_New_Order/macros/ano-01_06macros.cfg:262
 msgid "There is no difference, really. We can use either to reach Vattin. The eastern one leads amidst swamps and forests, while the western one leads through the hills and grasslands. God, I swear to sacrifice a horse if you will help us survive this. A whole, beautiful horse. And I will add a silver saddle!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:250
+#: A_New_Order/macros/ano-01_06macros.cfg:263
 msgid "Reme, take my step-mother and protect her. I will stay here to guard your rear during withdrawal."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:251
+#: A_New_Order/macros/ano-01_06macros.cfg:264
 msgid "No! That's suicide! I won't let you!"
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:252
+#: A_New_Order/macros/ano-01_06macros.cfg:265
 msgid "Reme, take her and go. That is an order. And this is not suicide; I will follow you as soon as possible."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:253
+#: A_New_Order/macros/ano-01_06macros.cfg:266
 msgid "I can't. I won't. I won't leave you, my lord."
 msgstr ""
 
-#: A_New_Order/macros/ano-01_06macros.cfg:254
+#: A_New_Order/macros/ano-01_06macros.cfg:267
 msgid "That's an order! Reme, if I run from a fight, who will respect me? I am not suicidal, believe me. And you must live; I order you to escort Lady Lorin safely out of this mess. And make sure to bring some loyal guards with you, too!"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/macros/ano-01_06macros.cfg:260
+#: A_New_Order/macros/ano-01_06macros.cfg:273
 msgid "Any unit which reaches either signpost will be evacuated and join Lorin and Reme's party. Gawen will be refunded the cost of evacuated loyal units. Units not recalled will be lost. Units that do not escape will also be lost. Gawen must not escape, or he would be considered an unworthy coward by his soldiers. Lorin will get a bonus applied to her own pool of gold for each turn Gawen resists beyond the required limit. Note that Lorin's gold is separate from Gawen's, so she will not be able to access any gold that he has left over after this scenario. Thus, it is better if Gawen spends all gold available to him now."
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:266
+#: A_New_Order/macros/ano-01_06macros.cfg:279
 #: A_New_Order/macros/ano-14macros.cfg:18
 #: A_New_Order/scenarios/25_The_Awakening.cfg:748
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:599
@@ -1663,7 +1668,7 @@ msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:270
+#: A_New_Order/macros/ano-01_06macros.cfg:283
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:287
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:391
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:504
@@ -1674,47 +1679,47 @@ msgid "Death of Reme Carrenemoe"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/macros/ano-01_06macros.cfg:274
+#: A_New_Order/macros/ano-01_06macros.cfg:287
 msgid "Cowardly escape of Gawen Hagarthen"
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:389
+#: A_New_Order/macros/ano-01_06macros.cfg:402
 msgid "I can't just run away. I don't want to. I would prefer to die here, fighting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:410
+#: A_New_Order/macros/ano-01_06macros.cfg:423
 msgid "Reme, you have to take care of Lorin! She went the other way"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:413
+#: A_New_Order/macros/ano-01_06macros.cfg:426
 msgid "Take care, Reme Carrenemoe."
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:414
+#: A_New_Order/macros/ano-01_06macros.cfg:427
 msgid "Respect, my king. Follow us as soon as possible!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:415
+#: A_New_Order/macros/ano-01_06macros.cfg:428
 msgid "Yes... of course. I'm afraid that means... never."
 msgstr ""
 
 #. [then]
-#: A_New_Order/macros/ano-01_06macros.cfg:448
+#: A_New_Order/macros/ano-01_06macros.cfg:461
 msgid "Mother, you have to go the other way. Reme is waiting for you there!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:451
+#: A_New_Order/macros/ano-01_06macros.cfg:464
 msgid "No! I won't leave you! I don't want to! Let's die together!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/macros/ano-01_06macros.cfg:452
+#: A_New_Order/macros/ano-01_06macros.cfg:465
 msgid "Take her to safety, men!"
 msgstr ""
 
@@ -16091,108 +16096,108 @@ msgid "Where is he? He is starting to get on my nerves..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:738
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:740
 msgid "Oops."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:740
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:742
 msgid "It looks like he recruited a lot of units."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:741
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:743
 msgid "Yes indeed. This could be a bit harder than we expected."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:805
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:807
 msgid "My friends will arrive very soon! You are already doomed! Ha ha ha!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:808
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:810
 msgid "Let's try to move a little faster. This traitor's friends may appear at any moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:835
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:837
 msgid "Ha ha ha! You are doomed! I can hear the trumpets of my friends coming to aid me!"
 msgstr ""
 
 #. [event]
 #. the "traitors" to which she refers are Akladian Warriors on side 2:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:875
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:877
 msgid "No! More traitors are coming from every side! We cannot hope to deal with all them!"
 msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:960
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:962
 msgid "Run for your life! That milksop cannot possibly lead us to victory!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:974
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:976
 msgid "Poor fellow!"
 msgstr ""
 
 #. [event]
 #. be terser for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:983
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:985
 msgid "He dies an honorable death. You will have to get used to losing units."
 msgstr ""
 
 #. [event]
 #. all other difficulties; have this be more advice-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:986
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:988
 msgid "He dies an honorable death. You cannot let the fear of losing units paralyse you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1014
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1016
 msgid "But he was loyal to our cause though!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1015
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1017
 msgid "Well, I suppose you do have a point there. Feel free to be more careful with our most loyal supporters."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1040
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1042
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during the day, and at night they should be used carefully."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1048
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1050
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during full daylight. Although there may still be some daylight left, night is coming, and when it arrives, they should be used carefully."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1052
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1054
 msgid "Yes! Attack!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty, so don't have Reme say as much:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1067
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1069
 msgid "Ah, he is using Sturmknights. I expect we may have to fight many more of those in the future..."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so make it more hint-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1070
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1072
 msgid "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight at night as they are accustomed to darkness. Counter them by assailing them with Shieldguards during the day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1079
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1081
 msgid "The traitorous ones attack me! Rise up, clansmen of Gaeltin, and drive them back!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1101
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1103
 msgid "See how a true Akladian Lord fights!"
 msgstr ""
 
