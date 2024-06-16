@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-06-07 01:33 UTC\n"
+"POT-Creation-Date: 2024-06-16 04:39 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -729,37 +729,38 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. Kyobaine, female Elf
-#: A_New_Order/macros/elvish_macros.cfg:11
+#: A_New_Order/macros/elvish_macros.cfg:22
+#: A_New_Order/macros/elvish_macros.cfg:30
 msgid "I will never again see our beautiful forests..."
 msgstr ""
 
 #. [message]: speaker=unit
 #. Milildur, male Elf
-#: A_New_Order/macros/elvish_macros.cfg:23
+#: A_New_Order/macros/elvish_macros.cfg:44
 msgid "See how Elves die; without fear!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. Elorain, female Elf
-#: A_New_Order/macros/elvish_macros.cfg:35
+#: A_New_Order/macros/elvish_macros.cfg:56
 msgid "Now, I will meet the best marksman... Death never misses."
 msgstr ""
 
 #. [message]: speaker=Elorain
 #. See scenarios/11_Council_in_Freetown for where these randomly-chosen phrases come from:
-#: A_New_Order/macros/elvish_macros.cfg:51
+#: A_New_Order/macros/elvish_macros.cfg:72
 msgid "Ha! $ano_elorain_$random "
 msgstr ""
 
 #. [message]: speaker=Milildur
 #. See scenarios/11_Council_in_Freetown for where the randomly-chosen phrases come from:
-#: A_New_Order/macros/elvish_macros.cfg:64
+#: A_New_Order/macros/elvish_macros.cfg:85
 msgid "Ha! $ano_milildur_$random "
 msgstr ""
 
 #. [event]
 #. [unit]: type=Elvish Captain, id=Milildur
-#: A_New_Order/macros/elvish_macros.cfg:78
+#: A_New_Order/macros/elvish_macros.cfg:99
 #: A_New_Order/macros/messages.cfg:147
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:371
@@ -768,14 +769,14 @@ msgstr ""
 
 #. [event]
 #. The message 'I fought with you for so many battles...' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
-#: A_New_Order/macros/elvish_macros.cfg:80
-#: A_New_Order/macros/elvish_macros.cfg:97
+#: A_New_Order/macros/elvish_macros.cfg:101
+#: A_New_Order/macros/elvish_macros.cfg:118
 msgid "My lord, I fought with you for so many battles... I can accept money from you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 
 #. [event]
 #. [unit]: type=Elvish Ranger, id=Elorain
-#: A_New_Order/macros/elvish_macros.cfg:97
+#: A_New_Order/macros/elvish_macros.cfg:118
 #: A_New_Order/macros/messages.cfg:144
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
@@ -787,7 +788,7 @@ msgstr ""
 
 #. [event]
 #. a more phonetic spelling of "Ahem" (noise made when clearing one's throat):
-#: A_New_Order/macros/elvish_macros.cfg:133
+#: A_New_Order/macros/elvish_macros.cfg:154
 msgid "Ekhem."
 msgstr ""
 
@@ -800,22 +801,22 @@ msgstr ""
 #. [unit]: type=Elvish Scout, id=Kyobaine
 #. [unit]: type=Elvish Fighter, id=Kyobaine
 #. [unit]: type=Elvish Archer, id=Kyobaine
-#: A_New_Order/macros/elvish_macros.cfg:134
-#: A_New_Order/macros/elvish_macros.cfg:139
-#: A_New_Order/macros/elvish_macros.cfg:142
-#: A_New_Order/macros/elvish_macros.cfg:146
-#: A_New_Order/macros/elvish_macros.cfg:177
-#: A_New_Order/macros/elvish_macros.cfg:166
-#: A_New_Order/macros/elvish_macros.cfg:207
-#: A_New_Order/macros/elvish_macros.cfg:211
-#: A_New_Order/macros/elvish_macros.cfg:216
-#: A_New_Order/macros/elvish_macros.cfg:220
-#: A_New_Order/macros/elvish_macros.cfg:197
-#: A_New_Order/macros/elvish_macros.cfg:230
-#: A_New_Order/macros/elvish_macros.cfg:314
-#: A_New_Order/macros/elvish_macros.cfg:316
-#: A_New_Order/macros/elvish_macros.cfg:319
-#: A_New_Order/macros/elvish_macros.cfg:329
+#: A_New_Order/macros/elvish_macros.cfg:155
+#: A_New_Order/macros/elvish_macros.cfg:160
+#: A_New_Order/macros/elvish_macros.cfg:163
+#: A_New_Order/macros/elvish_macros.cfg:167
+#: A_New_Order/macros/elvish_macros.cfg:198
+#: A_New_Order/macros/elvish_macros.cfg:187
+#: A_New_Order/macros/elvish_macros.cfg:228
+#: A_New_Order/macros/elvish_macros.cfg:232
+#: A_New_Order/macros/elvish_macros.cfg:237
+#: A_New_Order/macros/elvish_macros.cfg:241
+#: A_New_Order/macros/elvish_macros.cfg:218
+#: A_New_Order/macros/elvish_macros.cfg:251
+#: A_New_Order/macros/elvish_macros.cfg:335
+#: A_New_Order/macros/elvish_macros.cfg:337
+#: A_New_Order/macros/elvish_macros.cfg:340
+#: A_New_Order/macros/elvish_macros.cfg:350
 #: A_New_Order/macros/messages.cfg:161
 #: A_New_Order/macros/messages.cfg:164
 #: A_New_Order/macros/messages.cfg:174
@@ -834,8 +835,8 @@ msgstr ""
 #. [event]
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:134
-#: A_New_Order/macros/elvish_macros.cfg:264
+#: A_New_Order/macros/elvish_macros.cfg:155
+#: A_New_Order/macros/elvish_macros.cfg:285
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:676
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:741
@@ -844,94 +845,94 @@ msgstr ""
 
 #. [event]
 #. Gawen is speaking to Kyobaine, an elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:137
+#: A_New_Order/macros/elvish_macros.cfg:158
 msgid "Well, you fought with me so many battles..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:139
+#: A_New_Order/macros/elvish_macros.cfg:160
 msgid "...Aaand?"
 msgstr ""
 
 #. [event]
 #. again, see previously:
-#: A_New_Order/macros/elvish_macros.cfg:141
+#: A_New_Order/macros/elvish_macros.cfg:162
 msgid "Well, you know, I thought that I should no longer treat you like a hired soldier..."
 msgstr ""
 
 #. [event]
 #. "ask me out" as in, on a date:
-#: A_New_Order/macros/elvish_macros.cfg:144
+#: A_New_Order/macros/elvish_macros.cfg:165
 msgid "What?!? Are you trying to ask me out or something?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:145
+#: A_New_Order/macros/elvish_macros.cfg:166
 msgid "...Eee?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/elvish_macros.cfg:146
+#: A_New_Order/macros/elvish_macros.cfg:167
 msgid "No offense, but... it's not like I have something against males in general. It's more like I like them less hairy. And less... human. Anything more? No? Good. Let's get back to the business. And don't forget about my 20 gold pieces."
 msgstr ""
 
 #. [event]: id=Kyobaine_post_advance_clothing_banter
 #. Kyobaine advances to Elvish Druid
-#: A_New_Order/macros/elvish_macros.cfg:168
+#: A_New_Order/macros/elvish_macros.cfg:189
 msgid "How on earth I am supposed to walk in these clothes during winter? It's frigging cold!"
 msgstr ""
 
 #. [then]
 #. Gawen speaking to Kyobaine:
-#: A_New_Order/macros/elvish_macros.cfg:176
+#: A_New_Order/macros/elvish_macros.cfg:197
 msgid "But you're wearing snowshoes though."
 msgstr ""
 
 #. [then]
 #. Kyobaine speaking to Gawen:
-#: A_New_Order/macros/elvish_macros.cfg:179
+#: A_New_Order/macros/elvish_macros.cfg:200
 msgid "Do you seriously think that helps with the fact that it's my <b><i>BARE FEET</i></b> I have strapped into them? The holes in their webbing are enormous! The snow gets right through!"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:199
+#: A_New_Order/macros/elvish_macros.cfg:220
 msgid "Oooh, no. I refuse to fight in these conditions, as long as I'm clad as such."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:200
+#: A_New_Order/macros/elvish_macros.cfg:221
 msgid "What do you mean? Your clothes are just fine."
 msgstr ""
 
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
-#: A_New_Order/macros/elvish_macros.cfg:209
+#: A_New_Order/macros/elvish_macros.cfg:230
 msgid "Except for the snowshoes, these are clothes <i>for the spring</i>. The least you can do is to give me a proper cloak. You expect me to fight when I'm shivering and have goosebumps??"
 msgstr ""
 
 #. [then]
 #. [else]
-#: A_New_Order/macros/elvish_macros.cfg:210
-#: A_New_Order/macros/elvish_macros.cfg:219
+#: A_New_Order/macros/elvish_macros.cfg:231
+#: A_New_Order/macros/elvish_macros.cfg:240
 msgid "That's ridiculous."
 msgstr ""
 
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
-#: A_New_Order/macros/elvish_macros.cfg:213
+#: A_New_Order/macros/elvish_macros.cfg:234
 msgid "I couldn't agree more. Call me when you have a new cloak."
 msgstr ""
 
 #. [else]
 #. the old version of Kyobaine's request to Gawen:
-#: A_New_Order/macros/elvish_macros.cfg:218
+#: A_New_Order/macros/elvish_macros.cfg:239
 msgid "<i>For the spring</i>. The least you can do is to give me proper shoes. You expect me to walk in this snow <i>barefoot</i>??"
 msgstr ""
 
 #. [else]
 #. the old version of Kyobaine's request to Gawen:
-#: A_New_Order/macros/elvish_macros.cfg:222
+#: A_New_Order/macros/elvish_macros.cfg:243
 msgid "I couldn't agree more. Call me when you have new shoes."
 msgstr ""
 
@@ -941,7 +942,7 @@ msgstr ""
 #. [scenario]: id=22_Leaving_Okladia
 #. [else]
 #. [scenario]: id=14e_Saorduc_Swamps
-#: A_New_Order/macros/elvish_macros.cfg:226
+#: A_New_Order/macros/elvish_macros.cfg:247
 #: A_New_Order/macros/ano-20macros.cfg:331
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
@@ -957,144 +958,144 @@ msgid "Well..."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:227
+#: A_New_Order/macros/elvish_macros.cfg:248
 msgid "All right, how about I give you 25 gold pieces instead of 20?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:228
+#: A_New_Order/macros/elvish_macros.cfg:249
 msgid "All right, we will wait for the spring."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:230
+#: A_New_Order/macros/elvish_macros.cfg:251
 msgid "You think you can bribe me, an elvish druid, with gold? Oh well. This will allow me to buy better winter clothes."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:231
+#: A_New_Order/macros/elvish_macros.cfg:252
 msgid "Maybe I should act gentlemanly here?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:232
+#: A_New_Order/macros/elvish_macros.cfg:253
 msgid "(Offer to get the clothes for her - longer conversation)"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:233
+#: A_New_Order/macros/elvish_macros.cfg:254
 msgid "(Let her get the clothes herself - end event more quickly)"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:235
+#: A_New_Order/macros/elvish_macros.cfg:256
 msgid "Are you sure you wouldn't prefer it if I went and bought you better winter clothes instead? That way you could stay by a campfire while you wait."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:236
+#: A_New_Order/macros/elvish_macros.cfg:257
 msgid "To be honest, I don't really trust you after you called me out here like this. Someone with judgment like that can hardly be expected to correctly purchase the clothes I require."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:237
+#: A_New_Order/macros/elvish_macros.cfg:258
 msgid "What, do you require them in a particular size or something? What are your measurements?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:238
+#: A_New_Order/macros/elvish_macros.cfg:259
 msgid "My... measurements? What do you mean by that? Do you mean you humans measure yourselves before deciding what clothing to purchase?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:239
+#: A_New_Order/macros/elvish_macros.cfg:260
 msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:240
+#: A_New_Order/macros/elvish_macros.cfg:261
 msgid "Why, we simply wander the woods hugging trees until -"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:241
+#: A_New_Order/macros/elvish_macros.cfg:262
 msgid "Wait, hold up, you literally HUG TREES?!"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:242
+#: A_New_Order/macros/elvish_macros.cfg:263
 msgid "Why yes, of course, haven't you ever tried it?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:243
+#: A_New_Order/macros/elvish_macros.cfg:264
 msgid "Ha, that's hilarious! (*<i>catches breath from laughing</i>*) But, to answer your question, no, I haven't. Akladians raise their children to fear trees, and thus the only interaction we are allowed to have with trees is chopping them down."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:244
+#: A_New_Order/macros/elvish_macros.cfg:265
 msgid "How horrible! You really must try hugging a tree some day, for your own well-being. But, to return to the previous topic, the way we ensure our clothes fit is to wander the woods hugging trees until one lets the vines growing around it return our embrace in a way that feels just right, and then the vines will form new clothes for us based on this experience."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:245
+#: A_New_Order/macros/elvish_macros.cfg:266
 msgid "OK, well, it's winter, so I don't think any of the trees around here have vines that would really feel up to that... Could you please try the human measurement system instead just this one time?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:246
+#: A_New_Order/macros/elvish_macros.cfg:267
 msgid "All right, what measurements do you require? The length of my ears?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:250
+#: A_New_Order/macros/elvish_macros.cfg:271
 msgid "No, it's, ah, er... (*<i>blushes</i>*) ...you know what, maybe it would be better to have one of your fellow females explain this to you... look, there are Lorin and Karen over there; let's go ask one of them."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:251
+#: A_New_Order/macros/elvish_macros.cfg:272
 msgid "Let's ask..."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:252
+#: A_New_Order/macros/elvish_macros.cfg:273
 msgid "person_to_ask^Lorin."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:253
+#: A_New_Order/macros/elvish_macros.cfg:274
 msgid "person_to_ask^Karen."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:255
+#: A_New_Order/macros/elvish_macros.cfg:276
 msgid "No, it's, ah, er... (*<i>blushes</i>*) ...you know what, maybe it would be better to have someone female explain this to you... look, there's Karen over there; let's go ask her."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:259
+#: A_New_Order/macros/elvish_macros.cfg:280
 msgid "Hi, mother, I was just wondering if you could help explain human measurements to Kyobaine here?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:260
+#: A_New_Order/macros/elvish_macros.cfg:281
 msgid "Measurements? You mean like how far I can drive my knife into someone's back?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:261
+#: A_New_Order/macros/elvish_macros.cfg:282
 msgid "No, of course not! I meant for clothing."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:262
+#: A_New_Order/macros/elvish_macros.cfg:283
 msgid "Oh right, THOSE kinds of measurements. I don't remember them myself. I usually let an underling servant take them, and then kill him after he has returned with the clothes, so that he can't go leaking my secrets to anyone else."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. [event]
 #. [scenario]: id=14b_Bontom
-#: A_New_Order/macros/elvish_macros.cfg:263
+#: A_New_Order/macros/elvish_macros.cfg:284
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:316
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:358
 #: A_New_Order/scenarios/14b_Bontom.cfg:76
@@ -1103,100 +1104,100 @@ msgid "..."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:265
+#: A_New_Order/macros/elvish_macros.cfg:286
 msgid "You know what, forget I asked. Kyobaine, maybe you should just go get your own clothes after all."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:266
+#: A_New_Order/macros/elvish_macros.cfg:287
 msgid "Well that was a waste of time. All that talk just to get back to what my original plan was in the first place..."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:269
+#: A_New_Order/macros/elvish_macros.cfg:290
 msgid "Hey Karen, I was just wondering if you could help explain human clothing measurements to Kyobaine here?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:270
+#: A_New_Order/macros/elvish_macros.cfg:291
 msgid "Oooh, clothes shopping, are we? Got a big date coming up, eh, Kyobaine?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:271
+#: A_New_Order/macros/elvish_macros.cfg:292
 msgid "What? No! I'm just cold and need a cloak."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:272
+#: A_New_Order/macros/elvish_macros.cfg:293
 msgid "Oh, a cloak, that's all? You don't even need sizes for those, they're mostly one-size-fits-all. Size info would really only be necessary if you were going to replace your entire robe."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:273
+#: A_New_Order/macros/elvish_macros.cfg:294
 msgid "Oh. So, what was this fuss about sizes all about again? ...Gawen?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:274
+#: A_New_Order/macros/elvish_macros.cfg:295
 msgid "What? I was just trying to be helpful."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:275
+#: A_New_Order/macros/elvish_macros.cfg:296
 msgid "(*<i>snickers</i>*)"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:276
+#: A_New_Order/macros/elvish_macros.cfg:297
 msgid "Well, I think I shall be fine buying my own cloak, Gawen. You just stay here while I go find a tailor."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:279
+#: A_New_Order/macros/elvish_macros.cfg:300
 msgid "I think I saw a tailor just back that way that you could buy something from."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:307
+#: A_New_Order/macros/elvish_macros.cfg:328
 msgid "Uh... she <i>is</i> coming back, isn't she?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. [then]
-#: A_New_Order/macros/elvish_macros.cfg:314
+#: A_New_Order/macros/elvish_macros.cfg:335
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:314
 msgid "...yes?"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:315
+#: A_New_Order/macros/elvish_macros.cfg:336
 msgid "...!"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:316
+#: A_New_Order/macros/elvish_macros.cfg:337
 msgid "...why do you look so surprised? I <i>did</i> say I was going to buy better winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. Gawen is tongue-tied by Kyobaine's reappearance:
-#: A_New_Order/macros/elvish_macros.cfg:318
+#: A_New_Order/macros/elvish_macros.cfg:339
 msgid "...yes, well, indeed! Carry on, then!"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:319
+#: A_New_Order/macros/elvish_macros.cfg:340
 msgid "Humans... their reactions can be so strange sometimes..."
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:325
+#: A_New_Order/macros/elvish_macros.cfg:346
 msgid "Hey, give back my gold!"
 msgstr ""
 
 #. [event]: id=Kyobaine_recall_clothing_banter
-#: A_New_Order/macros/elvish_macros.cfg:329
+#: A_New_Order/macros/elvish_macros.cfg:350
 msgid "Stingy bastard."
 msgstr ""
 
