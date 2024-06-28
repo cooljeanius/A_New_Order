@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-06-16 04:39 UTC\n"
+"POT-Creation-Date: 2024-06-28 13:17 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11114,7 +11114,7 @@ msgstr ""
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:86
 #: A_New_Order/scenarios/14b_Bontom.cfg:25
-#: A_New_Order/scenarios/14b_Bontom.cfg:995
+#: A_New_Order/scenarios/14b_Bontom.cfg:1024
 msgid "Healing skill"
 msgstr ""
 
@@ -13447,19 +13447,19 @@ msgstr ""
 
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:27
-#: A_New_Order/scenarios/14b_Bontom.cfg:997
+#: A_New_Order/scenarios/14b_Bontom.cfg:1026
 msgid "This unit has learned basic healing skills: it can cure poison and up to 2 HP of wounded friendly units."
 msgstr ""
 
 #. [heals]: id=basic_healing
 #: A_New_Order/scenarios/14b_Bontom.cfg:39
-#: A_New_Order/scenarios/14b_Bontom.cfg:1009
+#: A_New_Order/scenarios/14b_Bontom.cfg:1038
 msgid "basic healing"
 msgstr ""
 
 #. [heals]: id=basic_healing
 #: A_New_Order/scenarios/14b_Bontom.cfg:40
-#: A_New_Order/scenarios/14b_Bontom.cfg:1010
+#: A_New_Order/scenarios/14b_Bontom.cfg:1039
 msgid "heals +2, cures poison"
 msgstr ""
 
@@ -13495,8 +13495,8 @@ msgstr ""
 
 #. [unit]: id=Old Woman, type=Old Peasant Woman
 #: A_New_Order/scenarios/14b_Bontom.cfg:63
-#: A_New_Order/scenarios/14b_Bontom.cfg:931
-#: A_New_Order/scenarios/14b_Bontom.cfg:970
+#: A_New_Order/scenarios/14b_Bontom.cfg:960
+#: A_New_Order/scenarios/14b_Bontom.cfg:999
 msgid "Old woman"
 msgstr ""
 
@@ -14042,41 +14042,56 @@ msgstr ""
 msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
 msgstr ""
 
-#. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:913
-msgid "The outlaws are defeated!"
+#. [then]
+#: A_New_Order/scenarios/14b_Bontom.cfg:925
+msgid "I am saved!"
+msgstr ""
+
+#. [else]
+#: A_New_Order/scenarios/14b_Bontom.cfg:929
+msgid "It's a hollow victory, defeating Reme's captors without him among our ranks..."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:939
+msgid "The outlaws are defeated!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14b_Bontom.cfg:941
+msgid "We saved Reme, but do not have him here with us for our victory? What happened?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14b_Bontom.cfg:968
 msgid "Akladian? Go away. Since the death of my old man I do not talk to Akladians."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:944
-#: A_New_Order/scenarios/14b_Bontom.cfg:979
+#: A_New_Order/scenarios/14b_Bontom.cfg:973
+#: A_New_Order/scenarios/14b_Bontom.cfg:1008
 msgid "What do you want? I have already taught one of your people how to cure. That should be enough."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:946
+#: A_New_Order/scenarios/14b_Bontom.cfg:975
 msgid "What do you want? I have already told you I speak to no Akladians since my husband, poor old soul, have died."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:981
+#: A_New_Order/scenarios/14b_Bontom.cfg:1010
 msgid "Ooo, who's there? The avengers from Freetown on a mission, huh?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:983
-#: A_New_Order/scenarios/14b_Bontom.cfg:986
-#: A_New_Order/scenarios/14b_Bontom.cfg:988
+#: A_New_Order/scenarios/14b_Bontom.cfg:1012
+#: A_New_Order/scenarios/14b_Bontom.cfg:1015
+#: A_New_Order/scenarios/14b_Bontom.cfg:1017
 msgid "Yes, old woman, we are from Freetown. You can go back to your village, you are safe now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:990
+#: A_New_Order/scenarios/14b_Bontom.cfg:1019
 msgid "Ha, ha, ha. Indeed I am, since it seems to me you are taking care of orcs and Akladians. You know what, young fellow: in exchange for what you did for this poor village, I will teach you few tricks about herbs."
 msgstr ""
 
