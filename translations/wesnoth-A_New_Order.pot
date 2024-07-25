@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-06-28 13:45 UTC\n"
+"POT-Creation-Date: 2024-07-25 03:36 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -469,7 +469,7 @@ msgstr ""
 
 #. [unit_type]: id=Akladian Wiseman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:32
-msgid "Akladian Wisemans are those very few from the tribes, who study herbs and ways to heal, instead of how to harm and kill people."
+msgid "Akladian Wisemen are those very few from the tribes, who study herbs and ways to heal, instead of how to harm and kill people."
 msgstr ""
 
 #. [unit_type]: id=Akladian Leader, race=akladian
@@ -499,7 +499,7 @@ msgstr ""
 
 #. [unit_type]: id=Akladian Holyman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Holyman.cfg:28
-msgid "Devoting their whole life to the task of healing and curing, Akladian Holymans are respected amongst the tribes, and useful to Akladian lords."
+msgid "Devoting their whole life to the task of healing and curing, Akladian Holymen are respected amongst the tribes, and useful to Akladian lords."
 msgstr ""
 
 #. [unit_type]: id=Akladian Darknite, race=akladian
@@ -1683,7 +1683,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:1147
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:352
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:540
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:298
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:299
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:256
 msgid "Death of Lady Lorin"
@@ -1696,7 +1696,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:504
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:356
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:544
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:302
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:303
 msgid "Death of Reme Carrenemoe"
 msgstr ""
 
@@ -3229,7 +3229,7 @@ msgstr ""
 #: A_New_Order/macros/ano-14macros.cfg:201
 #: A_New_Order/macros/messages.cfg:135
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:92
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:58
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:59
 msgid "Burass"
 msgstr ""
 
@@ -4786,7 +4786,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:492
 #: A_New_Order/scenarios/27_Orannon.cfg:738
 #: A_New_Order/scenarios/27_Orannon.cfg:1139
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:294
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:295
 msgid "Kill all enemy leaders"
 msgstr ""
 
@@ -8112,7 +8112,7 @@ msgstr ""
 #. [unit]: id=Reme Carrenemoe, type=Akladian Chieftain
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:101
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:155
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:142
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:143
 msgid "Reme Carrenemoe"
 msgstr ""
 
@@ -8124,7 +8124,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1326
 #: A_New_Order/scenarios/06_Separation.cfg:59
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:138
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:32
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:33
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:59
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:118
 msgid "Lady Lorin"
@@ -16719,7 +16719,7 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:27
-msgid "After Mal-Ravanal's defeat, Grekulak was trapped in the swamps, spending his days roving in the morass and quagmire. Finally he came up with an idea. The undead had been storming the world of Wesnoth for millenia. They never succeeded, and often a very small group of brave living creatures - be they elves, humans or dwarves - were able to defeat large hordes of undead. "
+msgid "After Mal-Ravanal's defeat, Grekulak was trapped in the swamps, spending his days roving in the morass and quagmire. Finally he came up with an idea. The undead had been storming the world of Wesnoth for millennia. They never succeeded, and often a very small group of brave living creatures - be they elves, humans or dwarves - were able to defeat large hordes of undead. "
 msgstr ""
 
 #. [part]
@@ -16999,143 +16999,143 @@ msgid "The Swamp Things"
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:17
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:18
 msgid "The party entered the swamps and woods of Saoren Duc with heavy hearts."
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Ssumar
 #. [scenario]: id=05_The_Swamp_Things
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:83
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:261
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:84
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:262
 msgid "Ssumar"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:268
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:269
 msgid "I have the strangest feeling, as though someone was watching us from the bushes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:269
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:270
 msgid "Humanssss! Leave thessse foressts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:270
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:271
 msgid "We can't! Our enemies are hot on our heels. We only wish to cross your swamp and then you will hear no more from us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:271
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:272
 msgid "Ssswampss you leave now! Hear about you no more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:272
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:273
 msgid "Reme, leave negotiations to me, I am far more experienced. Lizards! You are about to be exterminated! Prepare to meet your destiny!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:273
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:274
 msgid "(<i>To himself</i>) No wonder no one really liked her..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:288
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:289
 msgid "I am not sure whether we have enough gold for this endeavor. I wish we'd gotten more in previous battles, at least 200."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:316
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:358
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:317
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:359
 msgid "Wait! Ssspare my life, for I know sssomething..."
-msgstr ""
-
-#. [then]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:323
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:365
-msgid "Interesting. Speak, and maybe I will spare your worthless head, inhuman ungodly beast."
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:324
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:366
-msgid "The orcss are coming in great numbersss... They are numerousss, they are hiding in the hillss waiting for the right moment to come..."
+msgid "Interesting. Speak, and maybe I will spare your worthless head, inhuman ungodly beast."
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:325
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:367
-msgid "What moment?"
+msgid "The orcss are coming in great numbersss... They are numerousss, they are hiding in the hillss waiting for the right moment to come..."
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:326
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:368
-msgid "What moment I do not know, but I know that they are expecting a human envoy."
+msgid "What moment?"
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:327
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:369
-msgid "Human envoy? That's impossible."
+msgid "What moment I do not know, but I know that they are expecting a human envoy."
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:328
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:370
-msgid "If it isss impossssible, then they will wait a long time... will you let me live now?"
+msgid "Human envoy? That's impossible."
 msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:329
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:371
-msgid "Hide in your quagmire, lizard thing."
+msgid "If it isss impossssible, then they will wait a long time... will you let me live now?"
 msgstr ""
 
-#. [else]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:336
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:378
-msgid "We already know everything we need to know. Your friend had told us about a great army of orcs, what else you could possibly know?"
+#. [then]
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:330
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:372
+msgid "Hide in your quagmire, lizard thing."
 msgstr ""
 
 #. [else]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:337
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:379
+msgid "We already know everything we need to know. Your friend had told us about a great army of orcs, what else you could possibly know?"
+msgstr ""
+
+#. [else]
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:338
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:380
 msgid "I know where we hide the gold. Humanss, you love gold, will you ssave my life if I show you?"
 msgstr ""
 
 #. [else]
 #. Lorin is mad that she is starting to pick up saurian speech patterns:
 #. Lorin is mad that she is starting to pick up saurian speech patterns:
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:339
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:381
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:340
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:382
 msgid "Seems a fair deal. Show usss... blast it... show us the gold and you may leave."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:345
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:387
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:346
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:388
 msgid "You have resssssieved $gold_amt gold piesssses."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:394
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:395
 msgid "My lady, we have found some gold Saurians were hiding. They probably earned it by robbing the humans living nearby."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:395
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:396
 msgid "Oh, so I am still 'my lady' to you? Good. We may have use for the gold in future."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:396
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:397
 msgid "I really don't know what 'we' you have in mind."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:402
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:403
 msgid "You have received $end_gold_amt gold pieces."
 msgstr ""
 
