@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-08-06 02:57 UTC\n"
+"POT-Creation-Date: 2024-08-19 00:36 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -355,7 +355,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Protector, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:4
-#: A_New_Order/_main.cfg:60
+#: A_New_Order/_main.cfg:63
 msgid "Akladian Protector"
 msgstr ""
 
@@ -414,7 +414,7 @@ msgstr ""
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:960
-#: A_New_Order/_main.cfg:57
+#: A_New_Order/_main.cfg:60
 msgid "Akladian Clansman"
 msgstr ""
 
@@ -453,7 +453,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:4
-#: A_New_Order/_main.cfg:58
+#: A_New_Order/_main.cfg:61
 msgid "Akladian Warrior"
 msgstr ""
 
@@ -570,7 +570,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Shieldguard, race=akladian
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:4
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:62
 msgid "Akladian Shieldguard"
 msgstr ""
 
@@ -1683,7 +1683,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:746
 #: A_New_Order/scenarios/27_Orannon.cfg:1147
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:352
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:540
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:541
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:299
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:256
@@ -1696,7 +1696,7 @@ msgstr ""
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:391
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:504
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:356
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:544
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:545
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:303
 msgid "Death of Reme Carrenemoe"
 msgstr ""
@@ -3010,7 +3010,7 @@ msgstr ""
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:217
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:215
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:348
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:536
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:537
 msgid "Death of Gawen Hagarthen"
 msgstr ""
 
@@ -3409,8 +3409,8 @@ msgstr ""
 #. [unit]: id=Assassin
 #: A_New_Order/macros/messages.cfg:186
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:659
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:431
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:575
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:432
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:576
 msgid "Assassin"
 msgstr ""
 
@@ -3832,7 +3832,7 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:300
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:62
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:63
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:126
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:127
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:100
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:45
 msgid "Gawen Hagarthen"
@@ -8112,7 +8112,7 @@ msgstr ""
 
 #. [unit]: id=Reme Carrenemoe, type=Akladian Chieftain
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:101
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:155
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:156
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:143
 msgid "Reme Carrenemoe"
 msgstr ""
@@ -8124,7 +8124,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:25
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1326
 #: A_New_Order/scenarios/06_Separation.cfg:59
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:138
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:33
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:59
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:118
@@ -16345,335 +16345,336 @@ msgid "Content Note: This campaign contains mature themes, some of which may be 
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:33
+#. Now into the actual story part, starting with Lorin speaking to Gawen:
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:34
 msgid "Moments slowly lengthen into hours. Hope is slipping through my fingers..."
 msgstr ""
 
 #. [part]
 #. Lorin speaking to Gawen:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:39
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:40
 msgid "Do you hear me, my son? I am losing hope, you must awaken... it was supposed to be just a routine show of force; kill a few rebels, scare the rest. Now your father is slain and you are lying here, not stirring, for... how many days now? I don't even know if you can hear me or if you care. It's so strange to call a man who is just few years younger 'son.' I wish I knew your real mother; at least then I would know with whom I am competing."
 msgstr ""
 
 #. [part]
 #. "Our people" = the Akladians:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:44
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:45
 msgid "Our people came here from the eastern lands long before my birth. Our people's destiny is to rule the world."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:57
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:58
 msgid "Your grandfather smashed the underling armies in the field and stormed their castles. They were weak while we were strong. Divided, while we were unified. God gave us our destiny; they foolishly trusted mages to alter theirs. They were truly destined to be our slaves."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:82
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:83
 msgid "We burned their palaces, towns, and castles; there was nothing worthy there. They told us that they put their legends and wisdom on paper, it was as though they thought they could imprison history in their books. We burned them all. Their poetry, wisdom, and history - their entire culture - burned to ashes. And with them, that most irritating underling quality - hope."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:105
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:106
 msgid "I was only five when your grandfather died and divided his kingdom among his sons, six when your father quelled the first rebellion. I never understood why he chose your mother... was it pure physical attraction, or an attempt to appease the conquered by marrying a woman of their nobility? If it was indeed the latter that he intended, he failed miserably; the underlings' hatred for us only increased, and our own people were uneasy with having such a queen."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:109
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:110
 msgid "When your mother died, I was chosen from the Gallorae Clan as your father's next wife. I am not certain whether or not this was an act to appease the Clans, but he must have wanted an heir whom our people would not question. My duty was to bear him that son, and I failed. Our people strayed from the old ways, and God turned his back on us as we had to him. Glutted upon land, money, and slaves, the weaker Akladian lords lost their armies and lands in combat with the underlings."
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:113
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:114
 msgid "And now you lie here, defenseless and vulnerable. Your father's death has shown me how tenuous my position is, and how despised you are. Behind your back they call you a mixling, a bastard, a creature not fit to live, let alone to sit on the throne. And as for me... if you die, I would be just the wife of a despised king, stepmother of a hated heir; my death will be all but assured. Had I given birth, I would be your mortal enemy, but I have not. I know there is no love between us, but only together is there any hope..."
 msgstr ""
 
 #. [unit]: id=Eol Areon, type=Akladian Protector, type=Akladian Shieldguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:173
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:174
 msgid "Eol Areon"
 msgstr ""
 
 #. [unit]: id=Iree Rothe, type={ON_DIFFICULTY4 (Akladian Fastfoot) (Akladian Light Infantry) (Akladian Warrior) (Akladian Clansman)}
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:192
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:193
 msgid "Iree Rothe"
 msgstr ""
 
 #. [unit]: id=Reuke Rothe, type=Akladian Pikeneer, type=Akladian Light Infantry
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:207
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:208
 msgid "Reuke Rothe"
 msgstr ""
 
 #. [unit]: id=Strome Ohavenort, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:226
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:227
 msgid "Strome Ohavenort"
 msgstr ""
 
 #. [unit]: id=Reonee, type=Akladian Homeguard, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:241
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:242
 msgid "Reonee"
 msgstr ""
 
 #. [unit]: id=Raoke, type=Akladian Warrior, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:260
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:261
 msgid "Raoke"
 msgstr ""
 
 #. [unit]: id=Oyre, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:286
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:287
 msgid "Oyre"
 msgstr ""
 
 #. [unit]: id=Aueree, type=Akladian Homeguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:305
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:306
 msgid "Aueree"
 msgstr ""
 
 #. [side]: id=Rebel, type=City Militia, type=Lieutenant
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:320
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:513
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:321
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
 msgid "Heinric the Redbeard"
 msgstr ""
 
 #. [unit]: id=Militiaman, type=City Militia
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:349
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:350
 msgid "Militiaman"
 msgstr ""
 
 #. [unit]: id=Militiaman, type=Swordsman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:367
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:368
 msgid "Swords-wielding Militiaman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:500
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:501
 msgid "He has regained consciousness, my lady!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:501
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
 msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
 msgid "I feel weak... sick... (<i>pause</i>) ...I can't remember anything... nothing. Who am I?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
 msgid "I fear the blade which wounded him was poisoned, my lady.  We must wait here and pray that our God shows him mercy. <small>(<i>Whispering</i>) And then we shall bury him with all ceremonies.</small>"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
 msgid "No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
 msgid "He will not make it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:507
 msgid "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even sacrifice so much as a mouse ever again! Do you hear me, God? Do you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:507
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
 msgid "Gawen, get up!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
 msgid "Yes... But... I can't remember anything... Who am I?! Who are you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:510
 msgid "I am Lorin, your mother, the only person whom you can trust. These are your few loyal soldiers, who remained when everyone else deserted us. You are Gawen Hagarthen, the rightful king of Vakladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:510
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
 msgid "My mother? You seem... a bit young."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:512
 msgid "I am only your step-mother, but there is no time for more talk. We have to reach the town and find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:513
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
 msgid "Look, Akladians! To arms! Their king is dead; it's time to kill them all and be done with our slavery!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty; Reme's hints should be helpful:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:516
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:517
 msgid "My lord, if you can't remember anything, then permit me a few suggestions. While our troops are not the armoured types the Wesnothians have, they are far more resistant to pain and faster than the craven underlings. Remember to seek advantageous terrain; it's good to defend on the hills or in villages or forests. Do not charge blindly into the enemy; we have no means to replenish our army here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:517
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:518
 msgid "I see two good defensive positions here. One is to the north, near the village; the second is on the hills to the east of us. Use your troops to cover your back. Clansmen are not experienced enough to control terrain next to them, so you must put them adjacent to one another to block the enemy."
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty; bare minimum of hints:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:521
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:522
 msgid "My lord, if you can't remember anything, then permit me a few suggestions. Let's try to find our way to a village. And remember to keep yourself surrounded with your own troops so that the enemy can't slip in."
 msgstr ""
 
 #. [event]
 #. HARD difficulty; I'm being a bit tongue-in-cheek with the text here to mock how the easier 2 difficulties had hints here:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:525
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:526
 msgid "My lord, if you can't remember anything, then, well, I guess... I don't know what to tell you."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:532
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:533
 msgid "Gawen Hagarthen reaches the enemy keep"
 msgstr ""
 
 #. [objectives]
 #. this description of mechanics is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:551
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:552
 msgid "You cannot recruit new units in this scenario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:610
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:611
 msgid "These ashes are still warm... he has to be somewhere nearby..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:623
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:624
 msgid "I feel so sick, like poison is burning inside me..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:624
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:625
 msgid "Try to resist for just a bit longer, my son!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:631
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:632
 msgid "He will not make it!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:632
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:633
 msgid "My son! Please, don't give up!"
 msgstr ""
 
 #. [unit]: id=Medic, type=Mage
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:673
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:696
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:698
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:735
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:674
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:697
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:699
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:736
 msgid "Medic"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:685
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:686
 msgid "My lady, we have found a medic!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:694
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:695
 msgid "Underling! My son is dying. If you heal him, I will spare your life. If not, I will burn you and your family alive, do you understand?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:696
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:697
 msgid "Don't try to intimidate me. I am too old to be afraid of death, I have no family. I will try to heal your son because of my vows as a healer, not because of your threats, Akladian lady."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:697
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:698
 msgid "Your motives are of no concern to me, just do it!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:698
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:699
 msgid "Hold on a moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:735
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:736
 msgid "...and there you go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:736
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:737
 msgid "Thank you. (*<i>faints</i>*)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:781
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:782
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:790
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:791
 msgid "Ah, a village..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:791
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:792
 msgid "A medic! Somebody find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:792
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:793
 msgid "Unfortunately, it seems that there are no medics here... we will most likely have to wait until we reach the enemy encampment before we can cure Gawen's poison..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:841
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:842
 msgid "I can't see... it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:842
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:843
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:858
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:860
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:859
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:861
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so have Reme give an additional hint:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:862
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:864
 msgid "Do not forget to withdraw wounded units to villages, where they can rest and regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:875
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:877
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:887
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:889
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:900
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:902
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:908
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:910
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
@@ -18154,38 +18155,38 @@ msgstr ""
 
 #. [campaign]: id=A_New_Order
 #. [editor_group]: id=ano
-#: A_New_Order/_main.cfg:38
+#: A_New_Order/_main.cfg:41
 #: A_New_Order/_editor.cfg:14
 msgid "A New Order"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:39
+#: A_New_Order/_main.cfg:42
 msgid "ANO"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:57
+#: A_New_Order/_main.cfg:60
 msgid "Trivial"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:58
+#: A_New_Order/_main.cfg:61
 msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:62
 msgid "Difficult"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:60
+#: A_New_Order/_main.cfg:63
 msgid "Impossible"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:75
+#: A_New_Order/_main.cfg:78
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying barbarians are on the brink of civil war, the seeds of Wesnothian rebellion are kept alive by old legends, while bandits and Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these disparate factions against a common foe?\n"
 "\n"
