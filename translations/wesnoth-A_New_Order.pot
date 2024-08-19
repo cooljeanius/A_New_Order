@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-08-19 00:36 UTC\n"
+"POT-Creation-Date: 2024-08-19 00:59 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1317,43 +1317,51 @@ msgstr ""
 msgid "No, nothing. It doesn't matter. I... I'm sorry, but I can't... I will join you later."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:56
+#: A_New_Order/macros/conversations.cfg:55
 msgid "Gawen, I've never seen your step-mother like this before. I think she is sick. Very sick. I saw her vomiting yesterday."
 msgstr ""
 
 #. Gawen is reacting to Ruvio informing him that he saw Lorin vomiting yesterday; the way he intended
 #. to complete the "Is she..." sentence at the end is left intentionally ambiguous so that Ruvio can complete
 #. it with his own assumption that Gawen meant "...poisoned?" to complete it.
-#: A_New_Order/macros/conversations.cfg:60
+#: A_New_Order/macros/conversations.cfg:59
 msgid "But... What happened? Why? Is she..."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:61
+#: A_New_Order/macros/conversations.cfg:60
 msgid "Poisoned? It's not impossible. We have Akladians in our army, don't we?"
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:62
+#: A_New_Order/macros/conversations.cfg:61
 msgid "My lord, I do not wish to disturb you, but our scouts have reported about the enemy forces."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:63
+#: A_New_Order/macros/conversations.cfg:62
 msgid "Hmm... It seems we will have to fight this army to continue our journey. It should be easy."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:65
-#: A_New_Order/macros/conversations.cfg:67
+#: A_New_Order/macros/conversations.cfg:64
+#: A_New_Order/macros/conversations.cfg:66
 msgid "My lord, our scouts also told us that we are being followed by a very large army of Akladians. Someone has noticed us. Maybe our successes have been too much. We have to win quickly, or we will be crushed by another foe."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:69
+#: A_New_Order/macros/conversations.cfg:68
 msgid "It will be have to be a quick and decisive victory, then."
 msgstr ""
 
-#: A_New_Order/macros/conversations.cfg:73
-msgid "Now that we have quit Raedwood forest, we should find Deorien. We know he is somewhere in Okladia, another kingdom that was founded by Akladians, and is ruled by your cousins from the Hagarthen line. But where Deorien is exactly... well, we have no idea."
+#: A_New_Order/macros/conversations.cfg:72
+msgid "I am ready to take Lorin's place in your battle formation, my lord."
 msgstr ""
 
 #: A_New_Order/macros/conversations.cfg:74
+msgid "If only we had someone to take Lorin's place..."
+msgstr ""
+
+#: A_New_Order/macros/conversations.cfg:80
+msgid "Now that we have quit Raedwood forest, we should find Deorien. We know he is somewhere in Okladia, another kingdom that was founded by Akladians, and is ruled by your cousins from the Hagarthen line. But where Deorien is exactly... well, we have no idea."
+msgstr ""
+
+#: A_New_Order/macros/conversations.cfg:81
 msgid "That's why I suggest we visit the Oracle, who, being a mage herself, may know where Deorien is."
 msgstr ""
 
